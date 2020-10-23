@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondoseis"
+    tools:context=".ActivityFormulario">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/txtnombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="68dp"
+                android:layout_marginTop="32dp"
+                android:ems="10"
+                android:hint="Nombre"
+                android:inputType="textPersonName"
+                android:textColor="@android:color/background_dark"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="88dp"
+                tools:layout_editor_absoluteY="43dp" />
+
+            <EditText
+                android:id="@+id/txtapellido"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="68dp"
+                android:layout_marginTop="32dp"
+                android:ems="10"
+                android:hint="Apellido"
+                android:inputType="textPersonName"
+                android:textColor="@android:color/background_dark"
+                tools:layout_editor_absoluteX="90dp"
+                tools:layout_editor_absoluteY="114dp" />
+
+            <RadioGroup
+                android:id="@+id/rggeneros"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="68dp"
+                android:layout_marginTop="32dp"
+                tools:layout_editor_absoluteX="90dp"
+                tools:layout_editor_absoluteY="214dp">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="68dp"
+                    android:layout_marginTop="32dp"
+                    android:text="GENERO"
+                    android:textColor="@android:color/background_dark"
+                    android:textSize="18sp" />
+
+                <RadioButton
+                    android:id="@+id/rbmasculino"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Masculino"
+                    android:textColor="@android:color/background_dark" />
+
+                <RadioButton
+                    android:id="@+id/rbfemenino"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Femenino"
+                    android:textColor="@android:color/background_dark" />
+            </RadioGroup>
+
+            <EditText
+                android:id="@+id/txtemail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="68dp"
+                android:layout_marginTop="32dp"
+                android:ems="10"
+                android:hint="Ejemplo@gmail.com"
+                android:inputType="textEmailAddress"
+                android:textColor="@android:color/background_dark"
+                tools:layout_editor_absoluteX="89dp"
+                tools:layout_editor_absoluteY="322dp" />
+
+            <EditText
+                android:id="@+id/txttelefono"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="68dp"
+                android:layout_marginTop="32dp"
+                android:ems="10"
+                android:hint="5691234567"
+                android:inputType="phone"
+                android:textColor="@android:color/background_dark"
+                tools:layout_editor_absoluteX="87dp"
+                tools:layout_editor_absoluteY="389dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:passwordToggleEnabled="true">
+
+                <EditText
+                    android:id="@+id/txtpassuno"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="68dp"
+                    android:layout_marginTop="32dp"
+                    android:ems="10"
+                    android:hint="Contraseña"
+                    android:inputType="textPassword"
+                    android:textColor="@android:color/background_dark"
+                    tools:layout_editor_absoluteX="84dp"
+                    tools:layout_editor_absoluteY="466dp" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:passwordToggleEnabled="true">
+
+                <EditText
+                    android:id="@+id/txtpassdos"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="68dp"
+                    android:layout_marginTop="32dp"
+                    android:ems="10"
+                    android:hint="Repetir Contraseña"
+                    android:inputType="textPassword"
+                    android:textColor="@android:color/background_dark"
+                    tools:layout_editor_absoluteX="83dp"
+                    tools:layout_editor_absoluteY="531dp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/btnenviar"
+                android:layout_width="194dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="130dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/button_rounded"
+                android:text="Registrar"
+                android:textColor="@android:color/background_dark" />
+
+            <TextView
+                android:id="@+id/txtaviso"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="62dp"
+                android:layout_marginTop="21dp"
+                android:text=""
+                android:textSize="14sp"
+                tools:layout_editor_absoluteX="54dp"
+                tools:layout_editor_absoluteY="20dp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
