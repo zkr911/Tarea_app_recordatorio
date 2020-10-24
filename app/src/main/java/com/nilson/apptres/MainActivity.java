@@ -36,7 +36,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-
+            Intent enviaralregistro = new Intent(MainActivity.this,ActivityMenu.class);
+            startActivity(enviaralregistro);
 
 
             }

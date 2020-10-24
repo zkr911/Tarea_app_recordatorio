@@ -103,6 +103,7 @@ public class ActivityFormulario extends AppCompatActivity {
             public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
 
                 txtnombre.setText(txtnombre.getText().toString().replace(" ","").trim());
+
                 if(charSequence.length() == 0){
                     Toast.makeText(ActivityFormulario.this,"No ingreso Apellido",Toast.LENGTH_LONG).show();
                     rbmasculino.setEnabled(false);

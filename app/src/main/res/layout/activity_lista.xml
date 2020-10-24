@@ -9,8 +9,8 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerlista"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="383dp"
+        android:layout_height="567dp"
         android:layout_marginStart="1dp"
         android:layout_marginTop="1dp"
         android:layout_marginEnd="1dp"

@@ -23,9 +23,9 @@ public class adaptadorlista extends RecyclerView.Adapter<adaptadorlista.ViewHold
     @Override
     public adaptadorlista.ViewHolderDatos onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
 
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.reycler_item_lista,parent,false);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.reycler_item_lista,null,false);
 
-        //ViewHolderDatos viewHolderDatos = new ViewHolderDatos(view);
+
 
         return new ViewHolderDatos(view);
     }
@@ -49,7 +49,7 @@ public class adaptadorlista extends RecyclerView.Adapter<adaptadorlista.ViewHold
 
     public class ViewHolderDatos extends RecyclerView.ViewHolder {
 
-        //ImageView imgproducto;
+
         TextView textViewfechainicial,textViewfechatermino,textViewhora;
 
         public ViewHolderDatos(@NonNull View itemView) {
