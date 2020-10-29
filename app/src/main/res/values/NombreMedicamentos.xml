@@ -1,0 +1,2442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="medicamentos">
+
+        <item>Aspirina 100mg</item>
+        <item>Aspirina 200mg</item>
+        <item>áspirina 300mg</item>
+        <item>	Nombre Producto	</item>
+        <item>	SPERTI PREPARATION H UNGÜENTO TÓPICO	</item>
+        <item>	INFLUVAC VACUNA ANTI - INFLUENZA SUSPENSIÓN INYECTABLE	</item>
+        <item>	BACITOPIC UNGÜENTO DÉRMICO	</item>
+        <item>	FLUAD VACUNA ANTIGRIPAL SUSPENSIÓN INYECTABLE	</item>
+        <item>	GC-FLU VACUNA ANTIINFLUENZA INACTIVADA, FRACCIONADA SUSPENSIÓN INYECTABLE	</item>
+        <item>	GC-FLU PEDIÁTRICA  VACUNA ANTIINFLUENZA  INACTIVADA FRACCIONADA SUSPENSIÓN INYECTABLE	</item>
+        <item>	FLUAZUR PEDIÁTRICO VACUNA ANTIINFLUENZA INACTIVADA SUSPENSIÓN INYECTABLE	</item>
+        <item>	BIOVAC-FLU VACUNA ANTIFLUENZA FRACCIONADA INACTIVADA SUSPENSIÓN INYECTABLE	</item>
+        <item>	VAXIGRIP VACUNA ANTIINFLUENZA INACTIVADA SUSPENSIÓN INYECTABLE	</item>
+        <item>	VAXIGRIP PEDIÁTRICO VACUNA ANTIINFLUENZA INACTIVADA SUSPENSIÓN INYECTABLE	</item>
+        <item>	DERMABIÓTICO UNGÜENTO DÉRMICO	</item>
+        <item>	PERENTERYL PEDIÁTRICO POLVO LIOFILIZADO PARA USO ORAL 250 mg	</item>
+        <item>	PERENTERYL CÁPSULAS 250 mg	</item>
+        <item>	DENTILIM SOLUCIÓN PARA COLUTORIO 0,1%	</item>
+        <item>	GESIDOL SUPOSITORIOS INFANTILES 125 mg	</item>
+        <item>	DIPROBASE CREMA TÓPICA	</item>
+        <item>	DIPROBASE LOCIÓN TÓPICA	</item>
+        <item>	UNGÜENTO ALCANFORADO	</item>
+        <item>	AGUA PARA INYECTABLES	</item>
+        <item>	POLVOS ALCALINOS VOLTA	</item>
+        <item>	DISGREN COMPRIMIDOS DE LIBERACIÓN PROLONGADA 100 mg	</item>
+        <item>	DICHLOREXAN SOLUCIÓN TÓPICA  2 %	</item>
+        <item>	FAXET SOLUCIÓN TÓPICA	</item>
+        <item>	FRESCANSOL POLVO	</item>
+        <item>	TEF-C COMPRIMIDOS EFERVESCENTES 1 g	</item>
+        <item>	TEF-C COMPRIMIDOS EFERVESCENTES 2 g	</item>
+        <item>	NOSCAPINA MAS ÁCIDO ASCÓRBICO JARABE	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 125 mg	</item>
+        <item>	A Y R EMULSIÓN DÉRMICA 5%	</item>
+        <item>	AYR CON UREA EMULSIÓN TÓPICA 10%	</item>
+        <item>	AYREMENTOL LOCIÓN TÓPICA	</item>
+        <item>	DURASOLETS UNGÜENTO OFTÁLMICO	</item>
+        <item>	GELSOLETS GEL OFTÁLMICO	</item>
+        <item>	TETRIZOLINA CLORHIDRATO SOLUCIÓN OFTÁLMICA 0,05%	</item>
+        <item>	CORPADEN COMPRIMIDOS	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 8 mg/5 mL	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	BBDENT GEL TÓPICO 7,5%	</item>
+        <item>	CARISTOP COMPUESTO PASTA DENTAL BIFLUORADA	</item>
+        <item>	CLORHEXIDINA GLUCONATO SOLUCIÓN TÓPICA 4%	</item>
+        <item>	DOLORUB CREMA TÓPICA 5%	</item>
+        <item>	ADFEN COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	ORALGENE COLUTORIO 0,12%	</item>
+        <item>	ORALGENE POLVO PARA SOLUCIÓN BUCAL	</item>
+        <item>	ORALGENE CON XILITOL COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	PROCTOGEL CREMA TÓPICA	</item>
+        <item>	TAPSIN COMPRIMIDOS	</item>
+        <item>	TAPSIN COMPUESTO POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	TAPSIN SIN CAFEÍNA PERÍODO MENSTRUAL COMPRIMIDOS	</item>
+        <item>	PARACETAMOL MAS CAFEÍNA CÁPSULAS BLANDAS	</item>
+        <item>	ARTREN GEL DÉRMICO 1%	</item>
+        <item>	CEBION 1000 COMPRIMIDOS EFERVESCENTES 1 g	</item>
+        <item>	CEBION 2000 COMPRIMIDOS EFERVESCENTES 2 g	</item>
+        <item>	CEBION CALCIO COMPRIMIDOS EFERVESCENTES	</item>
+        <item>	NEUROBIONTA COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	NUTRIZIMA GRAGEAS	</item>
+        <item>	ARTREN GEL DÉRMICO 1%	</item>
+        <item>	FELDENE GEL TÓPICO 0,5%	</item>
+        <item>	CEBION SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CEBION CÁLCICO COMPRIMIDOS EFERVESCENTES	</item>
+        <item>	VISINE SOLUCIÓN OFTÁLMICA 0,5 mg/mL	</item>
+        <item>	LEFKACID COMPRIMIDOS	</item>
+        <item>	ILIADIN SOLUCIÓN OFTÁLMICA	</item>
+        <item>	SALUBION JARABE	</item>
+        <item>	OBLEAS CHINAS LI-WU-PAT	</item>
+        <item>	PECTOVER JARABE	</item>
+        <item>	CONMEL COMPRIMIDOS 324 mg	</item>
+        <item>	PANADOL COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	PANADOL ADULTOS PLUS COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	PANADOL COMPRIMIDOS EFERVESCENTES 500 mg	</item>
+        <item>	CONMEL SUPOSITORIOS 300 mg	</item>
+        <item>	IBUEVANOL COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	ECOTRIN COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	ALCOLEX SOLUCIÓN TÓPICA 0,1%	</item>
+        <item>	CALCIO CM COMPRIMIDOS MASTICABLES	</item>
+        <item>	TRIMAX COMPRIMIDOS	</item>
+        <item>	MULTIVITAMÍNICO CON MINERALES COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	ZINCOVIT COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	LECHE DE MAGNESIA PHILLIPS REGULAR	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	TOCALM PEDIÁTRICO JARABE 15 mg/5 mL	</item>
+        <item>	MERPAL GEL TÓPICO 1,16%	</item>
+        <item>	TOCALM ADULTO JARABE 30 mg/5 mL	</item>
+        <item>	CLARAGINE COMPRIMIDOS	</item>
+        <item>	GASOPAX COMPRIMIDOS MASTICABLES	</item>
+        <item>	AGUA PARA INYECTABLES	</item>
+        <item>	VASELINA ESTÉRIL ACEITE TÓPICO	</item>
+        <item>	CALADRYL CLEAR LOCIÓN TÓPICA	</item>
+        <item>	CAPRIMIDA COMPRIMIDOS RECUBIERTOS 500 mg	</item>
+        <item>	CAPRIMIDA - D COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	NIOFEN FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	NIOFEN SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	PARACETAMOL SOLUCIÓN GOTAS ORALES 100 mg/mL	</item>
+        <item>	PURSENID GRAGEAS	</item>
+        <item>	AMBROTOS JARABE 15 mg/5 mL	</item>
+        <item>	WINASORB CAPLETAS 500 mg	</item>
+        <item>	DOLOKETAZON GEL 2,5%	</item>
+        <item>	NEOGASOL EMULSIÓN PARA GOTAS ORALES 4%	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE FORTE 30 mg/5 mL	</item>
+        <item>	ZOLBENFLASH COMPRIMIDOS	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	BENYLIN JARABE	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS RECUBIERTOS 324 mg	</item>
+        <item>	ACTIVATOR COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	ALITEN SOLUCIÓN TÓPICA	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO GEL COMPRIMIDOS 500 mg	</item>
+        <item>	COTIBIN FLU POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	DURANIL SOLUCIÓN BUCAL 0,1%	</item>
+        <item>	CLARIMIR PLUS SOLUCIÓN OFTÁLMICA	</item>
+        <item>	CROTAMITON CREMA 10%	</item>
+        <item>	CROTAMITON LOCIÓN 10%	</item>
+        <item>	PSYLLIUM PULVERIZADO + VASELINA LÍQUIDA MICROENCAPSULADA, POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	ELCAL - D CÁPSULAS	</item>
+        <item>	ELISARN LOCIÓN 5%	</item>
+        <item>	FLOGOJET GEL TÓPICO 5%	</item>
+        <item>	FLUCRIT COMPRIMIDOS	</item>
+        <item>	FLUIBRON SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	FLUJOCER COMPRIMIDOS RECUBIERTOS 324 mg	</item>
+        <item>	GASORBOL COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	KILNITS CREMA 1%	</item>
+        <item>	KILNITS SHAMPOO 1%	</item>
+        <item>	KIN CREMA 5%	</item>
+        <item>	KIN GEL 5%	</item>
+        <item>	METAMIZOL SÓDICO 300 mg COMPRIMIDOS	</item>
+        <item>	METAMIZOL SÓDICO (DIPIRONA) SUPOSITORIOS 250 mg	</item>
+        <item>	PARACETAMOL CON ÁCIDO ACETILSALICÍLICO Y CAFEÍNA COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	PARACETAMOL  JARABE 120 mg/5 mL 	</item>
+        <item>	PEDIADERM POMADA	</item>
+        <item>	POVIDONA YODADA 10% SOLUCIÓN ESPUMANTE	</item>
+        <item>	POLIVITAMÍNICO CON MINERALES JARABE	</item>
+        <item>	MAPROMIL COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	POLIVITAMÍNICO JARABE	</item>
+        <item>	REGEDERM POMADA	</item>
+        <item>	HIDRATANTE ORAL, SOLUCIÓN	</item>
+        <item>	SALES PARA REHIDRATACIÓN 60 POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	SEDOTUS JARABE	</item>
+        <item>	TIFEN PEDIÁTRICO SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	VITACAR CÁPSULAS	</item>
+        <item>	FITIBRONC JARABE	</item>
+        <item>	HANSAPLAST APÓSITO 40%	</item>
+        <item>	HANSAPLAST PARCHE AL 40%	</item>
+        <item>	CARBAMIDA PEROXIDO GEL TÓPICO 10%	</item>
+        <item>	METAPIO FILM SOLUCIÓN TÓPICA	</item>
+        <item>	GALUTEC DILUIDO COLUTORIO	</item>
+        <item>	CROWNE-F PASTA DENTAL	</item>
+        <item>	GEL SALINO ENDONASAL	</item>
+        <item>	SEDOFLAX SUSPENSIÓN ORAL PARA GOTAS 40 mg/mL	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	POMADA AZUFRADA 10%	</item>
+        <item>	GLICERINA ADULTOS SUPOSITORIOS 2,9 g	</item>
+        <item>	GLICERINA PEDIÁTRICA SUPOSITORIOS 0,875 g	</item>
+        <item>	TALCO MENTOLADO POLVO TÓPICO 2%	</item>
+        <item>	PERMETRINA CHAMPÚ PEDICULICIDA 1%	</item>
+        <item>	ALCOHOL ALCANFORADO 10% P/P	</item>
+        <item>	ALCOHOL YODADO SOLUCIÓN TÓPICA 0,25%	</item>
+        <item>	ALCOHOL YODADO 0,65%	</item>
+        <item>	AFTER BITE SOLUCIÓN USO TÓPICO	</item>
+        <item>	CARDIASA COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 75 mg	</item>
+        <item>	CARDIASA COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	CARDIASA COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN RETARDADA 324 mg	</item>
+        <item>	GLICERINA ANHIDRA SOLUCIÓN PARA GOTAS ÓTICAS	</item>
+        <item>	BREXON UNGÜENTO DÉRMICO	</item>
+        <item>	HEMOSTAT BARRA	</item>
+        <item>	SOLARCAINE LOCIÓN TÓPICA.	</item>
+        <item>	NITRATO DE POTASIO 5% GEL DENTAL	</item>
+        <item>	NITRATO DE POTASIO 5% PASTA DENTAL	</item>
+        <item>	PARACETAMOL/ÁCIDO ACETIL SALICÍLICO COMPRIMIDOS	</item>
+        <item>	SINARTROL CREMA 1,5%	</item>
+        <item>	VITAMINAS A Y D2 CREMA TÓPICA	</item>
+        <item>	VITAMINAS A D3, ALANTOÍNA Y CLORURO DE BENZETONIO EMULSIÓN DÉRMICA	</item>
+        <item>	POMADA AMARILLA OFTÁLMICA 2%	</item>
+        <item>	VITAMINA C 1000 mg COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	METAMIZOL SÓDICO SUPOSITORIOS 250 mg	</item>
+        <item>	DICLOFENACO SÓDICO GEL TÓPICO 1%	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO SUSPENSIÓN ORAL 6%	</item>
+        <item>	PARACETAMOL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	PARACETAMOL JARABE 100 mg/5 mL	</item>
+        <item>	LEVUCAL COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	GLICERINA ADULTOS SUPOSITORIOS 2,31 g	</item>
+        <item>	FRUTASAL KNOP POLVO	</item>
+        <item>	ACEITE DE HÍGADO DE BACALAO CON VITAMINAS A Y D CÁPSULAS BLANDAS	</item>
+        <item>	PARACETAMOL 250 mg SUPOSITORIOS	</item>
+        <item>	PARACETAMOL 125 mg SUPOSITORIOS	</item>
+        <item>	PARACETAMOL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	ALCOHOL YODADO 1% SOLUCIÓN PARA USO EXTERNO	</item>
+        <item>	SINFLU COMPRIMIDOS 500 mg	</item>
+        <item>	POMADA ALCANFORADA AL 10%	</item>
+        <item>	POMADA DE SALICILATO DE METILO AL 10%	</item>
+        <item>	T.R.O. SALES PARA REHIDRATACIÓN ORAL 60 mEq/L SODIO	</item>
+        <item>	DONEGAL SUSPENSIÓN PARA GOTAS 10 mg/mL	</item>
+        <item>	DUOFILM SOLUCIÓN TÓPICA	</item>
+        <item>	PANAGESIC CON CAFEÍNA 250/20	</item>
+        <item>	PANAGESIC CON CAFEÍNA 400/33 COMPRIMIDOS	</item>
+        <item>	PANAGESIC COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	PANAGESIC COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	PANAGESIC JARABE 160 mg/5 mL	</item>
+        <item>	PANAGESIC SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	SICATREX CREMA DÉRMICA	</item>
+        <item>	SOLARCAINE ALOE EXTRA GEL TÓPICO CON LIDOCAÍNA	</item>
+        <item>	CLORHEXIDINA CLORHIDRATO NOSCAPINA COMPRIMIDOS MASTICABLES	</item>
+        <item>	CLORHEXIDINA CLORHIDRATO COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	MADECASSOL CREMA 1%	</item>
+        <item>	AGUA DEL CARMEN SOLUCIÓN ORAL	</item>
+        <item>	BÁLSAMO ANALGÉSICO PASTEUR UNGÜENTO TÓPICO	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	FLUDROP SOLUCIÓN NASAL 0,9%	</item>
+        <item>	ADOLEXMED - CELL COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	FRUNALIA POLVO EFERVESCENTE	</item>
+        <item>	LECHE DE MAGNESIA PASTEUR SUSPENSIÓN ORAL 7,5%	</item>
+        <item>	TABLETAS ANTIÁCIDAS PASTEUR COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	RETINOL + TIAMINA CLORHIDRATO + RIBOFLAVINA + PIRIDOXINA CLORHIDRATO + ÁCIDO ASCÓRBICO + ERGOCALCIFEROL + ÁCIDO FÓLICO + NICOTINAMIDA + PANTOTENATO CÁLCICO JARABE	</item>
+        <item>	RETINOL + TIAMINA CLORHIDRATO + RIBOFLAVINA + PIRIDOXINA CLORHIDRATO + ÁCIDO ASCÓRBICO + ERGOCALCIFEROL + ÁCIDO FÓLICO + NICOTINAMIDA + PANTOTENATO CÁLCICO COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	MENTHOSE UNGÜENTO	</item>
+        <item>	NAPROXENO SUPOSITORIOS INFANTILES 50 mg	</item>
+        <item>	PECTORAL PASTEUR JARABE 20 mg/mL	</item>
+        <item>	VISIOCALM SOLUCIÓN OFTÁLMICA	</item>
+        <item>	PIRETANYL COMPRIMIDOS	</item>
+        <item>	NAPROXENO COMPRIMIDOS RECUBIERTOS 100 mg	</item>
+        <item>	SANOVAL - TAB COMPRIMIDOS RECUBIERTOS 275 mg	</item>
+        <item>	TAPSIN COMPUESTO DÍA PLUS POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	TAPSIN COMPUESTO NOCHE PLUS POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	MINTAGLOS POMADA DÉRMICA	</item>
+        <item>	TÓNICO PASTEUR JARABE	</item>
+        <item>	ORTOXINE SABOR FRAMBUESA COMPRIMIDOS DE DISOLUCIÓN BUCAL 5 mg.	</item>
+        <item>	ORTOXINE SABOR NARANJA COMPRIMIDOS DE DISOLUCIÓN BUCAL 5 mg.	</item>
+        <item>	ORTOXINE SABOR MENTOL COMPRIMIDOS DE DISOLUCIÓN BUCAL 5 mg	</item>
+        <item>	ORTOXINE SABOR MIEL + LIMÓN COMPRIMIDOS DE DISOLUCIÓN BUCAL 5 mg	</item>
+        <item>	TRICLOSÁN JABÓN LÍQUIDO 0,5%	</item>
+        <item>	ALCOHOL GEL ANTISÉPTICO 75%	</item>
+        <item>	CLORHEXIDINA GLUCONATO JABÓN LÍQUIDO 2%	</item>
+        <item>	CLORHEXIDINA GLUCONATO JABÓN LÍQUIDO 4%	</item>
+        <item>	EFERFRUTA POLVO EFERVESCENTE	</item>
+        <item>	EFERFRUTA SABOR LIMÓN POLVO EFERVESCENTE	</item>
+        <item>	KITADOL MAX COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	ZOFEX TOS COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	SENTUAL PERIODO COMPRIMIDOS	</item>
+        <item>	PANAGESIC CON CAFEÍNA 500/50 COMPRIMIDOS	</item>
+        <item>	JABÓN YODADO 1.8 SOLUCIÓN TÓPICA 0,8 %	</item>
+        <item>	FASACNE GEL DÉRMICO 5%	</item>
+        <item>	GRIPEXIN COMPUESTO NUEVA FÓRMULA SIN CLORFENAMINA POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	DICLOFENACO DIETILAMINA GEL TÓPICO 1,16%	</item>
+        <item>	HI-C CÁPSULAS 500 mg	</item>
+        <item>	PERIOAID CON CLORURO DE CETILPIRIDINIO TRATAMIENTO COLUTORIO	</item>
+        <item>	DOLOFAR GEL TÓPICO 2,5%	</item>
+        <item>	MINFADEN COMPRIMIDOS	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL	</item>
+        <item>	ÁCIDO DEHIDROCÓLICO COMPRIMIDOS 250 mg	</item>
+        <item>	SANIGERMIN TRICLOSAN JABÓN	</item>
+        <item>	BACILAN POLVO	</item>
+        <item>	LERFIMIN UNGÜENTO DÉRMICO	</item>
+        <item>	PHARMALATUM SOLUCIÓN PARA INHALACIÓN	</item>
+        <item>	NAPROXENO GEL TÓPICO 10%	</item>
+        <item>	REPELEX AEROSOL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	BRASITON CREMA	</item>
+        <item>	AGUA MELISSA CARMINATIVA SOLUCIÓN	</item>
+        <item>	AGUA OXIGENADA 10 VOLÚMENES SOLUCIÓN TÓPICA	</item>
+        <item>	IBUPROFENO COMPRIMIDOS 200 mg	</item>
+        <item>	TRIOX N.F. INFANTIL COMPRIMIDOS RECUBIERTOS 100 mg	</item>
+        <item>	NAPROXENO SÓDICO COMPRIMIDOS RECUBIERTOS 275 mg	</item>
+        <item>	FASALIMP SOLUCIÓN NASAL 0,9%	</item>
+        <item>	NASAKID SOLUCIÓN NASAL 0,9%	</item>
+        <item>	MALTOFER VITAMINADO JARABE	</item>
+        <item>	RINOKID SOLUCIÓN NASAL PARA NEBULIZACIÓN 3%	</item>
+        <item>	DERMAC CREMA DÉRMICA	</item>
+        <item>	MINTA-C COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS 500 mg	</item>
+        <item>	ZETADOL COMPUESTO ANTIGRIPAL NOCHE POLVO PARA SUSPENSIÓN ORAL, EN SOBRES	</item>
+        <item>	ZETADOL COMPUESTO ANTIGRIPAL DÍA POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	TAPSIN CÁPSULAS BLANDAS	</item>
+        <item>	CEBION SABOR LIMÓN COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	CEBION SABOR MARACUYA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	CEBION SABOR MANDARINA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	TEARS NATURALE FORTE SOLUCIÓN OFTÁLMICA	</item>
+        <item>	PREDUAL TEEN COMPRIMIDOS	</item>
+        <item>	PANADOL ACTIRAPID COMPRIMIDOS RECUBIERTOS 500 mg	</item>
+        <item>	DERMALIV CREMA TÓPICA	</item>
+        <item>	TAPSIN SIN CAFEÍNA COMPRIMIDOS MASTICABLE 160 mg	</item>
+        <item>	NUM - ZIT 5 SOLUCIÓN PARA GOTAS ORALES 5 mg/ mL	</item>
+        <item>	FRIORUB CON IBUPROFENO GEL TÓPICO	</item>
+        <item>	FORTEVITA JARABE	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	TALCO ANTIMICÓTICO	</item>
+        <item>	HEADOL MUJER COMPRIMIDOS	</item>
+        <item>	LIP RELIEF UNGÜENTO TÓPICO	</item>
+        <item>	TEARS LÁGRIMAS NATURALES SOLUCIÓN OFTÁLMICA.	</item>
+        <item>	RINOSTERYL SOLUCIÓN NASAL 0,9%	</item>
+        <item>	ALCOLEX GEL DÉRMICO 0,1 %	</item>
+        <item>	DISGREN COMPRIMIDOS DE LIBERACIÓN PROLONGADA 325 mg.	</item>
+        <item>	DENTILIM - DBD COMPRIMIDOS DE DISOLUCIÓN BUCAL 5 mg	</item>
+        <item>	ELCAL-D PLUS CÁPSULAS	</item>
+        <item>	MUCOANGIN COMPRIMIDOS PARA DISOLUCIÓN BUCAL 20 mg	</item>
+        <item>	MAALOX PLUS SUSPENSIÓN ORAL	</item>
+        <item>	DOLIDER COMPRIMIDOS	</item>
+        <item>	METAMIZOL SÓDICO MONOHIDRATO COMPRIMIDOS 300 mg	</item>
+        <item>	SENSAID GEL DENTIFRICO	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	CAPRIMIDA DUO CÁPSULAS BLANDAS 330 mg	</item>
+        <item>	GETRICIN COMPRIMIDOS	</item>
+        <item>	METAMIZOL SÓDICO SUPOSITORIOS 250 mg	</item>
+        <item>	HIPERFLEX COMPRIMIDOS	</item>
+        <item>	HIPERFLEX FORTE COMPRIMIDOS	</item>
+        <item>	FINARTRIT COMPRIMIDOS	</item>
+        <item>	COTIBIN ANTIGRIPAL COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	COTIBIN FLU DÍA POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	COTIBIN FLU NOCHE POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	CEBION SABOR NARANJA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	ÁCIDO DEHIDROCÓLICO COMPRIMIDOS 250 mg	</item>
+        <item>	LEVUCAL INSTANT GRANULADO PARA SOLUCIÓN ORAL	</item>
+        <item>	LEVUCAL INSTANT GRANULADO PARA SOLUCIÓN ORAL 1 g	</item>
+        <item>	SUERO ORAL HIDRAPLUS 30 SABOR FRESA SOLUCIÓN ORAL	</item>
+        <item>	SUERO ORAL HIDRAPLUS 30 SABOR UVA SOLUCIÓN ORAL	</item>
+        <item>	SUERO ORAL HIDRA 90 SABOR UVA SOLUCIÓN ORAL	</item>
+        <item>	ALUMINIO HIDRÓXIDO GEL COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	PYRIPED FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	ALUMINIO HIDRÓXIDO SUSPENSIÓN ORAL 6% 	</item>
+        <item>	ADVIL CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	PUNTUAL COMPRIMIDOS 500 mg	</item>
+        <item>	DISFRUTAB ANTIGAS FRUTILLA COMPRIMIDOS MASTICABLES	</item>
+        <item>	DISFRUTAB ANTIGAS LIMA-LIMÓN COMPRIMIDOS MASTICABLES	</item>
+        <item>	DISFRUTAB ANTIGAS MULTISABOR COMPRIMIDOS MASTICABLES	</item>
+        <item>	GELICOL GEL 70%	</item>
+        <item>	OSTEOCAPS CÁPSULAS BLANDAS	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	BARALGINA M COMPRIMIDOS 500 mg	</item>
+        <item>	ZINCOVIT JARABE	</item>
+        <item>	BARALGINA M SOLUCIÓN PARA GOTAS ORALES 500 mg/mL	</item>
+        <item>	NORALINA CÁPSULAS BLANDAS	</item>
+        <item>	GENIOL  SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	GESIPROCT CREMA RECTAL	</item>
+        <item>	PARACETAMOL, PAMABROM, MEPIRAMINA MALEATO COMPRIMIDOS	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	ENO PLUS LIMÓN COMPRIMIDOS EFERVESCENTES.	</item>
+        <item>	DOLKITOL COMPRIMIDOS 500 mg	</item>
+        <item>	SALONPAS GEL PARCHE-TÓPICO	</item>
+        <item>	FEBRICOL SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	NOVALGINA JARABE 250 mg/5 mL	</item>
+        <item>	BABY KANK-A GEL BUCAL 10%	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	PROASA-75 CÁPSULAS CON GRÁNULOS CON RECUBRIMIENTO ENTÉRICO 75 mg	</item>
+        <item>	PROASA-100 CÁPSULAS CON GRÁNULOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	SALES PARA REHIDRATACIÓN ORAL-90 POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	SALES PARA REHIDRATACIÓN ORAL-60 POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	ESVIT-C SABOR NARANJA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	HIPERFLEX MITE COMPRIMIDOS	</item>
+        <item>	DOCIVIN COMPRIMIDOS 10 mg	</item>
+        <item>	SYSTANE SOLUCIÓN OFTÁLMICA	</item>
+        <item>	BRONCOTUSILAN ADULTO SOLUCIÓN ORAL 250 mg/5 mL	</item>
+        <item>	NICODROPS SOLUCIÓN OFTÁLMICA	</item>
+        <item>	ASPIRINA FORTE COMPRIMIDOS 650 mg	</item>
+        <item>	XUMADOL GRANULADO EFERVESCENTE 1 g, EN SOBRES	</item>
+        <item>	ZINC COMPRIMIDOS 30 mg	</item>
+        <item>	RANITIDINA GRANULADO PARA SUSPENSIÓN ORAL 75 mg/5 mL	</item>
+        <item>	CLORURO DE CALCIO DIHIDRATO SOLUCIÓN INYECTBALE 10%	</item>
+        <item>	PROFENID GEL TÓPICO 2,5%	</item>
+        <item>	TAPSIN COMPUESTO D.N. CÁPSULAS	</item>
+        <item>	SICCAFLUID GEL OFTÁLMICO 0,25%	</item>
+        <item>	DESENKIN DESENSIBILIZANTE COLUTORIO	</item>
+        <item>	CAPRIMIDA - D FORTE COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	FLAPEX FORTE COMPRIMIDOS MASTICABLES	</item>
+        <item>	MENTHOLATUM CALORUB PARCHE TÓPICO 10%	</item>
+        <item>	PARACETAMOL COMPUESTO SUSPENSIÓN ORAL	</item>
+        <item>	WINASORB UP FORTE CÁPSULAS BLANDAS	</item>
+        <item>	PANCRIT SABOR NARANJA COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	FASALIMP FORTE SOLUCIÓN NASAL PARA NEBULIZACIÓN 0,9%	</item>
+        <item>	MENTHOLATUM LADY UNGÜENTO TÓPICO	</item>
+        <item>	MENTHOLATUM EXTRA FUERTE UNGÜENTO TÓPICO	</item>
+        <item>	TALCO MENTOLADO 2%	</item>
+        <item>	CORVASOL CÁPSULAS CON MICROGRÁNULOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	IBUPROFENO COMPRIMIDOS 200 mg	</item>
+        <item>	PANADOL EXTEND COMPRIMIDOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 665 mg	</item>
+        <item>	GESIDOL COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	CALORUB CREMA	</item>
+        <item>	GENTEAL GEL OFTÁLMICO 0,3%	</item>
+        <item>	CALCIMAX D3 200 COMPRIMIDOS	</item>
+        <item>	FASACAINE CON ALOE VERA GEL TÓPICO	</item>
+        <item>	FASAFLEX PARCHE POROSO	</item>
+        <item>	MENTHOLATUM LADY UNGÜENTO TÓPICO	</item>
+        <item>	CAPRIMIDA - D DÚO CÁPSULAS BLANDAS	</item>
+        <item>	AUCUSIK PLUS GEL TÓPICO	</item>
+        <item>	CARBON SULFAGUANIDINA COMPRIMIDOS	</item>
+        <item>	POLIVITAMÍNICOS COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	PREDUAL POLVO PARA SUSPENSIÓN ORAL EN SOBRES	</item>
+        <item>	SOLULIMP SOLUCIÓN PARA NEBULIZACIÓN NASAL 0,9%	</item>
+        <item>	AGUA BIDESTILADA SOLUCIÓN INYECTABLE	</item>
+        <item>	VOLTAREN AEROSOL TÓPICO 1,16%	</item>
+        <item>	NOSCAPINA COMPRIMIDOS 20 mg	</item>
+        <item>	ÁCIDO DEHIDROCÓLICO COMPRIMIDOS 250 mg	</item>
+        <item>	FLECTOR GEL TÓPICO 1,29%	</item>
+        <item>	LAXONAROL CÁPSULAS BLANDAS 1,1 g	</item>
+        <item>	BROMHEXINA CLORHIDRATO COMPRIMIDOS 8 mg	</item>
+        <item>	POLIVITAMÍNICO JARABE	</item>
+        <item>	GASDOL SUSPENSIÓN 5 mg/5 mL	</item>
+        <item>	GASDOL COMPRIMIDOS 10 mg	</item>
+        <item>	GASDOL SUSPENSIÓN PARA GOTAS ORALES 10 mg/mL	</item>
+        <item>	COLPURIL PLUS MOUSSE AEROSOL	</item>
+        <item>	ADOLEXMED-CELL PLUS COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	METAMIZOL SÓDICO SUPOSITORIOS 500 mg	</item>
+        <item>	AGUA SULFATADA PICRICA SOLUCIÓN TÓPICA	</item>
+        <item>	LUVIS SOLUCIÓN OFTÁLMICA	</item>
+        <item>	PERMETRINA SHAMPOO 1%	</item>
+        <item>	ACRYLARM GEL OFTÁLMICO 0,2%	</item>
+        <item>	ULTRATHON 3M CREMA TÓPICA 31,58%	</item>
+        <item>	REPELENTE DE INSECTOS AEROSOL	</item>
+        <item>	HIPERFLEX UD POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	NASTIGRIP COMPRIMIDOS	</item>
+        <item>	MENTHONASAL SOLUCIÓN NASAL EN TÓRULAS	</item>
+        <item>	NIOFEN CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	COTIBIN FLU DÍA Y NOCHE POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	SINUS SOLUCIÓN NASAL 3%	</item>
+        <item>	BUCOGERM TOS COMPRIMIDOS MASTICABLES	</item>
+        <item>	DIBUNAFON JARABE	</item>
+        <item>	DISFRUTA CLÁSICO SAL EFERVESCENTE	</item>
+        <item>	DISFRUTA LIMÓN SAL EFERVESCENTE	</item>
+        <item>	GENIOL COMPUESTO POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	GENIOL COMPUESTO CON CLORFENAMINA POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	GENIOL COMPUESTO DN POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	VITALMIN POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	KITADOL NOCHE COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	NOLAIS SHAMPOO 1%	</item>
+        <item>	DOCIVIN SUSPENSIÓN ORAL 5 mg/5 mL	</item>
+        <item>	DOCIVIN SUSPENSIÓN PARA  GOTAS ORALES 10 mg/mL	</item>
+        <item>	LEVUCAL D INSTANT GRANULADO EFERVESCENTE PARA SOLUCIÓN ORAL	</item>
+        <item>	BISOLVON COMPRIMIDOS DISPERSABLES 8 mg	</item>
+        <item>	UROKNOP POLVO EFERVESCENTE	</item>
+        <item>	BAINE GEL TÓPICO 3%	</item>
+        <item>	TRIVITANA Q10 CÁPSULAS BLANDAS	</item>
+        <item>	ASPIRINA C NF GRANULADO EFERVESCENTE EN SOBRES	</item>
+        <item>	ENO REGULAR SAL DE FRUTA	</item>
+        <item>	SILIGAZ CÁPSULAS 10 mg	</item>
+        <item>	QUITACALLOS POMADA DÉRMICA 30%	</item>
+        <item>	CAPRIMIDA - D CÁPSULAS	</item>
+        <item>	CAPRIMIDA - D FORTE CÁPSULAS	</item>
+        <item>	VATANAL CREMA RECTAL	</item>
+        <item>	VATANAL SUPOSITORIOS	</item>
+        <item>	IBUPROFENO INFANTIL SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	CALMATOL JARABE	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	SOLARCAINE NF AEROSOL TÓPICO	</item>
+        <item>	CLARIMIR SOLUCIÓN OFTÁLMICA 0,1%	</item>
+        <item>	SILIGAZ SUSPENSIÓN PARA GOTAS ORALES 10 mg/mL	</item>
+        <item>	VISINE ADVANCE RELIEF SOLUCIÓN OFTÁLMICA	</item>
+        <item>	DOMPERIDONA SUSPENSIÓN ORAL PARA GOTAS 10 mg/mL	</item>
+        <item>	ACTRON PEDIÁTRICO SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	BISOLVON COMPRIMIDOS 8 mg	</item>
+        <item>	COLONOK BALANCE COMPRIMIDOS RECUBIERTOS 500 mg	</item>
+        <item>	BISOLVON INFANTIL JARABE 4 mg/5 mL	</item>
+        <item>	VISIONAL SOLUCIÓN OFTÁLMICA 0,05%	</item>
+        <item>	FASAPRINA FORTE COMPRIMIDOS 650 mg	</item>
+        <item>	TURBOGESIC GEL TÓPICO 1,16%	</item>
+        <item>	AGUA ESTÉRIL PARA INYECTABLES	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	EDUBEL GEL HUMECTANTE VAGINAL 2%	</item>
+        <item>	TAPSIN SIN CAFEÍNA CON PAMABROM COMPRIMIDOS	</item>
+        <item>	COLURAL COLUTORIO 0,12%	</item>
+        <item>	FLUORURO DE SODIO COLUTORIO 0,05%	</item>
+        <item>	DESENKIN PASTA DENTRIFICA	</item>
+        <item>	COTIBIN PLUS POLVO PARA SUSPENSIÓN ORAL EN SOBRES	</item>
+        <item>	ASPIRINA 100 COMPRIMIDOS 100 mg	</item>
+        <item>	PEDIASEA SOLUCIÓN NASAL PARA NEBULIZACIÓN 0,9%	</item>
+        <item>	ASPIRINA COMPRIMIDOS 500 mg	</item>
+        <item>	CAFIASPIRINA COMPRIMIDOS	</item>
+        <item>	KITADOL INFANTIL COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	YASTA COMPRIMIDOS EFERVESCENTES	</item>
+        <item>	CAFIASPIRINA PLUS COMPRIMIDOS	</item>
+        <item>	DOLSOM COMPRIMIDOS DISPERSABLES 500 mg	</item>
+        <item>	GRIPASAN NUEVA FÓRMULA NOCHE POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	GRIPASAN NUEVA FÓRMULA DÍA POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	CLORURO DE BENZALCONIO - TIMOL COMPRIMIDOS	</item>
+        <item>	FINARTRIT POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	PERFUNGOL POLVO DÉRMICO	</item>
+        <item>	METAMIZOL SÓDICO MONOHIDRATO COMPRIMIDOS 300 mg	</item>
+        <item>	CARBOTOS PEDIÁTRICO JARABE 100 mg/5 mL.	</item>
+        <item>	AUCUSIK POMADA	</item>
+        <item>	FLAMESAN GEL TÓPICO 1,16%	</item>
+        <item>	DURAPREP SOLUCIÓN TÓPICA	</item>
+        <item>	CALIRAL CÁPSULAS BLANDAS 1100 mg	</item>
+        <item>	FLUICOR ASA 81 COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 81 mg	</item>
+        <item>	ALCOHOL ETÍLICO SOLUCIÓN TÓPICA 61%	</item>
+        <item>	LÁGRIMAS ARTIFICIALES SOLUCIÓN OFTÁLMICA 1,4%	</item>
+        <item>	CLORHEXIDINA GLUCONATO 1% - ALCOHOL ETÍLICO 61% SOLUCIÓN TÓPICA	</item>
+        <item>	EXPERT-FITTIGEA DOBLE ACCIÓN ANTIMICÓTICO Y DESODORANTE POLVO DÉRMICO	</item>
+        <item>	EXPERT-FITTIGEA DOBLE ACCIÓN ANTIMICÓTICO Y DESODORANTE POMADA DÉRMICA	</item>
+        <item>	HIPOGLOS POMADA	</item>
+        <item>	TRIVITANA D.M. PERLAS CÁPSULAS BLANDAS	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	ESANTERM SUSPENSIÓN ORAL 100 mg/ 5 mL	</item>
+        <item>	AGUA ESTÉRIL PARA INYECTABLES	</item>
+        <item>	PANCRIT COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	TRIOX NF COMPRIMIDOS RECUBIERTOS 275 mg	</item>
+        <item>	MINTA-C COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	FASAMOL ANTIGRIPAL CÁPSULAS	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 30 mg/5 mL	</item>
+        <item>	LOMPRAX COMPRIMIDOS MASTICABLES 40 mg	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	TAPSIN UP POLVO EFERVESCENTE PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	TAPSIN COMPUESTO SABOR A MIEL-LIMÓN DE PICA POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	TAPSIN COMPUESTO CON CLORFENAMINA MALEATO CITRUS POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	TAPSIN COMPUESTO CITRUS POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	TAPSIN COMPUESTO CON CLORFENAMINA MALEATO SABOR A MIEL-LIMÓN DE PICA POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	GERMOSEPT SOLUCIÓN TÓPICA 0,175%	</item>
+        <item>	FLUICOR ASA 325 COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 325 mg	</item>
+        <item>	DISFRUTA TROPICAL SAL EFERVESCENTE EN SOBRES	</item>
+        <item>	GASORBOL PLUS SUSPENSIÓN	</item>
+        <item>	DISFRUTA CITRUS SAL EFERVESCENTE EN SOBRES	</item>
+        <item>	HEADOL PEDIÁTRICO SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	HEADOL COMPRIMIDOS 500 mg	</item>
+        <item>	PANADOL HOT REM POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	GASORBOL PLUS COMPRIMIDOS	</item>
+        <item>	ALUMINIO HIDRÓXIDO GEL COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	PETROCEL SHAMPOO	</item>
+        <item>	UNGÜENTO TÓPICO MENTOLADO	</item>
+        <item>	VITAMINA C COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	CLORURO DE SODIO SOLUCIÓN NASAL 0,9%	</item>
+        <item>	TAPSIN COMPUESTO DN PLUS COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	DIMETICONA SUSPENSIÓN PARA GOTAS ORALES 4%	</item>
+        <item>	DIMETICONA COMPRIMIDOS MASTICABLES 40 mg	</item>
+        <item>	TRICLOSÁN JABÓN LÍQUIDO 0,5%	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	TOL TOTAL ACTIVE COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	KANK-A GEL BUCAL 20% SOFTBRUSH	</item>
+        <item>	ESANFLU INFANTIL JARABE 15 mg/5 mL	</item>
+        <item>	ESANFLU ADULTO JARABE 30 mg/5 mL.	</item>
+        <item>	CLARAGINE SABOR MIEL- LIMÓN COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	CARVAS CÁPSULAS CON GRÁNULOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	POVIN POMADA TÓPICA	</item>
+        <item>	COMBIZIM COMPOSITUM GRAGEAS	</item>
+        <item>	MERPAL SOLUCIÓN TÓPICA SPRAY 1,16%	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 30 mg/5 mL	</item>
+        <item>	COTIBIN PLUS COMPRIMIDOS	</item>
+        <item>	CALCIMAX COMPRIMIDOS 200 mg	</item>
+        <item>	CALCIMAX FORTE COMPRIMIDOS 400 mg	</item>
+        <item>	FLUMED JARABE 8 mg/5 mL	</item>
+        <item>	VERRUFILM SOLUCIÓN TÓPICA	</item>
+        <item>	DOLO-ESAN COMPRIMIDOS 500 mg	</item>
+        <item>	CALCIMAX D3 400 COMPRIMIDOS	</item>
+        <item>	OCTILIA SOLUCIÓN OFTÁLMICA 0,05%	</item>
+        <item>	CAPRIMIDA CÁPSULAS 500 mg	</item>
+        <item>	TAPSIN COMPUESTO NOCHE PLUS COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	TAPSIN COMPUESTO DÍA PLUS COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	KEPRODOL GEL TÓPICO 2,5%	</item>
+        <item>	NP-27 SOLUCIÓN TÓPICA 8,71%	</item>
+        <item>	NOPUCID COMPUESTO LOCIÓN CAPILAR	</item>
+        <item>	NOPUCID COMPUESTO SHAMPOO	</item>
+        <item>	FLAPEX SUSPENSIÓN ORAL PARA GOTAS 4%	</item>
+        <item>	FLAPEX COMPRIMIDOS 40 mg	</item>
+        <item>	FLUICOR ASA 81 CÁPSULAS CON MICROGRÁNULOS CON RECUBRIMIENTO ENTÉRICO 81 mg	</item>
+        <item>	FLUICOR ASA 325 CÁPSULAS CON MICROGRÁNULOS CON RECUBRIMIENTO ENTÉRICO 325 mg	</item>
+        <item>	SALES DE REHIDRATACIÓN POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	ACAMOL INFANTIL SUPOSITORIOS 125 mg	</item>
+        <item>	NOSCAPINA COMPRIMIDOS 20 mg	</item>
+        <item>	KITADOL INFANTIL SABOR UVA COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	KITADOL INFANTIL SABOR UVA COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	TAPSIN  POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	VITAMINAS A, D Y E CREMA DÉRMICA	</item>
+        <item>	THERALER INFANTIL LÁMINAS ORALES 12,5 mg	</item>
+        <item>	THERALER ADULTOS LÁMINAS ORALES 25 mg	</item>
+        <item>	MENTHOLATUM UNGÜENTO TÓPICO	</item>
+        <item>	FLUIBRON INFANTIL JARABE 15 mg/5 mL	</item>
+        <item>	FLUIBRON ADULTO JARABE  30 mg/ 5 mL	</item>
+        <item>	ENIFLEX DÚO 750 COMPRIMIDOS	</item>
+        <item>	WINASORB SABOR MIEL-LIMÓN JARABE 250 mg/5 mL	</item>
+        <item>	WINASORB SABOR MENTA JARABE 250 mg/5 mL	</item>
+        <item>	ACTRON 200 CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	GESIDOL COMPRIMIDOS 500 mg	</item>
+        <item>	ENO GUARANÁ SAL DE FRUTA	</item>
+        <item>	ENO NARANJA SAL DE FRUTA	</item>
+        <item>	WINASORB JUNIOR COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	NOSCAPINA CLORHIDRATO/DIBUNATO SÓDICO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	KETOPROFENO GEL TÓPICO 2,5%	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	TAPSIN SIN CAFEÍNA CON CLORFENAMINA MALEATO NOCTURNO COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	TAPSIN PURO SIN CAFEÍNA COMPRIMIDOS 500 mg	</item>
+        <item>	FINARTRIT FORTE COMPRIMIDOS 	</item>
+        <item>	ADFEN CÁPSULAS CON MICROGRÁNULOS CON RECUBRIMIENTO ENTÉRICO 200 mg	</item>
+        <item>	IBUPIRAC LC CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	CAFRENAL COMPRIMIDOS	</item>
+        <item>	AGUA PARA INYECTABLES 	</item>
+        <item>	SOFCAIN CREMA TÓPICA	</item>
+        <item>	ESANFRIX CREMA TÓPICA	</item>
+        <item>	ENIFLEX DÚO FORTE GRANULADO PARA SOLUCIÓN ORAL 	</item>
+        <item>	NIOFEN GEL TÓPICO 5%.	</item>
+        <item>	DETTOXDETTOL ANTISÉPTICO SPRAY TÓPICO 0,198%	</item>
+        <item>	PANCRIT COMPUESTO SOLUCIÓN PARA COLUTORIO	</item>
+        <item>	OPTIVE SOLUCIÓN OFTÁLMICA	</item>
+        <item>	D NENITOS POMADA DÉRMICA	</item>
+        <item>	HIPERFLEX K FORTE COMPRIMIDOS	</item>
+        <item>	HIPERFLEX K COMPRIMIDOS	</item>
+        <item>	NUROFEN INFANTIL SABOR NARANJA SUSPENSIÓN ORAL 100 mg/ 5 mL	</item>
+        <item>	NUROFEN INFANTIL SABOR FRESA SUSPENSIÓN ORAL 100 mg /5 mL	</item>
+        <item>	MENTHOLATUM PAIN PATCH SIN ALCANFOR PARCHE 5%	</item>
+        <item>	TALCO ANTIMICÓTICO POLVO DÉRMICO	</item>
+        <item>	COTIBIN INFANTIL COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	COTIBIN INFANTIL JARABE 160 mg/mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	CARISTOP SENSITIVE PASTA DENTAL	</item>
+        <item>	DICLOFENACO DIETILAMINA GEL TÓPICO 1,16%	</item>
+        <item>	ESANTERM FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	ATAC POLVO PARA SUSPENSIÓN ORAL 125 mg/5 mL, CON SOLVENTE	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 30 mg/5 mL	</item>
+        <item>	PANTOTOS JARABE 15 mg/5 mL	</item>
+        <item>	PANTOTOS JARABE 30 mg/5 mL	</item>
+        <item>	FLUICOR ASA 81 COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 81 mg	</item>
+        <item>	IBU - 200  SUSPENSIÓN ORAL  200 mg/5 mL	</item>
+        <item>	SIGERMEL SOLUCIÓN TÓPICA	</item>
+        <item>	PANCRIT SABOR MIEL-LIMÓN COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	METICEL OFTENO SOLUCIÓN OFTÁLMICA 0,5%	</item>
+        <item>	DOMEVOL CÁPSULAS 10 mg	</item>
+        <item>	LAGSOLETS SOLUCIÓN OFTÁLMICA 0,12 mg/mL	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO SUSPENSIÓN ORAL 6%	</item>
+        <item>	LEPEX SOLUCIÓN OFTÁLMICA 5%	</item>
+        <item>	BROPAVOL  JARABE 8 mg/5 mL	</item>
+        <item>	ADFEN SUSPENSIÓN ORAL 100 mg/ 5 mL	</item>
+        <item>	ADFEN FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	IBUPROFEN SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	LEVUCAL D FORTE CÁPSULAS 	</item>
+        <item>	IBUCON SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	NAZIL OFTENO SOLUCIÓN OFTÁLMICA 0,1 %	</item>
+        <item>	PANADOL JUNIOR SUSPENSIÓN ORAL 250 mg/5 mL	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO, CAFEÍNA Y CINAMEDRINA COMPRIMIDOS	</item>
+        <item>	HASSAPIRIN FORTE COMPRIMIDOS 650 mg	</item>
+        <item>	ANACIN MAX COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	DICLAC GEL TÓPICO 1,16 %	</item>
+        <item>	IBUCON COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	DOMPERIDONA CÁPSULAS 10 mg	</item>
+        <item>	LIMPID SHAMPOO PEDICULICIDA	</item>
+        <item>	PARACETAMOL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	GAVISCON ADVANCE SUSPENSIÓN ORAL	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	CARDIOASPIRINA 100 EC COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	GAVISCON ADVANCE COMPRIMIDOS MASTICABLES 	</item>
+        <item>	GAVISCON DOBLE ACCIÓN COMPRIMIDOS MASTICABLES	</item>
+        <item>	GAVISCON DOBLE ACCIÓN SUSPENSIÓN ORAL	</item>
+        <item>	IBUPIRAC COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	GAVISCON LIMÓN 250 COMPRIMIDOS MASTICABLES	</item>
+        <item>	GAVISCON MENTA 250 COMPRIMIDOS MASTICABLES	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL PEDIÁTRICA 100 mg/5 mL	</item>
+        <item>	IBUPROFENO FORTE SUSPENSIÓN ORAL PEDIÁTRICA 200 mg / 5 mL	</item>
+        <item>	LATLAS GEL OFTÁLMICO 0,25%	</item>
+        <item>	PANCRIT COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	CÁPSICO PARCHE DÉRMICO 1,86%	</item>
+        <item>	CONDROX COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	GENIOL COMPRIMIDOS 500 mg	</item>
+        <item>	MAALOX PLUS LIMA-LIMÓN COMPRIMIDOS MASTICABLES	</item>
+        <item>	OXY 5 COLOR PIEL GEL DÉRMICO 5 %	</item>
+        <item>	OXY 5  TRANSPARENTE GEL DÉRMICO 5 %	</item>
+        <item>	KITADOL INFANTIL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	NUROFEN COMPRIMIDOS RECUBIERTOS 200 mg 	</item>
+        <item>	KITADOL 1000 COMPRIMIDOS 1 g	</item>
+        <item>	XUMADOL COMPRIMIDOS 1 g	</item>
+        <item>	BIOTRIC JABÓN LÍQUIDO AL 0,5%	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	SYSTANE ULTRA SOLUCIÓN OFTÁLMICA	</item>
+        <item>	HASSAPIRIN CAF COMPRIMIDOS	</item>
+        <item>	NEFERSIL GEL TÓPICO 5%	</item>
+        <item>	PARECETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	MINTALUB CREMA DÉRMICA	</item>
+        <item>	GENIOL CAF COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	FLAMADOL COMPRIMIDOS RECUBIERTOS 100 mg	</item>
+        <item>	ALGIASOL FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	ANACIN COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	COLPURIL PLUS CHAMPÚ	</item>
+        <item>	ENDUX UD EMULSIÓN OFTÁLMICA	</item>
+        <item>	POLICARBOFILA CÁPSULAS BLANDAS 500 mg	</item>
+        <item>	MEDISEPT SOLUCIÓN	</item>
+        <item>	ENDUX EMULSIÓN OFTÁLMICA	</item>
+        <item>	ACIFIN COMPRIMIDOS MASTICABLES	</item>
+        <item>	SIMETICONA SUSPENSIÓN PARA GOTAS ORALES 4%	</item>
+        <item>	GINODOL COMPRIMIDOS RECUBIERTOS 275 mg	</item>
+        <item>	PANADOL ADVANCE COMPRIMIDOS RECUBIERTOS  500 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	POLICARBOFILA CÁPSULAS BLANDAS 500 mg	</item>
+        <item>	FASAGLOS PLUS POMADA	</item>
+        <item>	NUROFEN EXPRESS COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	ALGIAFIN COMPRIMIDOS 500 mg	</item>
+        <item>	MYLANTA ROLLTABS SABOR MENTA COMPRIMIDOS MASTICABLES 	</item>
+        <item>	MYLANTA ROLLTABS SABOR CEREZA COMPRIMIDOS MASTICABLES 	</item>
+        <item>	GENIOL COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	IBUPROFENO COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	ALGIASOL 200 COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	OPTIVE UD SOLUCIÓN OFTÁLMICA	</item>
+        <item>	LEVUCAL D CÁPSULAS	</item>
+        <item>	DOLGEX SUSPENSIÓN ORAL 100 mg/ 5 mL	</item>
+        <item>	DOLGEX FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	FRESHMEL COMPRIMIDOS 5 mg	</item>
+        <item>	LÁGRIMAS ARTIFICIALES SOLUCIÓN OFTÁLMICA 0,3%	</item>
+        <item>	PARACETAMOL PEDIÁTRICO SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	IBUPROFENO FORTE SUSPENSIÓN ORAL 200 mg/5 mL 	</item>
+        <item>	PARACETAMOL JARABE 160 mg/5 mL	</item>
+        <item>	KITADOL INFANTIL JARABE 160 mg/5 mL	</item>
+        <item>	DICHLOREXAN SOLUCIÓN TÓPICA  2%	</item>
+        <item>	REPELEX NF AEROSOL	</item>
+        <item>	DON DYNE JABÓN LÍQUIDO 8%	</item>
+        <item>	IBUPROFENO COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	PYRIPED CREMA DÉRMICA 5 %	</item>
+        <item>	DOMPERIDONA CÁPSULAS 10 mg	</item>
+        <item>	DOCIVIN CÁPSULAS 10 mg	</item>
+        <item>	AGUA PARA INYECTABLES	</item>
+        <item>	FRAGIDERM UNGÜENTO DÉRMICO	</item>
+        <item>	SALES PARA REHIDRATACIÓN 60  POLVO PARA SOLUCIÓN ORAL 	</item>
+        <item>	SALES PARA REHIDRATACIÓN 90  POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL 	</item>
+        <item>	ALCOHOL GEL  70%	</item>
+        <item>	CHLOROHEX SOLUCIÓN TÓPICA 2%	</item>
+        <item>	CHLOROHEX JABÓN CREMOSO 2%	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 100 mg / 5 mL	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 200 mg / 5 mL	</item>
+        <item>	FOCUS 500 COMPRIMIDOS  500 mg	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 30 mg/5 mL	</item>
+        <item>	CHLOROHEX TINTURA SOLUCIÓN TÓPICA	</item>
+        <item>	IBUPROFENO SUSPENSIÓN ORAL 100 mg / 5 mL	</item>
+        <item>	VISIONAL SOLUCIÓN OFTÁLMICA 0,05%	</item>
+        <item>	STERYLDERME JABÓN LÍQUIDO SIN PERFUME 0,5%	</item>
+        <item>	STERYLDERME JABÓN LÍQUIDO CON PERFUME 0,5%	</item>
+        <item>	IBUPROFENO  SUSPENSIÓN 100 mg / 5 mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	ÁCIDO ASCÓRBICO POLVO EFERVESCENTE EN SOBRES 2.000 mg	</item>
+        <item>	ÁCIDO ASCÓRBICO POLVO EFERVESCENTE EN SOBRES 1.000 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	M.D. ZERO-DOL COMPRIMIDOS 500 mg	</item>
+        <item>	M.D. ZERO-DOL INFANTIL COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	GESIDOL COMPRIMIDOS MASTICABLES 160 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS  500 mg	</item>
+        <item>	ACAMOL COMPRIMIDOS  500 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 1 g	</item>
+        <item>	PANAGESIC COMPRIMIDOS 1 g	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	ULPEPTIN COMPRIMIDOS MASTICABLES 262,4 mg	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	SALES DE REHIDRATACIÓN ORAL 75	</item>
+        <item>	NUROFEN EXPRESS CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	PYRIPED CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	AGUA PARA INYECTABLES	</item>
+        <item>	FINACAL PEDIÁTRICO SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	IBUPROFENO CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	IBU-2 CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	DOLGEX-L COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	IBUFLAM SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	ELECTRAL 75 POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	NOSCAPINA CLORHIDRATO + ÁCIDO ASCÓRBICO, JARABE	</item>
+        <item>	HASSAPIRIN CARDIO COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 100 mg 	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS 100 mg	</item>
+        <item>	TAPSIN COMPUESTO D.N. POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	PARACETAMOL Y CAFEÍNA POLVO EFERVESCENTE PARA SOLUCIÓN ORAL	</item>
+        <item>	PAINPAC CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	HIDRASAN 90 POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	FRIXIO CREMA TÓPICA	</item>
+        <item>	CARISTOP SENSITIVE COLUTORIO 	</item>
+        <item>	NOSCAPINA JARABE 5 mg/5 mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	ULPEPTIN SUSPENSIÓN ORAL 262 mg/15 mL	</item>
+        <item>	DOLESS PARCHE DÉRMICO  10%	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg 	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	MULGATOL SIMPLE JALEA ORAL	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	VAPOLATUM MENTOLADO	</item>
+        <item>	FLUOR-KIN  MENTA FORTE PASTA DENTÍFRICA	</item>
+        <item>	ELCAL-I JARABE INFANTIL 180 mg/10 mL	</item>
+        <item>	ASEPTIDINA JABÓN LÍQUIDO AL 4%	</item>
+        <item>	ENTEROLYTE  75  SABOR  CEREZA, SOLUCIÓN ORAL	</item>
+        <item>	ENTEROLYTE 75 SABOR A COCO SOLUCIÓN ORAL	</item>
+        <item>	ENTEROLYTE  75 SABOR A MANDARINA SOLUCIÓN ORAL	</item>
+        <item>	ENTEROLYTE  75  SABOR UVA SOLUCIÓN ORAL	</item>
+        <item>	CARDIOASPIRINA 325 EC CON RECUBRIMIENTO ENTÉRICO 325 mg 	</item>
+        <item>	IOPOVISOL SOLUCIÓN TÓPICA 10%	</item>
+        <item>	ASEPTIDINA JABÓN LÍQUIDO AL 3%	</item>
+        <item>	ORALGENE MANTENCIÓN COLUTORIO BUCAL	</item>
+        <item>	IBUPROFENO CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	IBUKIDS SUSPENSIÓN ORAL 200 mg/ 5 mL	</item>
+        <item>	DOMPERIDONA COMPRIMIDOS 10 mg	</item>
+        <item>	GESIDOL COMPRIMIDOS 500 mg	</item>
+        <item>	DISGREN COMPRIMIDOS 100 mg	</item>
+        <item>	IOFOAM SOLUCIÓN ESPUMANTE 8%	</item>
+        <item>	SICCAFLUID GEL OFTÁLMICO 0,25%	</item>
+        <item>	COLONSAN COMPRIMIDOS RECUBIERTOS 500 mg	</item>
+        <item>	ACTRON PEDIÁTRICO SUSPENSIÓN ORAL 200mg/5mL	</item>
+        <item>	DOLORUB GEL DÉRMICO 5%	</item>
+        <item>	OFF  FAMILY AEROSOL REPELENTE DE INSECTOS	</item>
+        <item>	GESIDOL COMPRIMIDOS 1 g	</item>
+        <item>	SYSTANE BALANCE EMULSIÓN PARA GOTAS  OFTALMICAS 0,6 %	</item>
+        <item>	SYSTANE ULTRA UD SOLUCIÓN OFTÁLMICA	</item>
+        <item>	GEA ARTROM POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	GLANDOF COMPRIMIDOS 500 mg	</item>
+        <item>	DUOPLANT GEL TÓPICO 27%	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	KITADOL FLU POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	CALCIO / VITAMINA D3 300/125 CÁPSULAS	</item>
+        <item>	FISIOLAX CÁPSULAS BLANDAS 12 mg	</item>
+        <item>	DOMPERIDONA CÁPSULAS 10 mg	</item>
+        <item>	GESIDOL COMPRIMIDOS 500 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	FLAPEX AX COMPRIMIDOS MASTICABLES	</item>
+        <item>	REPELEX CREMA TÓPICA 10%	</item>
+        <item>	CLINICAINE  UNGÜENTO TÓPICO	</item>
+        <item>	MEDICASP SHAMPOO 1%	</item>
+        <item>	FENGEL GEL TÓPICO	</item>
+        <item>	SYSTANE GEL OFTÁMICO EN GOTAS	</item>
+        <item>	SIT-SEF  REPELENTE DE INSECTOS AEROSOL	</item>
+        <item>	REPELENTE DE INSECTOS AEROSOL	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MASTICABLES MULTISABOR 1000 mg	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MASTICABLES MULTISABOR 500 mg	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MASTICABLES MULTISABOR 100 mg	</item>
+        <item>	BABY FASA POMADA DÉRMICA	</item>
+        <item>	EUROGESIC INFANTIL POLVO PARA SUSPENSIÓN ORAL 125 mg/5 mL CON SOLVENTE	</item>
+        <item>	DICLOFENACO DIETILAMONIO CREMA TÓPICA 1,16%	</item>
+        <item>	HASSAPIRIN 100 COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	FASALCOL SOLUCIÓN TÓPICA 0,1%	</item>
+        <item>	CEBION FRESA, SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	FISIOLIMP SOLUCIÓN NASAL PARA NEBULIZACIÓN 0,9%	</item>
+        <item>	NAPREBEN GEL 10%	</item>
+        <item>	IPSON SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	OCULOTECT FLUID SOLUCIÓN OFTÁLMICA 5%	</item>
+        <item>	HEADOL FLU DÍA POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	SALONPAS NUEVA FÓRMULA PARCHE TÓPICO	</item>
+        <item>	ZOFEX COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	VISCOTEARS GEL LÍQUIDO OFTÁLMICO 0,2%	</item>
+        <item>	ÁCIDO ACETIL SALICÍLICO COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	DICOGEL GEL TÓPICO 1,16%	</item>
+        <item>	ZOFEX COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	ZOFEX COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	VITAMINA A, D2, ALANTOINA CREMA DÉRMICA	</item>
+        <item>	BÁLSAMO ANALGÉSICO CON FENILBUTAZONA CREMA TÓPICA	</item>
+        <item>	DIPIRONA COMPRIMIDOS 300 mg	</item>
+        <item>	DIPIRONA COMPRIMIDOS 300 mg	</item>
+        <item>	NOSCAPINA COMPRIMIDOS 20 mg	</item>
+        <item>	NOSCAPINA JARABE 5 mg/5 mL	</item>
+        <item>	POLIVITAMÍNICO GRAGEAS	</item>
+        <item>	DIFEXON SOLUCIÓN TÓPICA AL 10%	</item>
+        <item>	DIFEXON ANTISÉPTICO SOLUCIÓN VAGINAL 9,6%	</item>
+        <item>	MULTAMIN C NARANJA COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	TABLETAS ANTIÁCIDAS PHILLIPS COMPRIMIDOS MASTICABLES	</item>
+        <item>	ECOTRIN COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 325 mg	</item>
+        <item>	CALORUB FORTE CREMA	</item>
+        <item>	FLUORURO DE SODIO SOLUCIÓN 0,05%	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MULTISABOR 100 mg	</item>
+        <item>	DOMINAL PLUS TABLETAS	</item>
+        <item>	ESVIT-C MULTISABOR COMPRIMIDOS 100 mg	</item>
+        <item>	VASELINA EMULSIONADA	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	PARACETAMOL + CAFEÍNA CÁPSULAS BLANDAS	</item>
+        <item>	PARACETAMOL + CAFEÍNA CÁPSULAS BLANDAS	</item>
+        <item>	VOLTAREN EMULGEL GEL EMULSIÓN DÉRMICO 1%	</item>
+        <item>	CALCIO GLUCONATO GRANULADO AL 10%	</item>
+        <item>	CORTISPRAY SOLUCIÓN DÉRMICA PARA NEBULIZACIÓN 10%	</item>
+        <item>	CALCICAP CÁPSULAS 320 mg	</item>
+        <item>	DEFLAMAT GEL DÉRMICO 1%	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 125 mg	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 250 mg	</item>
+        <item>	FLUMED JARABE 4 mg/5 mL	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	MENTHOLATUM SOLUCIÓN PARA INHALACIÓN NASAL, EN TÓRULAS	</item>
+        <item>	ANALGÉSICO DENTAL SOLUCIÓN TÓPICA 85%	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	NEO - PANKREOFLAT COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO	</item>
+        <item>	BICARBONATO DE SODIO POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	OCULOTECT FLUID SINE SOLUCIÓN OFTÁLMICA 5%	</item>
+        <item>	ELITIRAN GEL TÓPICO 1,16%	</item>
+        <item>	WINASORB COMPRIMIDOS 500 mg	</item>
+        <item>	WINASORB SUPOSITORIOS 500 mg	</item>
+        <item>	METAMIZOL SÓDICO COMPRIMIDOS 300 mg	</item>
+        <item>	NOSCAPINA COMPRIMIDOS 20 mg	</item>
+        <item>	NOSCAPINA JARABE	</item>
+        <item>	PROCTO GLYVENOL CREMA	</item>
+        <item>	PROCTO GLYVENOL SUPOSITORIOS	</item>
+        <item>	MULTAMIN C SOLUCIÓN ORAL PARA GOTAS 200 mg/mL	</item>
+        <item>	MULTAMIN C SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	BRONKOKITOL PEDIÁTRICO JARABE 15 mg/5 mL	</item>
+        <item>	ARTHRICARE TRIPLE MEDICADO GEL DÉRMICO	</item>
+        <item>	COTIBIN COMPRIMIDOS 500 mg	</item>
+        <item>	SAL EFERVESCENTE	</item>
+        <item>	TINTURA DE YODO 1%	</item>
+        <item>	SOLUCIÓN DE LUGOL	</item>
+        <item>	GLICERINA SUPOSITORIOS 1 g	</item>
+        <item>	AZUL DE METILENO AL 2%	</item>
+        <item>	VIOLETA DE GENCIANA SOLUCIÓN TÓPICA 2%	</item>
+        <item>	DIPIRONA COMPRIMIDOS 300 mg	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	MIEL DE BORAX	</item>
+        <item>	VITAMINA A EMULSIÓN DÉRMICA 1000 U.I./g	</item>
+        <item>	BRONKOKITOL ADULTOS JARABE 30 mg/5 mL	</item>
+        <item>	VITAMINA A GEL TÓPICO	</item>
+        <item>	CEBION TROPICAL COMPRIMIDOS EFERVESCENTES 1000 mg	</item>
+        <item>	MERPAL GEL TÓPICO 1,16%	</item>
+        <item>	ACIFLUX COMPRIMIDOS RECUBIERTOS 75 mg	</item>
+        <item>	NIOFEN GRAGEAS 200 mg	</item>
+        <item>	HANSAPLAST ANTIMICÓTICO POLVO DÉRMICO	</item>
+        <item>	MULTAMIN C SABOR NARANJA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	MULTAMIN C SABOR LIMÓN COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	ANACIN COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	AZUL DE METILENO SOLUCIÓN 2%	</item>
+        <item>	MIEL DE BORAX F.CH	</item>
+        <item>	SOLUCIÓN DE MERCURIO CROMO AL 2%.	</item>
+        <item>	POMADA ALCANFORADA	</item>
+        <item>	PASTA LASSAR	</item>
+        <item>	POMADA SALICILATO DE METILO AL 5%	</item>
+        <item>	TINTURA DE IODO	</item>
+        <item>	VIOLETA DE GENCIANA AL 1%	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	TEARS NATURALE SOLUCIÓN OFTÁLMICA	</item>
+        <item>	PREFEM COMPRIMIDOS	</item>
+        <item>	BICARBONATO DE SODIO POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	IBUFAS - T CREMA DÉRMICA 5%	</item>
+        <item>	PARCHE LEÓN BELLADONA, HANSAPLAST	</item>
+        <item>	MENTALOL UNGÜENTO	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	MULTAMIN C SABOR LIMÓN COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	GRIPEXIN NUEVA FÓRMULA COMPUESTO POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	REPARIVEN GEL DÉRMICO	</item>
+        <item>	GASOFF SUSPENSIÓN ORAL PARA GOTAS 4%	</item>
+        <item>	METAPIO SOLUCIÓN TÓPICA 2,5%	</item>
+        <item>	FRESHMEL MENTA FRESCA COMPRIMIDOS 5 mg	</item>
+        <item>	AMBROXOL CLORHIDRATO JARABE 15 mg/5 mL	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	ANTISEPTIN JABÓN GERMICIDA	</item>
+        <item>	DURATEARS UNGÜENTO OFTÁLMICO	</item>
+        <item>	MAALOX SUSPENSIÓN ORAL	</item>
+        <item>	BUCOSEPTIL SOLUCIÓN PARA COLUTORIO AL 0,1%	</item>
+        <item>	VITAGLOS POMADA DÉRMICA	</item>
+        <item>	CALCIGRAN CD 145 COMPRIMIDOS MASTICABLES	</item>
+        <item>	MULTIVITAMÍNICO CON MINERALES COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	DECAMETRINA SHAMPOO 0,02%	</item>
+        <item>	DECAMETRINA LOCIÓN 0,02%	</item>
+        <item>	PANAGESIC COMPRIMIDOS 500 mg	</item>
+        <item>	SANIFERON COMPRIMIDOS	</item>
+        <item>	CROTAMITON LOCIÓN AL 10%	</item>
+        <item>	CROTAMITON CREMA AL 10%	</item>
+        <item>	MASTER GEL 5%	</item>
+        <item>	CROWNE PASTA DENTAL AL 5%	</item>
+        <item>	DENTOXIL PASTA DENTAL AL 10%	</item>
+        <item>	GALUTEC COLUTORIO	</item>
+        <item>	GARONSEPT COLUTORIO	</item>
+        <item>	SUPOVIOL SUPOSITORIOS VAGINALES 100 mg	</item>
+        <item>	EX-LAX GRAGEAS 25 mg	</item>
+        <item>	EX-LAX GRAGEAS 15 mg	</item>
+        <item>	EX-LAX COMPRIMIDOS CHOCOLATADOS 15 mg	</item>
+        <item>	METAMIZOL SÓDICO MONOHIDRATO COMPRIMIDOS 300 mg	</item>
+        <item>	AGERMIN SOLUCIÓN TÓPICA 2%	</item>
+        <item>	ANACIN MAX COMPRIMIDOS EFERVESCENTES	</item>
+        <item>	FLAR SOLUCIÓN ORAL PARA GOTAS AL 4%	</item>
+        <item>	HEPABIL GRAGEAS	</item>
+        <item>	SIMETICONA COMPRIMIDOS MASTICABLES 40 mg	</item>
+        <item>	YODONO SOLUCIÓN TÓPICA AL 10%	</item>
+        <item>	YODONO GEL TÓPICO AL 10%	</item>
+        <item>	YODONO LAVADOR QUIRÚRGICO	</item>
+        <item>	METAMIZOL SÓDICO COMPRIMIDOS 300 mg	</item>
+        <item>	FREESEPT TUTTI FRUTTI COMPRIMIDOS DE DISOLUCIÓN BUCAL 2,5 mg	</item>
+        <item>	NONOXYNOL - 9 GEL VAGINAL	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 500 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	PIOFIN SHAMPOO AL 0,02%	</item>
+        <item>	PIOFIN LOCIÓN AL 0,02%	</item>
+        <item>	PURITAN CREMA	</item>
+        <item>	RANITIDINA COMPRIMIDOS RECUBIERTOS 75 mg	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	BICARBONATO DE SODIO POLVO	</item>
+        <item>	VASELINA LÍQUIDA ESTÉRIL	</item>
+        <item>	POMADA SALICILATO DE METILO AL 6%	</item>
+        <item>	DULINAS POMADA PARA COCEDURAS	</item>
+        <item>	VALOREL GEL 5%	</item>
+        <item>	FOILLE UNGÜENTO DÉRMICO	</item>
+        <item>	KANK - EZE SOLUCIÓN TÓPICA BUCAL	</item>
+        <item>	BLISTEX CON MEDICACIÓN CREMA LABIAL	</item>
+        <item>	IVAREST CREMA	</item>
+        <item>	BABYLAX ENEMA INFANTIL, FLEET	</item>
+        <item>	GAVISCON SUSPENSIÓN ORAL	</item>
+        <item>	TINADERM POLVO DÉRMICO AL 1%	</item>
+        <item>	NOSCAPINA JARABE 5 mg/5 mL	</item>
+        <item>	POLIVIDONA YODADA SOLUCIÓN 10% P/V	</item>
+        <item>	POMADA AZUFRADA 6%	</item>
+        <item>	ACAMOL SOLUCIÓN ORAL PARA GOTAS PEDIÁTRICAS 10% P/V	</item>
+        <item>	PARACETAMOL INFANTIL COMPRIMIDOS  80 mg	</item>
+        <item>	ACAMOL ADULTO COMPRIMIDOS 500 mg	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS 100 mg	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS 500 mg	</item>
+        <item>	THROMBO A.S. COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 100 mg	</item>
+        <item>	DISFRUTAB ANTIGAS COMPRIMIDOS MASTICABLES	</item>
+        <item>	AORA SUSPENSIÓN PARA USO ORAL	</item>
+        <item>	CARISTOP SOLUCIÓN PARA ENJUAGATORIO BUCAL 0,05%	</item>
+        <item>	CARISTOP SOLUCIÓN PARA ENJUAGATORIO BUCAL 0,2%	</item>
+        <item>	DIAVIT C-100 COMPRIMIDOS MASTICABLES CON SABOR A NARANJA, LIMÓN, PIÑA, FRESA Y TUTTI FRUTTI	</item>
+        <item>	DIAVIT C - 1000 POLVO EFERVESCENTE 1.000 mg EN SOBRES	</item>
+        <item>	DIAVIT C - 2000 POLVO EFERVESCENTE 2.000 mg EN SOBRES	</item>
+        <item>	NO - FLU CÁPSULAS	</item>
+        <item>	ORALGENE COLUTORIO AL 0,1%	</item>
+        <item>	TAPSIN SIN CAFEÍNA INFANTIL COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	TAPSIN SIN CAFEÍNA PEDIÁTRICO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	TAPSIN PURO SIN CAFEÍNA CÁPSULAS 500 mg	</item>
+        <item>	TAPSIN SIN CAFEÍNA COMPRIMIDOS 500 mg	</item>
+        <item>	TAPSIN SIN CAFEÍNA JARABE 120 mg/5 mL	</item>
+        <item>	MULTAMIN C SABOR NARANJA POLVO EFERVESCENTE 2.000 mg EN SOBRES	</item>
+        <item>	GRANEGAN PASTILLAS 5 mg	</item>
+        <item>	MENTHOLATUM UNGÜENTO TÓPICO	</item>
+        <item>	SHAMPOO TERAPÉUTICO	</item>
+        <item>	AEROPAX JARABE 4 mg/5 mL	</item>
+        <item>	DOMINAL COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 324 mg	</item>
+        <item>	FLUOMIT ADULTO JARABE 30 mg/5 mL	</item>
+        <item>	FLUOMIT INFANTIL JARABE 15 mg/5 mL	</item>
+        <item>	LÁGRIMAS ARTIFICIALES SOLUCIÓN OFTÁLMICA 1,4%	</item>
+        <item>	LAUNOL LOCIÓN	</item>
+        <item>	LAUNOL SHAMPOO	</item>
+        <item>	TAPSIN COMPUESTO CON CLORFENAMINA MALEATO POLVO PARA SOLUCIÓN ORAL, EN SOBRES	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	PARACETAMOL INFANTIL SUPOSITORIOS 125 mg	</item>
+        <item>	PARACETAMOL INFANTIL COMPRIMIDOS 80 mg	</item>
+        <item>	PARACETAMOL INFANTIL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	PEPTINAL COMPRIMIDOS MASTICABLES	</item>
+        <item>	PEPTINAL SUSPENSIÓN ORAL.	</item>
+        <item>	RED-OFF SOLUCIÓN OFTÁLMICA 0,0125%	</item>
+        <item>	REHSAL - 90 POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	REHSAL - 60 POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	RESTOL SUSPENSIÓN ORAL PARA GOTAS 10 mg/mL	</item>
+        <item>	RESTOL CÁPSULAS 10 mg	</item>
+        <item>	TANTUM FORTE CREMA 5%	</item>
+        <item>	TOLNAFTATO SOLUCIÓN TÓPICA  1%	</item>
+        <item>	MULTAMIN C SABOR LIMÓN POLVO EFERVESCENTE 2.000 mg EN SOBRES	</item>
+        <item>	MULTAMIN C SABOR NARANJA POLVO EFERVESCENTE 1000 mg EN SOBRES	</item>
+        <item>	MULTAMIN C SABOR LIMÓN POLVO EFERVESCENTE 1000 mg EN SOBRES	</item>
+        <item>	AGUA BIDESTILADA PARA INYECTABLE	</item>
+        <item>	AGUA OXIGENADA 10 VOLÚMENES	</item>
+        <item>	FLANAX COMPRIMIDOS  RECUBIERTOS 275 mg	</item>
+        <item>	CARIAMYL CREMA TÓPICA	</item>
+        <item>	GASOPAX SUSPENSIÓN ORAL	</item>
+        <item>	MAALOX COMPRIMIDOS MASTICABLES	</item>
+        <item>	MAALOX PLUS COMPRIMIDOS MASTICABLES	</item>
+        <item>	ELECTROLITOS PEDIÁTRICOS Y DEXTROSA SABOR FRESA SOLUCIÓN ORAL	</item>
+        <item>	ELECTROLITOS PEDIÁTRICOS Y DEXTROSA SABOR MANZANA SOLUCIÓN ORAL	</item>
+        <item>	SAL DE FRUTA ENO LIMÓN	</item>
+        <item>	PANADOL ADULTOS COMPRIMIDOS RECUBIERTOS 500 mg	</item>
+        <item>	PANADOL PARA NIÑOS COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	PANADOL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	PANADOL JARABE 160 mg/5 mL	</item>
+        <item>	PANADOL SUPOSITORIOS 125 mg	</item>
+        <item>	TUMS ANTIÁCIDO SABOR NARANJA, CEREZA, LIMA Y LIMÓN COMPRIMIDOS 500 mg	</item>
+        <item>	TUMS SABOR ORIGINAL COMPRIMIDOS	</item>
+        <item>	TUMS EX COMPRIMIDOS	</item>
+        <item>	PANADOL COMPRIMIDOS 325 mg	</item>
+        <item>	ECOTRIN FORTE GRAGEAS 650 mg	</item>
+        <item>	A Y D CREMA VITAMÍNICA	</item>
+        <item>	MEDINAL CREMA 10%	</item>
+        <item>	MEDINAL LOCIÓN 10%	</item>
+        <item>	TINACTIN CREMA TÓPICA 1%	</item>
+        <item>	TINACTIN SOLUCIÓN TÓPICA AL 1%	</item>
+        <item>	VE-RELAX EMULSIÓN ORAL	</item>
+        <item>	MULTAMIN C SABOR NARANJA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	MULTAMIN C SABOR FRAMBUESA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	MULTAMIN C SABOR LIMÓN COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	TIPAC COMPRIMIDOS RECUBIERTOS 75 mg	</item>
+        <item>	Respide Jarabe 2 mg/5 mL	</item>
+        <item>	AEROPAX COMPRIMIDOS 8 mg	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	AIRTEROL INFANTIL JARABE 100 mg/5 mL	</item>
+        <item>	GRIPASAN NUEVA FÓRMULA COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	ANDURSIL COMPRIMIDOS MASTICABLES	</item>
+        <item>	ANDURSIL SUSPENSIÓN	</item>
+        <item>	BIALCOL SOLUCIÓN TÓPICA 0,1%	</item>
+        <item>	CALCIUM SANDOZ + VITAMINA C COMPRIMIDOS EFERVECENTE 2.000 mg	</item>
+        <item>	CROTAMITON CREMA TÓPICA 10%	</item>
+        <item>	CROTAMITON LOCIÓN TÓPICA 10%	</item>
+        <item>	EURAX CREMA TÓPICA AL 10%	</item>
+        <item>	EURAX LOCIÓN TÓPICA 10%	</item>
+        <item>	OCULOSAN SOLUCIÓN OFTÁLMICA	</item>
+        <item>	CATAFLAM EMULGEL D.D.A. CREMA 1%	</item>
+        <item>	ZOLBEN INFANTIL SUPOSITORIOS 130 mg	</item>
+        <item>	ZOLBEN INFANTIL SUPOSITORIOS 260 mg	</item>
+        <item>	ZOLBEN SUPOSITORIOS 500 mg	</item>
+        <item>	ZOLBEN COMPRIMIDOS 500 mg	</item>
+        <item>	ZOLBEN JARABE 120 mg/5 mL	</item>
+        <item>	IONIL - T CHAMPÚ	</item>
+        <item>	POVIDONA YODADA SOLUCIÓN  TÓPICA 10% FASA	</item>
+        <item>	ÁCIDO ACETIL SALICÍLICO CON HIDRÓXIDO DE ALUMINIO COMPRIMIDOS	</item>
+        <item>	MULTAMIN C COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	BILACTON COMPRIMIDOS MASTICABLES	</item>
+        <item>	TALCO MENTOLADO - FASA POLVO TÓPICO	</item>
+        <item>	TINTURA DE YODO FASA SOLUCIÓN TÓPICA	</item>
+        <item>	ORGANA COMPRIMIDOS 500 mg	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS 100 mg	</item>
+        <item>	IPSON FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	POLIVIDONA YODADA SOLUCIÓN JABONOSA 10%	</item>
+        <item>	POLIVIDONA YODADA SOLUCIÓN TÓPICA 10%	</item>
+        <item>	NP-27 PLUS POLVO	</item>
+        <item>	FLUOMIT COMPRIMIDOS 30 mg	</item>
+        <item>	CONMEL INFANTIL COMPRIMIDOS 160 mg	</item>
+        <item>	CONMEL SUPOSITORIOS 500 mg	</item>
+        <item>	WINASORB INFANTIL COMPRIMIDOS MASTICABLES 120 mg	</item>
+        <item>	WINASORB SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	WINASORB JARABE 160 mg/5 mL	</item>
+        <item>	ACI - TIP COMPRIMIDOS MASTICABLES	</item>
+        <item>	ACI - TIP SUSPENSIÓN	</item>
+        <item>	VITAMINA A CREMA DÉRMICA 2.000 U.I./g	</item>
+        <item>	POLIVITAMÍNICO COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	REFLUMOX SUSPENSIÓN ORAL	</item>
+        <item>	REFLUMOX COMPRIMIDOS MASTICABLES	</item>
+        <item>	WINASORB JARABE 150 mg/5 mL	</item>
+        <item>	PARACETAMOL COMPUESTO COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	KITADOL COMPRIMIDOS 500 mg	</item>
+        <item>	KITADOL INFANTIL SUPOSITORIOS 125 mg	</item>
+        <item>	KITADOL INFANTIL JARABE 120 mg/5 mL	</item>
+        <item>	AGUA OXIGENADA 10 VOLÚMENES SOLUCIÓN TÓPICA	</item>
+        <item>	AGUA OXIGENADA 20 VOLÚMENES SOLUCIÓN TÓPICA	</item>
+        <item>	AGUA OXIGENADA 30 VOLÚMENES SOLUCIÓN TÓPICA	</item>
+        <item>	KITADOL INFANTIL COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	POVIDONA YODADA HOFSA LAVADOR QUIRURGICO SOLUCIÓN TÓPICA 10%	</item>
+        <item>	POLIVIDONA YODADA HOFSA SOLUCIÓN TÓPICA 10%	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL HOFSA	</item>
+        <item>	CALORUB SPORT SOLUCIÓN AEROSOL	</item>
+        <item>	JABÓN NEUTRO CON AZUFRE Y ÁCIDO SALICÍLICO	</item>
+        <item>	SANODERM CREMA CICATRIZANTE TÓPICA	</item>
+        <item>	VASELINA LÍQUIDA MEDICINAL	</item>
+        <item>	FREESEPT COMPRIMIDOS DE DISOLUCIÓN BUCAL 2,5 mg	</item>
+        <item>	POLIVITAMÍNICO JARABE	</item>
+        <item>	STRI-DEX PIEL SENSIBLE TOALLAS IMPREGNADAS CON SOLUCIÓN 0,5%	</item>
+        <item>	PARACETAMOL + ÁCIDO ACETILSALICÍLICO + CAFEÍNA COMPRIMIDOS	</item>
+        <item>	PARACETAMOL + ÁCIDO ACETILSALICÍLICO + CAFEÍNA COMPRIMIDOS	</item>
+        <item>	VITAPYRENA DE VICK GRANULADO PARA SOLUCIÓN ORAL, EN SOBRES 500 mg	</item>
+        <item>	PARACETAMOL SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 125 mg	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 250 mg	</item>
+        <item>	PARACETAMOL JARABE 120 mg/5 mL	</item>
+        <item>	PARACETAMOL - ÁCIDO ASCÓRBICO COMPRIMIDOS	</item>
+        <item>	CALMOBET GEL 5%	</item>
+        <item>	FLECTOR PARCHE DÉRMICO 180 mg	</item>
+        <item>	ANTIAX COMPRIMIDOS MASTICABLES	</item>
+        <item>	ANTIAX SUSPENSIÓN ORAL	</item>
+        <item>	IDON CÁPSULAS 10 mg	</item>
+        <item>	IDON SUSPENSIÓN ORAL 1 mg/1 mL	</item>
+        <item>	IDON SUSPENSIÓN PARA GOTAS ORALES 10 mg/1 mL	</item>
+        <item>	MUXOL COMPRIMIDOS 30 mg	</item>
+        <item>	MUXOL PEDIÁTRICO JARABE 15 mg/5 mL	</item>
+        <item>	MUXOL ADULTO JARABE 30 mg/5 mL	</item>
+        <item>	PERIDENT 0,12 COLUTORIO 0,12%	</item>
+        <item>	FRESHMEL TOS COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	DOLSOM SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	CLORURO DE SODIO, CLORURO DE BENZALCONIO Y ALCOHOL POLIVINILICO SOLUCIÓN OFTÁLMICA	</item>
+        <item>	AB ANTISÉPTICO BUCAL COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	NICOTEARS SOLUCIÓN OFTÁLMICA	</item>
+        <item>	LERTUS GEL TÓPICO 1%	</item>
+        <item>	BRONCOT G.F.T. FORTE JARABE 30 mg/5 mL	</item>
+        <item>	BRONCOT G.F.T. JARABE 15 mg/5 mL	</item>
+        <item>	HEMOPLEX CÁPSULAS	</item>
+        <item>	JABÓN CON POLIVIDONA YODADA 10%	</item>
+        <item>	FORTEROL COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	ÁCIDO DEHIDROCÓLICO COMPRIMIDOS 250 mg	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	DOMPERIDONA COMPRMIDOS RECUBIERTOS 10 mg	</item>
+        <item>	DOMPERIDONA SOLUCIÓN ORAL PARA GOTAS 10 mg/mL	</item>
+        <item>	ATAC COMPRIMIDOS 275 mg	</item>
+        <item>	ATAC COMPRIMIDOS 100 mg	</item>
+        <item>	ATAC SUPOSITORIOS 50 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	DOMPERIDONA SUSPENSIÓN ORAL 1 mg/1 mL	</item>
+        <item>	WINASORB SUSPENSIÓN ORAL 250 mg/5 mL	</item>
+        <item>	ALOX COMPRIMIDOS	</item>
+        <item>	CLAMOX LOCIÓN TÓPICA AL 10%	</item>
+        <item>	PREDUAL COMPRIMIDOS	</item>
+        <item>	AMBROTOS JARABE FORTE 30 mg/5 mL	</item>
+        <item>	NAPROXENO SÓDICO SUPOSITORIOS 50 mg	</item>
+        <item>	HIBICRICK PASTILLAS 5 mg	</item>
+        <item>	MURAMYL COLUTORIO 0,11%	</item>
+        <item>	FLUOMAX - D SOLUCIÓN COLUTORIO 0,05%	</item>
+        <item>	METAPIO INCOLORO SOLUCIÓN TÓPICA	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 125 mg	</item>
+        <item>	PARACETAMOL PEDIÁTRICO SOLUCIÓN ORAL PARA GOTAS  100 mg/mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	PARACETAMOL JARABE 120 mg/ 5 mL	</item>
+        <item>	OXIDERM GEL DÉRMICO 5%	</item>
+        <item>	OXIDERM GEL DÉRMICO 2,5%	</item>
+        <item>	REFRESH TEARS SOLUCIÓN OFTÁLMICA 0,5%	</item>
+        <item>	NICOTEARS NICODOSIS SOLUCIÓN OFTÁLMICA	</item>
+        <item>	VITAMINA C COMPRIMIDOS EFERVECENTES 2.000 mg	</item>
+        <item>	CEBION SABOR NARANJA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	CEBION INFANTIL COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	STRI-DEX FORTE LIMPIEZA PROFUNDA TOALLAS IMPREGNADAS CON SOLUCIÓN 2%	</item>
+        <item>	LACRI - LUBE UNGÜENTO OFTÁLMICO	</item>
+        <item>	FLUTOX JARABE 4 mg/5 mL	</item>
+        <item>	STRI-DEX FORTE TOALLAS IMPREGNADAS CON SOLUCIÓN 2%	</item>
+        <item>	MENTOFLAM POMADA TÓPICA	</item>
+        <item>	CLINASEP JABÓN 1%	</item>
+        <item>	NOVALGINA COMPRIMIDOS 500 mg	</item>
+        <item>	NOVALGINA SOLUCIÓN ORAL PARA GOTAS 500 mg/mL	</item>
+        <item>	DÚO CVP JARABE	</item>
+        <item>	MAALOX PLUS 950 SUSPENSIÓN ORAL	</item>
+        <item>	CARBONATO CÁLCICO POLVOS	</item>
+        <item>	BISOLVON JARABE ADULTOS 8 mg/5 mL	</item>
+        <item>	MUCOSOLVAN JARABE 15 mg/5 mL	</item>
+        <item>	MUCOSOLVAN FORTE 30mg/ 5 mL	</item>
+        <item>	CARDIOASPIRINA COMPRIMIDOS DE LIBERACIÓN PROLONGADA 100 mg	</item>
+        <item>	TABCIN COMPRIMIDOS 500 mg	</item>
+        <item>	TABCIN COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	TABCIN SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	KITADOL PERIODO MENSTRUAL COMPRIMIDOS	</item>
+        <item>	DOMPERIDONA CÁPSULAS 10 mg	</item>
+        <item>	NOVOTEARS SOLUCIÓN OFTÁLMICA 0,012%	</item>
+        <item>	ALCOHOL ALCANFORADO AL 10%	</item>
+        <item>	TALCO MENTOLADO BORATADO	</item>
+        <item>	PASTA DE LASSAR (PASTA DE ÓXIDO DE ZINC)	</item>
+        <item>	POLIVIDONA YODADA SOLUCIÓN AL 10%	</item>
+        <item>	T.R.O. SALES PARA REHIDRATACIÓN ORAL 90 mEq/L SODIO	</item>
+        <item>	CREMA AZUFRADA 10%	</item>
+        <item>	GLICERINA SUPOSITORIOS 2 g	</item>
+        <item>	GLICERINA SUPOSITORIOS 3,5 g	</item>
+        <item>	GLICERINA SUPOSITORIOS 3 g	</item>
+        <item>	METAMIZOL SÓDICO (DIPIRONA) SUPOSITORIOS 250 mg	</item>
+        <item>	CREMA AZUFRADA TÓPICA 6%	</item>
+        <item>	CARBON ACTIVADO COMPRIMIDOS 250 mg	</item>
+        <item>	POLIVIDONA YODADA SOLUCIÓN TÓPICA 11%	</item>
+        <item>	POLIVIDONA YODADA POMADA 11%	</item>
+        <item>	ÁCIDO ACETIL SALICÍLICO COMPRIMIDOS 500 mg	</item>
+        <item>	ÁCIDO ACETIL SALICÍLICO COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	PARACETAMOL INFANTIL COMPRIMIDOS 80 mg	</item>
+        <item>	DALEPARIN SUPOSITORIOS ADULTO 500 mg	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	CALCIUM GRANULADO AL 10%	</item>
+        <item>	POMADA VITAMINICA TÓPICA	</item>
+        <item>	HI-C 1000 COMPRIMIDOS EFERVESCENTES	</item>
+        <item>	HI-C 2000 COMPRIMIDOS EFERVESCENTES	</item>
+        <item>	ALGIAFIN JARABE 120 mg/5 mL	</item>
+        <item>	ALGIAFIN SOLUCIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	ALGIAFIN SUPOSITORIOS 300 mg	</item>
+        <item>	INTRASEPT INCOLORO TINTURA 0,1 %	</item>
+        <item>	INTRASEPT TINTURA	</item>
+        <item>	PIRALVEX COMPUESTO CREMA TÓPICA	</item>
+        <item>	PARACETAMOL INFANTIL SUPOSITORIOS 125 mg	</item>
+        <item>	COTIBIN INFANTIL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	POLIVIDONA YODADA POMADA AL 11%	</item>
+        <item>	POLIVIDONA YODADA SOLUCIÓN AL 11%	</item>
+        <item>	CADINOL EMULSIÓN PARA GOTAS ORALES 100 mg/mL	</item>
+        <item>	CADINOL COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	CLARIMIR SOLUCIÓN OFTÁLMICA 0,12 mg/mL	</item>
+        <item>	VITAMINAS A, D2, ALANTOINA, PAMIDATO 0 Y BENZOFENONA 3 EMULSIÓN DÉRMICA	</item>
+        <item>	VITAMINAS A, D2, Y ALANTOÍNA EMULSIÓN DÉRMICA	</item>
+        <item>	LÁGRIMAS ARTIFICIALES SOLUCIÓN OFTÁLMICA	</item>
+        <item>	EUPROCT SUPOSITORIOS	</item>
+        <item>	FLUIBRON JARABE 30 mg/5 mL	</item>
+        <item>	FLUIBRON JARABE 15 mg/5 mL	</item>
+        <item>	LARYLIN COMPRIMIDOS DE SOLUCIÓN BUCAL 0,25 mg	</item>
+        <item>	NOVAPIEL EMULSIÓN TÓPICA	</item>
+        <item>	NOVAPIEL CREMA DÉRMICA	</item>
+        <item>	DOSIN COMPRIMIDOS 10 mg	</item>
+        <item>	REPROST INFANTILES SUPOSITORIOS 50 mg	</item>
+        <item>	TRIOX INFANTIL COMPRIMIDOS 100 mg	</item>
+        <item>	NOSCAPINA COMPRIMIDOS 20 mg	</item>
+        <item>	HISPAGLOSS POMADA	</item>
+        <item>	IMPIDOL SUPOSITORIOS VAGINALES 100 mg	</item>
+        <item>	NOGASTRA COMPRIMIDOS	</item>
+        <item>	NOGASTRA SUSPENSIÓN ORAL	</item>
+        <item>	POVIN POMADA TÓPICA	</item>
+        <item>	SALONPAS-E PARCHE MEDICADO	</item>
+        <item>	SALONPAS PARCHE MEDICADO	</item>
+        <item>	DITIAXAN SUPOSITORIOS VAGINALES 0,2 g	</item>
+        <item>	TREVI JABÓN 2%	</item>
+        <item>	DITIAXAN JABÓN AL 10%	</item>
+        <item>	FIBERSOFT JABÓN DE AVENA CON VITAMINA E	</item>
+        <item>	ÁCIDO ACETIL SALICÍLICO COMPRIMIDOS 500 mg	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	SAL ANTIÁCIDA SABOR NARANJA POLVO EFERVESCENTE	</item>
+        <item>	DIGESPLEN SABOR LIMÓN POLVO EFERVESCENTE	</item>
+        <item>	DIGESPLEN POLVO EFERVESCENTE	</item>
+        <item>	GENIOL COMPRIMIDOS 500 mg	</item>
+        <item>	HASSAPIRIN COMPRIMIDOS 500 mg.	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 10%	</item>
+        <item>	VASELINA LÍQUIDA ORAL	</item>
+        <item>	MENTHOLATUM KIDS CON AROMA CEREZA UNGÜENTO TÓPICO	</item>
+        <item>	DIFEXON SOLUCIÓN ESPUMANTE 10%	</item>
+        <item>	VITAMINA A CREMA	</item>
+        <item>	PARACETAMOL SOLUCIÓN PARA GOTAS ORALES 10 g/100 mL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	DIFEXON POMADA DÉRMICA AL 10%	</item>
+        <item>	PARACETAMOL JARABE INFANTIL 120 mg/5 mL	</item>
+        <item>	PROPALGIN CREMA TÓPICA 0,5%	</item>
+        <item>	SALONPAS GEL TÓPICO	</item>
+        <item>	PEROXIBEN GEL 5%	</item>
+        <item>	PEPTINAL FORTE SABOR GUINDA COMPRIMIDOS MASTICABLES	</item>
+        <item>	FRESHMEL MULTISABOR COMPRIMIDOS DE DISOLUCIÓN BUCAL 5 mg	</item>
+        <item>	VAPORUB INHALADOR DE VICK SOLUCIÓN PARA INHALACIÓN	</item>
+        <item>	VAPORUB UNGÜENTO TÓPICO DE VICK	</item>
+        <item>	ESVIT-C MULTISABOR COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	CEBION COMPRIMIDOS MASTICABLES SABOR TUTTI FRUTTI 500 mg	</item>
+        <item>	CEBION FRESA COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	CALORUB LOCIÓN TÓPICA	</item>
+        <item>	FASAFLEX CREMA TÓPICA	</item>
+        <item>	AGUA OXIGENADA 20 VOLÚMENES SOLUCIÓN TÓPICA	</item>
+        <item>	AGUA OXIGENADA 10 VOLÚMENES SOLUCIÓN TÓPICA	</item>
+        <item>	COLPURIL PLUS LAVABLE LOCIÓN CAPILAR	</item>
+        <item>	FLUOR GEL TÓPICO 1,23%	</item>
+        <item>	ANTIHEMORROIDAL SUPOSITORIOS	</item>
+        <item>	ANTIHEMORROIDAL CREMA TÓPICA	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 100 mg	</item>
+        <item>	BROMHEXINA CLORHIDRATO JARABE 4 mg/5 mL	</item>
+        <item>	AGUA OXIGENADA 30 VOLÚMENES, SOLUCIÓN TÓPICA 9%	</item>
+        <item>	CARIAMYL LOCIÓN DÉRMICA	</item>
+        <item>	CARIAMYL SOLUCIÓN DÉRMICA	</item>
+        <item>	PYRIPED CB CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	ESVIT-C SABOR LIMÓN COMPRIMIDOS MASTICABLES 250 mg	</item>
+        <item>	ESVIT-C SABOR NARANJA COMPRIMIDOS MASTICABLES 250 mg	</item>
+        <item>	NEFERSIL GEL TÓPICO 5%	</item>
+        <item>	WINASORB UP CÁPSULAS BLANDAS	</item>
+        <item>	IBUEVANOL CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	BEROCCA PLUS COMPRIMIDOS EFERVECENTES	</item>
+        <item>	BILACTON FORTE SABOR MENTA, COMPRIMIDOS MASTICABLES	</item>
+        <item>	BILACTON FORTE SABOR LIMÓN NARANJA, COMPRIMIDOS MASTICABLES	</item>
+        <item>	BILACTON SABOR MENTA, SUSPENSIÓN ORAL	</item>
+        <item>	BILACTON SABOR LIMÓN - NARANJA, SUSPENSIÓN ORAL	</item>
+        <item>	ÁCIDO ACETILSALICÍLICO COMPRIMIDOS CON RECUBRIMIENTO ENTÉRICO 50 mg	</item>
+        <item>	HEADOL FLU NOCHE  POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	HEADOL INFANTIL COMPRIMIDOS MASTICABLES  160 mg	</item>
+        <item>	ETOFENAMATO GEL TÓPICO 5%	</item>
+        <item>	FAMOTIDINA COMPRIMIDOS RECUBIERTOS 10 mg	</item>
+        <item>	PAZBRONQ JARABE ADULTO 30 mg/5 mL	</item>
+        <item>	PAZBRONQ JARABE INFANTIL 15 mg/5 mL	</item>
+        <item>	DICHLOREXAN JABÓN LÍQUIDO 4%	</item>
+        <item>	DICHLOREXAN JABÓN LÍQUIDO 2%	</item>
+        <item>	BARRA LABIAL MEDICADA	</item>
+        <item>	METAMIZOL SÓDICO + CAFEÍNA + CLORFENAMINA MALEATO COMPRIMIDOS	</item>
+        <item>	METAMIZOL SÓDICO + CAFEÍNA + CLORFENAMINA MALEATO COMPRIMDOS	</item>
+        <item>	DIPEROX SOLUCIÓN TÓPICA 20 VOLÚMENES	</item>
+        <item>	DIPEROX SOLUCIÓN TÓPICA 30 VOLÚMENES	</item>
+        <item>	DIPEROX SOLUCIÓN TÓPICA 10 VOLÚMENES	</item>
+        <item>	PANAGESIC PERIODO MENSTRUAL	</item>
+        <item>	ALCOHOL ALCANFORADO SOLUCIÓN TÓPICA 10%	</item>
+        <item>	MINTAMOX JARABE 15 mg/5 mL	</item>
+        <item>	POVISEPT SOLUCIÓN ESPUMANTE TÓPICA 10%	</item>
+        <item>	VASELINA LÍQUIDA ORAL	</item>
+        <item>	POVISEPT SOLUCIÓN TÓPICA 10%	</item>
+        <item>	RANITIDINA COMPRIMIDOS RECUBIERTOS 75 mg	</item>
+        <item>	MINTAMOX JARABE 30 mg/5 mL	</item>
+        <item>	PHARMALATUM UNGÜENTO TÓPICO	</item>
+        <item>	PROFEDOLMEDCELL SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	BIODIF CÁPSULAS BLANDAS	</item>
+        <item>	IBUFAS - T COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	GINGILACER PASTA DENTÍFRICA	</item>
+        <item>	FASADOMP CÁPSULAS 10 mg	</item>
+        <item>	FASADOMP SUSPENSIÓN ORAL 5 mg/5 mL	</item>
+        <item>	LÁGRIMAS ARTIFICIALES SOLUCIÓN OFTÁLMICA	</item>
+        <item>	NOLAIS CREMA CAPILAR 1%	</item>
+        <item>	ICADENT COLUTORIO	</item>
+        <item>	OPLEX COMPRIMIDOS DE DISOLUCIÓN BUCAL	</item>
+        <item>	PIROFLAM GEL 1%	</item>
+        <item>	SENSILACER GEL DENTÍFRICO	</item>
+        <item>	AB ANTISÉPTICO BUCAL SABOR LIMÓN COMPRIMIDOS MASTICABLES 5 mg	</item>
+        <item>	AB ANTITUSIVO SABOR MIEL COMPRIMIDOS MASTICABLES	</item>
+        <item>	PERIO - AID SOLUCIÓN PARA ENJUAGUE BUCAL 0,12%	</item>
+        <item>	PERIO - AID GEL DENTAL 0,12%	</item>
+        <item>	SENSAID CON FLUOR SOLUCIÓN PARA COLUTORIO	</item>
+        <item>	SENSAID CON FLUOR PASTA DENTAL	</item>
+        <item>	FLUOR AID PASTA DENTÍFRICA	</item>
+        <item>	FLUOR AID SOLUCIÓN PARA COLUTORIO BUCAL 0,2%	</item>
+        <item>	FLUOR AID SOLUCIÓN PARA COLUTORIO BUCAL 0,05%	</item>
+        <item>	SUPRACALM COMPRIMIDOS 1 g	</item>
+        <item>	METAMIZOL SÓDICO - CAFEÍNA ANHIDRA - CLORFENAMINA MALEATO COMPRIMIDOS	</item>
+        <item>	LÁGRIMAS ARTIFICIALES SOLUCIÓN OFTÁLMICA	</item>
+        <item>	VAPOLATUM UNGÜENTO	</item>
+        <item>	BIOTONUS CÁPSULAS BLANDAS	</item>
+        <item>	VISIVER SOLUCIÓN OFTÁLMICA 0,05%	</item>
+        <item>	METAMIZOL SÓDICO MONOHIDRATO COMPRIMIDOS 300 mg	</item>
+        <item>	BIOSEPT SOLUCIÓN TÓPICA AL 0,175%.	</item>
+        <item>	PERIO-AID CON CLORURO DE CETILPIRIDINIO MANTENIMIENTO COLUTORIO BUCAL	</item>
+        <item>	PERIOXIDIN GELBUCAL 0,2%	</item>
+        <item>	NAPHTEARS SOLUCIÓN OFTÁLMICA 0,012%	</item>
+        <item>	LACRYVISC GEL OFTÁLMICO 0,3 %	</item>
+        <item>	OSTRAM D3 POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	PEPTO-BISMOL SABOR ANIS COMPRIMIDOS MASTICABLES 262,4 mg	</item>
+        <item>	PEPTO-BISMOL SABOR CEREZA COMPRIMIDOS MASTICABLES 262,4 mg	</item>
+        <item>	FASAMOL PLUS CÁPSULAS BLANDAS	</item>
+        <item>	TEARS NATURALE FREE SOLUCIÓN OFTÁLMICA	</item>
+        <item>	TEARS NATURALE II SOLUCIÓN OFTÁLMICA	</item>
+        <item>	ASPIRINA C LIMONADA CALIENTE POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	NULACID COMPRIMIDOS MASTICABLES	</item>
+        <item>	ETOSID JARABE ANTITUSIVO	</item>
+        <item>	SALES PARA REHIDRATACIÓN POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	METAMIZOL SÓDICO MONOHIDRATO COMPRIMIDOS 300 mg	</item>
+        <item>	LAROTABE CÁPSULAS BLANDAS	</item>
+        <item>	NIMESYL GEL TÓPICO 3%	</item>
+        <item>	LEBLON UNGÜENTO LABIAL	</item>
+        <item>	SARIDON COMPRIMIDOS	</item>
+        <item>	BENZOCAÍNA CON ALCOHOL BENCÍLICO UNGÜENTO	</item>
+        <item>	BUCHEX SOLUCIÓN PARA COLUTORIO AL 0,1%	</item>
+        <item>	CLORURO DE ESTRONCIO, PASTA DENTAL 10%	</item>
+        <item>	KALMAFTA GEL TÓPICO	</item>
+        <item>	EXPANDEN SOLUCIÓN PARA INHALACIÓN	</item>
+        <item>	FLUOMAX-P PASTA DENTAL	</item>
+        <item>	IBU - 100 INFANTIL SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	SALIVART AEROSOL BUCAL	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	CADEVIT CÁPSULAS BLANDAS	</item>
+        <item>	FLUORURO DE SODIO GEL TÓPICO  2%	</item>
+        <item>	DIENCIL PASTA DENTAL	</item>
+        <item>	APIRET PEDIÁTRICO COMPRIMIDOS RECUBIERTOS 100 mg	</item>
+        <item>	HEADOL FLU DÍA Y NOCHE POLVO PARA SOLUCIÓN ORAL EN SOBRES	</item>
+        <item>	DOLOPROFEN COMPRIMIDOS RECUBIERTOS 200 mg	</item>
+        <item>	ESVIT-C SABOR LIMÓN COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	ESVIT-C COMPRIMIDOS EFERVESCENTES 1.000 mg	</item>
+        <item>	ESVIT-C COMPRIMIDOS EFERVESCENTES 2.000 mg	</item>
+        <item>	FRESHMEL MIEL LIMÓN COMPRIMIDOS 5 mg	</item>
+        <item>	DITOPAX LIMÓN/NARANJA COMPRIMIDOS MASTICABLES	</item>
+        <item>	LAUNOL PLUS SHAMPOO	</item>
+        <item>	PEPTINAL FORTE COMPRIMIDOS MASTICABLES	</item>
+        <item>	PEPTINAL FORTE SUSPENSIÓN ORAL	</item>
+        <item>	TURBOGESIC CREMA DÉRMICA 1%	</item>
+        <item>	VISIDIC GEL OFTÁLMICO	</item>
+        <item>	VISIDIC SOLUCIÓN OFTÁLMICA 1,4%	</item>
+        <item>	NOSCAPINA COMPRIMIDOS 20 mg	</item>
+        <item>	NOSCAPINA JARABE 5 mg/5 mL	</item>
+        <item>	FEBRICOL SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	FLUORENCIL 180, GEL DENTAL	</item>
+        <item>	NITRATO DE POTASIO 5% PASTA DENTAL	</item>
+        <item>	FLUORENCIL 250, PASTA  DENTAL	</item>
+        <item>	DIGENIL-B CÁPSULAS	</item>
+        <item>	PROCTOPLEX SUPOSITORIOS	</item>
+        <item>	TAPSIN SIN CAFEÍNA CON CLORFENAMINA NOCTURNO COMPRIMIDOS	</item>
+        <item>	CARBOCISTEÍNA CÁPSULAS 375 mg	</item>
+        <item>	MULTAMIN C COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	LAXAMALT CÁPSULAS BLANDAS	</item>
+        <item>	XINTUS JARABE ADULTOS 30 mg/5 mL	</item>
+        <item>	XINTUS INFANTIL JARABE 15 mg/5 mL	</item>
+        <item>	BETACAROTENO CÁPSULAS BLANDAS 1,8 mg	</item>
+        <item>	COLPURIL SHAMPOO PEDICULICIDA	</item>
+        <item>	OCTICAIR SOLUCIÓN OFTÁLMICA 0,5 mg/mL	</item>
+        <item>	FASAMOL COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	TONYMYL JARABE	</item>
+        <item>	IBUFAS - T SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	DOMINAL MX COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 500 mg	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	PARACETAMOL + MEPIRAMINA MALEATO + PAMABRON COMPRIMIDOS	</item>
+        <item>	DIGENIL CÁPSULAS	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO COMPRIMIDOS MASTICABLES 500 mg	</item>
+        <item>	MAG-TAB COMPRIMIDOS DE LIBERACIÓN PROLONGADA 85 mg	</item>
+        <item>	PAROGENCYL BI-ACTIF PASTA DENTAL SABOR MENTA	</item>
+        <item>	PARACETAMOL COMPRIMIDOS MASTICABLES 325 mg	</item>
+        <item>	PIRONAL FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	BLISPROTEX CREMA DÉRMICA	</item>
+        <item>	IBUPIRAC 100 mg/5 mL SUSPENSIÓN ORAL	</item>
+        <item>	IBUPROFENO 5% CREMA	</item>
+        <item>	DECAMETRINA/PIPERONIL BUTÓXIDO LOCIÓN	</item>
+        <item>	DECAMETRINA/PIPERONIL BUTÓXIDO SHAMPOO	</item>
+        <item>	DECAMETRINA SHAMPOO Y LOCIÓN 0,02%	</item>
+        <item>	SIPIRAC GEL 1,16%	</item>
+        <item>	VANTUX CÁPSULAS	</item>
+        <item>	ÁCIDO ASCÓRBICO COMPRIMIDOS MASTICABLES 100 mg	</item>
+        <item>	ALCOHOL POLIVINÍLICO SOLUCIÓN OFTÁLMICA 1,4%	</item>
+        <item>	BABY ORAJEL GEL TÓPICO BUCAL AL 7,5%	</item>
+        <item>	BABY ORAJEL SOLUCIÓN TÓPICA BUCAL AL 7,5%	</item>
+        <item>	BUCOSEPTIL 5 mg COMPRIMIDOS	</item>
+        <item>	BUCOSEPTIL COLUTORIO 0,2%	</item>
+        <item>	ACEITE DE HÍGADO DE BACALAO CON ÓXIDO DE ZINC CREMA	</item>
+        <item>	PIOFIN COMPUESTO LOCIÓN	</item>
+        <item>	ETOFENAMATO GEL 5%	</item>
+        <item>	KLINER SOLUCIÓN OFTÁLMICA	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO COMPRIMIDOS 500 mg	</item>
+        <item>	HIDRÓXIDO DE ALUMINIO SUSPENSIÓN 6%	</item>
+        <item>	PARACETAMOL INFANTIL COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	KETOPROFENO GEL 2,5%	</item>
+        <item>	GENTEAL SOLUCIÓN OFTÁLMICA 0,3%	</item>
+        <item>	LUBRICANTE OCULAR UNGÜENTO OFTÁLMICO	</item>
+        <item>	NAPROXENO GEL TÓPICO 10%	</item>
+        <item>	ORAJEL GEL TÓPICO 10%	</item>
+        <item>	PERMETRINA SHAMPOO 1%	</item>
+        <item>	PIOFIN COMPUESTO SHAMPOO	</item>
+        <item>	PIROXICAM GEL 0,5%	</item>
+        <item>	TETRIZOLINA CLORHIDRATO SOLUCIÓN OFTÁLMICA  0,05%	</item>
+        <item>	TOLNAFTATO CREMA TÓPICA 1%	</item>
+        <item>	TOLNAFTATO SOLUCIÓN TÓPICA 1%	</item>
+        <item>	CARBOCISTEINA JARABE INFANTIL 100 mg/5 mL	</item>
+        <item>	CARBOCISTEINA JARABE ADULTO 250 mg/5 mL	</item>
+        <item>	SPORTGEL AROMA MENTOL GEL TÓPICO 5%	</item>
+        <item>	KILNITS MOUSSE ESPUMA CAPILAR 1%	</item>
+        <item>	PRURIX LOCIÓN TÓPICA	</item>
+        <item>	ZNP CHAMPÚ	</item>
+        <item>	GESIDOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	ELCAL FORTE CÁPSULAS 450 mg	</item>
+        <item>	ELCAL-D FORTE CÁPSULAS	</item>
+        <item>	PERIDENT GEL DENTAL 1%	</item>
+        <item>	FUNGAX POLVO DÉRMICO	</item>
+        <item>	PARACETAMOL SUPOSITORIOS 125 mg	</item>
+        <item>	CALCIO MAGNESIO ZINC COMPRIMIDOS	</item>
+        <item>	FIBRIPSYLL POLVO PARA SOLUCIÓN ORAL	</item>
+        <item>	VITAMINA B1,B6,B12, ÁCIDO FÓLICO Y RIBOFLAVINA CÁPSULAS BLANDAS	</item>
+        <item>	IBUPIRAC FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	LAXAMALT VASELINA LÍQUIDA CON SABOR	</item>
+        <item>	HEADOL COMPRIMIDOS 500 mg	</item>
+        <item>	IBUGEL GEL 5%	</item>
+        <item>	PARACETAMOL COMPRIMIDOS 80 mg	</item>
+        <item>	METAMIZOL SÓDICO COMPRIMIDOS 300 mg	</item>
+        <item>	PARACETAMOL SOLUCIÓN ORAL PARA GOTAS 100 mg/mL	</item>
+        <item>	HEPATALGINA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GRANEODIN-TOS PASTILLAS	</item>
+        <item>	POMADA MENTOLADA COMPUESTA BADEN	</item>
+        <item>	TRIATOP SHAMPOO 1 mg/mL	</item>
+        <item>	MOVIFLEX SOLUCIÓN TÓPICA 1%	</item>
+        <item>	AB ANTITUSIVO COMPRIMIDOS MASTICABLES	</item>
+        <item>	NICOTEARS GEL OFTÁLMICO	</item>
+        <item>	NUBILINA SOLUCIÓN PARA NEBULIZACIÓN NASAL	</item>
+        <item>	TALFLEX GEL TÓPICO 2,5 %.	</item>
+        <item>	PIRONAL COMPRIMIDOS 200 mg	</item>
+        <item>	PIRONAL SUSPENSIÓN ORAL 100 mg/5 mL.	</item>
+        <item>	SIDOLEX COMPRIMIDOS 100 mg	</item>
+        <item>	HYDRATIN GEL TÓPICO 0,5%	</item>
+        <item>	BARALGINA M JARABE 250 mg/5 mL	</item>
+        <item>	ANTIAX FORTE SUSPENSIÓN	</item>
+        <item>	EUROGESIC INFANTIL COMPRIMIDOS RECUBIERTOS 100 mg	</item>
+        <item>	EUROGESIC ADULTO COMPRIMIDOS RECUBIERTOS 275 mg	</item>
+        <item>	EUROGESIC GEL TÓPICO 10%	</item>
+        <item>	EUROGESIC INFANTIL SUPOSITORIOS 50 mg	</item>
+        <item>	TIFEN FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	IBUFAS - T FORTE SUSPENSIÓN ORAL 200 mg/5 mL	</item>
+        <item>	BENZOCAÍNA GEL BUCAL 7,5%	</item>
+        <item>	BELDENT GEL BUCAL 7,5%	</item>
+        <item>	CALCIMIN GRANULADO 10%	</item>
+        <item>	GENIOL  COMPRIMIDOS MASTICABLES 80 mg	</item>
+        <item>	PARACETAMOL JARABE 120 mg/5 mL	</item>
+        <item>	FLAXIA COMPRIMIDOS RECUBIERTOS 44 mg	</item>
+        <item>	METAMIZOL SÓDICO SUPOSITORIOS 250 mg	</item>
+        <item>	METAMIZOL SÓDICO MONOHIDRATO SUPOSITORIOS 500 mg	</item>
+        <item>	NAPROXENO SÓDICO COMPRIMIDOS RECUBIERTOS 100 mg	</item>
+        <item>	NAPROXENO SÓDICO COMPRIMIDOS RECUBIERTOS 275 mg	</item>
+        <item>	PYRIPED SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	SASTID JABÓN	</item>
+        <item>	ADVIL SUSPENSIÓN ORAL 100 mg/5 mL	</item>
+        <item>	CLORURO DE BENZALCONIO - LIDOCAÍNA SOLUCIÓN PARA ATOMIZAR	</item>
+        <item>	CHAMOMILLA TINTURA MADRE SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GINSENG T.M., SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	IGNATIA D6 SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ADONIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	CANTHARIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	CARDUUS COMPUESTO SOLUCIÓN	</item>
+        <item>	SIMILIBUS GOTAS ORALES	</item>
+        <item>	POPULUS COMPUESTO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SALVIA OFFICINALIS COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	FORMULA II ESPECIAL SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GLÓBULOS COMPLEJOS 131	</item>
+        <item>	GLÓBULOS COMPLEJOS 158	</item>
+        <item>	TALCO CALENDULADO POLVO	</item>
+        <item>	ACIDUM PHOSPHORICUM COMPUESTO, SOLUCIÓN PARA GOTAS ORALES N°35	</item>
+        <item>	AESCULUS COMPUESTO, SOLUCIÓN PARA GOTAS ORALES N° 23	</item>
+        <item>	ARUM TRIPHYLLUM COMPUESTO, SOLUCIÓN PARA GOTAS ORALES N° 38	</item>
+        <item>	ALÚMINA COMPUESTA, SOLUCIÓN PARA GOTAS ORALES N° 9	</item>
+        <item>	ALOE COMPUESTO, SOLUCIÓN PARA  GOTAS ORALES Nº1	</item>
+        <item>	SORBET SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CLEMATIS COMPUESTO, SOLUCIÓN PARA GOTAS ORALES Nº10	</item>
+        <item>	CYCLAMEN COMPUESTO, SOLUCIÓN PARA GOTAS ORALES Nº36	</item>
+        <item>	HELONIAS COMPUESTA, SOLUCIÓN PARA GOTAS ORALES Nº27	</item>
+        <item>	HEPATOXIL-LARRAZE SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	HYPERICUM COMPUESTO, SOLUCIÓN PARA GOTAS ORALES N°14	</item>
+        <item>	IPECACUANHA COMPUESTA, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	LACHESIS COMPUESTA, SOLUCIÓN PARA GOTAS ORALES Nº 12	</item>
+        <item>	SARADILLA COMPUESTA, SOLUCIÓN PARA GOTAS ORALES N° 37	</item>
+        <item>	NATRIUM IODATUM COMPUESTO, SOLUCIÓN PARA GOTAS ORALES Nº29	</item>
+        <item>	NATRIUM SULFURICUM COMPUESTO, SOLUCIÓN PARA GOTAS ORALES Nº31	</item>
+        <item>	NUX VOMICA COMPUESTA, SOLUCIÓN PARA GOTAS ORALES Nº7	</item>
+        <item>	PASSIFLORA COMPUESTA, SOLUCIÓN PARA GOTAS ORALES Nº22	</item>
+        <item>	PRUNUS COMPUESTO, SOLUCIÓN PARA GOTAS ORALES Nº15	</item>
+        <item>	SABAL SERRULATA COMPUESTO, SOLUCIÓN PARA GOTAS ORALES Nº30	</item>
+        <item>	COMPLEJO ARMÓNICO N° 30, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 39, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N°41, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 43, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 47, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 49, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 52, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 53, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 56, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 60, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 62, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 63, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 64, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	COMPLEJO ARMÓNICO N° 66, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES D3	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES D12	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES D30	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES C30	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES C200	</item>
+        <item>	VENOFIT SOLUCIÓN ORAL PARA GOTAS.	</item>
+        <item>	Nux Vomica-heelaccord Solucion Oral Para Gotas	</item>
+        <item>	Hepeel Comprimidos Sublinguales	</item>
+        <item>	Bronchalis- Heel Comprimidos Sublinguales	</item>
+        <item>	Rheuma-heel Comprimidos	</item>
+        <item>	TRAUMEEL SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	DROSERA-HEELACCORD SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	PSORINOHEEL N SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	Tartephedreel Solucion Oral Para Gotas	</item>
+        <item>	Euphorbium Compositum S Solucion Oral Para Gotas.	</item>
+        <item>	VERTIGOHEEL SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	COMPLEJO ARMÓNICO N° 7, AESCULUS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	OSCILLOCOCCINUM GLÓBULOS HOMEOPÁTICOS	</item>
+        <item>	NEUROSEDANTE SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ENTERINUM COMPRIMIDOS	</item>
+        <item>	CHELIDONIUM COMPUESTO N SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	BERBERIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	PHOSPHOR - HEELACCORD SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	GH-102 ALGISAN SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	GH-103 ALEMANAS SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	DIARRHEEL S COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	RENEEL N COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	SULFUR-HEEL COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	ECHINACEA PURPUREA TM SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	OSTEOFIX COMPRIMIDOS	</item>
+        <item>	COMPLEJO ARMÓNICO N° 17, EUPATORIUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	COMPLEJO ARMÓNICO N° 14, RHUS TOXICODENDRON COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	BERBERIS HEELACCORD SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	PASSIFLORA TM SOLUCIÓN PARA GOTAS ORALES 	</item>
+        <item>	CRATAEGUS TM SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GH 101 RENALES SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	COMPLEJO ARMÓNICO N° 5, PRUNUS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	CARDUUS MARIANUS T.M.	</item>
+        <item>	CYNARA COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SANUTRIN JARABE INFANTIL	</item>
+        <item>	SANUTRIN-F JARABE ADULTOS	</item>
+        <item>	MAGNESIUM CARBONICUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ANACARDIUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	LYMPHOMYOSOT N SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	COMPLEJO ARMÓNICO N° 18, NUPHAR COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	COMPLEJO ARMÓNICO N° 12, QUEBRACHO COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	COMPLEJO ARMÓNICO N° 8, CANTHARIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	MEDIFORM 79 SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ACIDUM PHOSPHORICUM D6 GLÓBULOS	</item>
+        <item>	APIS D6 GLÓBULOS 	</item>
+        <item>	ÁRNICA D6 GLÓBULOS 	</item>
+        <item>	AVENA SATIVA D6 GLÓBULOS	</item>
+        <item>	BELLADONA D6 GLÓBULOS	</item>
+        <item>	BRYONA D6 GLÓBULOS 	</item>
+        <item>	CANTHARIS D6 GLÓBULOS	</item>
+        <item>	CARDUUS MARIANUS D6 GLÓBULOS	</item>
+        <item>	CHINA D6 GLÓBULOS	</item>
+        <item>	COLOCYNTHIS D6 GLÓBULOS	</item>
+        <item>	CRATAEGUS D6 GLÓBULOS	</item>
+        <item>	DROSERA D6 GLÓBULOS	</item>
+        <item>	DULCAMARA D6 GLÓBULOS	</item>
+        <item>	EUPHRASIA D6 GLÓBULOS	</item>
+        <item>	GELSENIUM D6 GLÓBULOS	</item>
+        <item>	GRAPHITES D6 GLÓBULOS	</item>
+        <item>	HAMAMELIS D6 GLÓBULOS	</item>
+        <item>	KALIUM PHOSPHORICUM D6 GLÓBULOS	</item>
+        <item>	LEDUM D6 GLÓBULOS	</item>
+        <item>	MERCURIUS SOLUBILIS D6 GLÓBULOS	</item>
+        <item>	NUX VOMICA D6 GLÓBULOS	</item>
+        <item>	PASSIFLORA D6 GLÓBULOS	</item>
+        <item>	PODOPHYLLUM D6 GLÓBULOS	</item>
+        <item>	RHUS TOXICODENDRON D6 GLÓBULOS	</item>
+        <item>	RUTA D6 GLÓBULOS	</item>
+        <item>	SANGUINARIA D6 GLÓBULOS	</item>
+        <item>	SILICEA D6 GLÓBULOS	</item>
+        <item>	SPIGELIA D6 GLÓBULOS	</item>
+        <item>	SULFUR D6 GLÓBULOS	</item>
+        <item>	KLIMAKT-HEEL T COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	ENTEROKIND SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	DORMIKIND COMPRIMIDOS	</item>
+        <item>	KINDINORM GLÓBULOS 	</item>
+        <item>	ESTOMAKIND COMPRIMIDOS	</item>
+        <item>	DENTOKIND COMPRIMIDOS	</item>
+        <item>	INMUNOKIND COMPRIMIDOS 	</item>
+        <item>	ÁRNICA D30 GLÓBULOS	</item>
+        <item>	ÁRNICA D12 GLÓBULOS	</item>
+        <item>	ÁRNICA D6 GLÓBULOS	</item>
+        <item>	ÁRNICA C30 GLÓBULOS	</item>
+        <item>	NEUREXAN COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	ARNICA C200 GLÓBULOS HOMEOPÁTICOS	</item>
+        <item>	HOMOIO Nº 1	</item>
+        <item>	HOMOIO Nº 2	</item>
+        <item>	HOMOIO Nº 3	</item>
+        <item>	HOMOIO Nº 4	</item>
+        <item>	HOMOIO Nº 5	</item>
+        <item>	HOMOIO Nº 6	</item>
+        <item>	HOMOIO Nº 7	</item>
+        <item>	HOMOIO Nº 8	</item>
+        <item>	HOMOIO Nº 9	</item>
+        <item>	HOMOIO Nº 10	</item>
+        <item>	HOMOIO Nº 12	</item>
+        <item>	HOMOIO Nº 13	</item>
+        <item>	HOMOIO Nº 14	</item>
+        <item>	HOMOIO Nº 15	</item>
+        <item>	HOMOIO Nº 16	</item>
+        <item>	HOMOIO Nº 17	</item>
+        <item>	HOMOIO Nº 18	</item>
+        <item>	HOMOIO Nº 19	</item>
+        <item>	HOMOIO Nº 20	</item>
+        <item>	HOMOIO Nº 21	</item>
+        <item>	HOMOIO Nº 22	</item>
+        <item>	HOMOIO Nº 23	</item>
+        <item>	HOMOIO Nº 24	</item>
+        <item>	HOMOIO Nº 25	</item>
+        <item>	HOMOIO Nº 26	</item>
+        <item>	HOMOIO Nº 27	</item>
+        <item>	HOMOIO Nº 28	</item>
+        <item>	HOMOIO N° 29	</item>
+        <item>	HOMOIO Nº 30	</item>
+        <item>	HOMOIO Nº 31	</item>
+        <item>	HOMOIO Nº 32	</item>
+        <item>	HOMOIO Nº 33	</item>
+        <item>	HOMOIO Nº 34	</item>
+        <item>	HOMOIO Nº 35	</item>
+        <item>	HOMOIO Nº 36	</item>
+        <item>	HOMOIO Nº 37	</item>
+        <item>	HOMOIO Nº 38	</item>
+        <item>	HOMOIO Nº 40	</item>
+        <item>	HOMOIO Nº 41	</item>
+        <item>	HOMOIO Nº 42	</item>
+        <item>	HOMOIO Nº 43	</item>
+        <item>	HOMOIO Nº 44	</item>
+        <item>	HOMOIO Nº 45	</item>
+        <item>	HOMOIO Nº 46	</item>
+        <item>	HOMOIO Nº 47	</item>
+        <item>	HOMOIO Nº 48	</item>
+        <item>	HOMOIO Nº 49	</item>
+        <item>	HOMOIO Nº 50	</item>
+        <item>	HOMOIO Nº 51	</item>
+        <item>	HOMOIO Nº 52	</item>
+        <item>	HOMOIO Nº 53	</item>
+        <item>	HOMOIO Nº 54	</item>
+        <item>	HOMOIO Nº 55	</item>
+        <item>	HOMOIO Nº 56	</item>
+        <item>	HOMOIO Nº 57	</item>
+        <item>	HOMOIO Nº 58	</item>
+        <item>	HOMOIO Nº 59	</item>
+        <item>	HOMOIO Nº 60	</item>
+        <item>	SIMILIA Nº 101	</item>
+        <item>	SIMILIA N° 102	</item>
+        <item>	SIMILIA Nº 103	</item>
+        <item>	SIMILIA Nº 104	</item>
+        <item>	SIMILIA N° 105	</item>
+        <item>	SIMILIA N° 106	</item>
+        <item>	SIMILIA Nº 107	</item>
+        <item>	SIMILIA N° 108	</item>
+        <item>	SIMILIA N° 109	</item>
+        <item>	SIMILIA N° 110	</item>
+        <item>	SIMILIA Nº 111	</item>
+        <item>	SIMILIA Nº 112	</item>
+        <item>	SIMILIA Nº 113	</item>
+        <item>	SIMILIA N° 114	</item>
+        <item>	SIMILIA Nº 115	</item>
+        <item>	SIMILIA Nº 116	</item>
+        <item>	SIMILIA Nº 117	</item>
+        <item>	SIMILIA Nº 118	</item>
+        <item>	SIMILIA Nº 119	</item>
+        <item>	SIMILIA Nº 120	</item>
+        <item>	SIMILIA Nº 121	</item>
+        <item>	SIMILIA Nº 122	</item>
+        <item>	SIMILIA Nº 123	</item>
+        <item>	SIMILIA Nº 124	</item>
+        <item>	SIMILIA Nº 125	</item>
+        <item>	SIMILIA Nº 126	</item>
+        <item>	SIMILIA Nº 127	</item>
+        <item>	SIMILIA Nº 128	</item>
+        <item>	SIMILIA Nº 129	</item>
+        <item>	SIMILIA Nº 159	</item>
+        <item>	GLÓBULO COMPUESTO Nº 1	</item>
+        <item>	GLÓBULO COMPUESTO Nº 2	</item>
+        <item>	GLÓBULO COMPUESTO Nº 3	</item>
+        <item>	GLÓBULO COMPUESTO Nº 4	</item>
+        <item>	GLÓBULO COMPUESTO Nº 5	</item>
+        <item>	GLÓBULO COMPUESTO Nº 5 A	</item>
+        <item>	GLÓBULO COMPUESTO Nº 6	</item>
+        <item>	GLÓBULO COMPUESTO Nº 7	</item>
+        <item>	GLÓBULO COMPUESTO Nº 8	</item>
+        <item>	GLÓBULO COMPUESTO Nº 9	</item>
+        <item>	GLÓBULO COMPUESTO Nº 10	</item>
+        <item>	GLÓBULO COMPUESTO Nº 10 A	</item>
+        <item>	GLÓBULO COMPUESTO Nº 11	</item>
+        <item>	GLÓBULO COMPUESTO Nº 12	</item>
+        <item>	GLÓBULO COMPUESTO Nº 13	</item>
+        <item>	GLÓBULO COMPUESTO Nº 14	</item>
+        <item>	GLÓBULO COMPUESTO Nº 15	</item>
+        <item>	GLÓBULO COMPUESTO Nº 15A	</item>
+        <item>	GLOBULO COMPUESTO Nº 16	</item>
+        <item>	GLÓBULO COMPUESTO Nº 17	</item>
+        <item>	GLÓBULO COMPUESTO Nº 18	</item>
+        <item>	GLÓBULO COMPUESTO Nº 19	</item>
+        <item>	GLÓBULO COMPUESTO Nº 20	</item>
+        <item>	GLÓBULO COMPUESTO Nº 21	</item>
+        <item>	GLOBULO COMPUESTO Nº 22	</item>
+        <item>	GLOBULO COMPUESTO Nº 23	</item>
+        <item>	GLOBULO COMPUESTO Nº 24	</item>
+        <item>	GLOBULO COMPUESTO Nº 25	</item>
+        <item>	GLOBULO COMPUESTO Nº 26	</item>
+        <item>	GLÓBULO COMPUESTO Nº 27	</item>
+        <item>	GLÓBULO COMPUESTO Nº 28	</item>
+        <item>	GLÓBULO COMPUESTO Nº 28A	</item>
+        <item>	GLÓBULO COMPUESTO Nº 29	</item>
+        <item>	GLÓBULO COMPUESTO Nº 30	</item>
+        <item>	GLÓBULO COMPUESTO Nº 31	</item>
+        <item>	LACHESS COMPRIMIDOS	</item>
+        <item>	GLÓBULO COMPUESTO Nº 33	</item>
+        <item>	GLÓBULO COMPUESTO Nº 34	</item>
+        <item>	GLÓBULO COMPUESTO Nº 35	</item>
+        <item>	GLOBULO COMPUESTO Nº 36	</item>
+        <item>	FLUCOCCINUM COMPRIMIDOS	</item>
+        <item>	GLÓBULO COMPUESTO Nº 38	</item>
+        <item>	GLÓBULO COMPUESTO Nº 38A	</item>
+        <item>	GLÓBULO COMPUESTO Nº 40	</item>
+        <item>	GLOBULO COMPUESTO Nº 42	</item>
+        <item>	GLOBULO COMPUESTO Nº 43	</item>
+        <item>	GLOBULO COMPUESTO Nº 44	</item>
+        <item>	GLÓBULO COMPUESTO Nº 45	</item>
+        <item>	GLÓBULO COMPUESTO Nº 46	</item>
+        <item>	GLOBULO COMPUESTO Nº 47	</item>
+        <item>	GLOBULO COMPUESTO Nº 48	</item>
+        <item>	GLÓBULO COMPUESTO N°49	</item>
+        <item>	GLOBULO COMPUESTO Nº 50	</item>
+        <item>	GLOBULO COMPUESTO Nº 51	</item>
+        <item>	GLOBULO COMPUESTO Nº 53	</item>
+        <item>	GLOBULO COMPUESTO Nº 54	</item>
+        <item>	GLOBULO COMPUESTO Nº 55	</item>
+        <item>	SILIK COMPRIMIDOS	</item>
+        <item>	GLOBULO COMPUESTO Nº 57	</item>
+        <item>	GLOBULO COMPUESTO Nº 58	</item>
+        <item>	ENGYSTOL COMPRIMIDOS	</item>
+        <item>	HEPABOLDIN JARABE	</item>
+        <item>	IKOPLEX Nº 10 COMPRIMIDOS	</item>
+        <item>	IKOPLEX N°5 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 3 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 21 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 23 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 14 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº11 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 22 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 12 COMPRIMIDOS	</item>
+        <item>	IKOPLEX N°19 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 13 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 9 COMPRIMIDOS	</item>
+        <item>	IKOPLEX N°15 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 2 COMPRIMIDOS	</item>
+        <item>	IKOPLEX N°7 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 6 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 18 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 4 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 8 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 20 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 24 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº 17 COMPRIMIDOS	</item>
+        <item>	IKOPLEX Nº1 COMPRIMIDOS	</item>
+        <item>	LOBELIA COMPUESTA I SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	AVENA SATIVA TINTURA MADRE SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	ACID SULFUR COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	THUJA TINTURA MADRE, SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	CRATAEGUS TINTURA MADRE SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	CALÉNDULA TINTURA MADRE SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ALFALFA TINTURA MADRE SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	HELONIAS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	PASSIFLORA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	CRATAEGUS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	IGNATIA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	AVENA SATIVA COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	BERBERIS-CANTHARIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	CHELIDONIUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	APIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	SANGUINARIA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	BERBERIS COMPUESTA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	PERTUSSIN SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	TABACUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ARENARIA COMPUESTA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ÁRNICA HAMAMELIS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ALGAS CON OLIVOS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	CHAMOMILLA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	CHIMAPHILA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	RHUS TOXICODENDRON COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	IGNATIA COMPUESTA D8 SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	FUCUS LYCOPODIUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ESCARAMUJO TINTURA MADRE SOLUCIÓN ORAL PARA  GOTAS	</item>
+        <item>	SABAL SERRULATA COMPUESTA III SOLUCIÓN ORAL  PARA GOTAS	</item>
+        <item>	BELLADONA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	VARIPLANT SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	AURUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	INFLUK SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	SABAL SERRUL COMPUESTO I SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	SIMILIA Nº 130	</item>
+        <item>	OCULOHEEL SOLUCIÓN OFTÁLMICA	</item>
+        <item>	SIMILIA Nº 131	</item>
+        <item>	TRAUMEEL S POMADA	</item>
+        <item>	LUFFEEL SOLUCIÓN PARA INHALACIÓN NASAL	</item>
+        <item>	EUPHORBIUM COMPOSITUM S SOLUCIÓN PARA INHALACIÓN NASAL	</item>
+        <item>	G.U.G./X SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SIMILIA Nº 132	</item>
+        <item>	GRIPPAKIT GLÓBULOS COMPUESTOS	</item>
+        <item>	MELINERV SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	MELISA T.M. SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GRIPP - HEEL COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	ANGIN - HEEL SD COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	TRAUMEEL S COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	SIMILIA Nº 133	</item>
+        <item>	OLEUM JECOR COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	STRAMONIUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	FUCUS - PHYTOLACCA COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	MASTUERZO COMPUESTO SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	CALÉNDULA ECHINACEA COMPUESTO SOLUCIÓN TÓPICA	</item>
+        <item>	GALEGA D4 SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CINERARIA D6 SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SIMILIA Nº 134	</item>
+        <item>	ÁRNICA TINTURA MADRE SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	FUCUS TM SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	PASSIFLORA T.M. SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	PHYTOLACCA TM SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SIMILIA Nº 135	</item>
+        <item>	PLANTAGO TM SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	QUERCUS TINTURA MADRE SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	TARAXACUM TM SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	CALENDADERM UNGÜENTO TÓPICO	</item>
+        <item>	FUCUS ESPECIAL COMPRIMIDOS	</item>
+        <item>	OVUKALEN ÓVULOS VAGINALES	</item>
+        <item>	SIMILIA Nº 136	</item>
+        <item>	THUJADERM  UNGÜENTO TÓPICO 10%	</item>
+        <item>	AESCULUS UNGÜENTO TÓPICO	</item>
+        <item>	ÁRNICA UNGÜENTO TÓPICO 10%	</item>
+        <item>	ECHINACEA UNGÜENTO TÓPICO	</item>
+        <item>	GRAPHITES UNGÜENTO TÓPICO 10%	</item>
+        <item>	HAMAMELIS UNGÜENTO TÓPICO	</item>
+        <item>	ACTAEA RACEMOSA D6 COMPRIMIDOS	</item>
+        <item>	IRIS VERSICOLOR D6 COMPRIMIDOS	</item>
+        <item>	ARSENICUM ALBUM D6 COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 137	</item>
+        <item>	ACONITUM D6 COMPRIMIDOS	</item>
+        <item>	CHAMOMILLA D6 COMPRIMIDOS	</item>
+        <item>	FERRUM PHOSPHORICUM D6 COMPRIMIDOS	</item>
+        <item>	CAUSTICUM D6 COMPRIMIDOS	</item>
+        <item>	KALIUM JODATUM D6 COMPRIMIDOS	</item>
+        <item>	STAPHYSAGRIA D6 COMPRIMIDOS	</item>
+        <item>	CALCIUM CARBONICUM D6 COMPRIMIDOS	</item>
+        <item>	CHINA D6 COMPRIMIOS	</item>
+        <item>	ANTIMONIUM CRUDO D6 COMPRIMIDOS	</item>
+        <item>	COLOCYNTHIS D6 COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 138	</item>
+        <item>	CACTUS D6 COMPRIMIDOS	</item>
+        <item>	KORO 2 COMPRIMIDOS	</item>
+        <item>	GELSEMIUM D6 COMPRIMIDOS	</item>
+        <item>	COFFEA D6 COMPRIMIDOS	</item>
+        <item>	KALIUM BROMATUM D6 COMPRIMIDOS	</item>
+        <item>	SULFUR YODATUM D6 COMPRIMIDOS	</item>
+        <item>	HEPAR SULFURIS D6 COMPRIMIDOS	</item>
+        <item>	ACIDUM PHOSPHORICUM D6 COMPRIMIDOS	</item>
+        <item>	CARBON VEGETAL D6 COMPRIMIDOS	</item>
+        <item>	CHELIDONIUM D6 COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 139	</item>
+        <item>	HAMAMELIS D6 COMPRIMIDOS	</item>
+        <item>	SULFUR D6 COMPRIMIDOS	</item>
+        <item>	CANTHARIS D6 COMPRIMIDOS	</item>
+        <item>	BRYONIA D6 COMPRIMIDOS	</item>
+        <item>	LYCOPODIUM D6 COMPRIMIDOS	</item>
+        <item>	THUJA D6 COMPRIMIDOS	</item>
+        <item>	BELLADONA D6 COMPRIMIDOS	</item>
+        <item>	APIS D6 COMPRIMIDOS	</item>
+        <item>	IGNATIA D6 COMPRIMIDOS	</item>
+        <item>	PULSATILLA D6 COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 140	</item>
+        <item>	NUX VOMICA D6 COMPRIMIDOS	</item>
+        <item>	RHUS TOXICODENDRON D6 COMPRIMIDOS	</item>
+        <item>	ÁRNICA D6 COMPRIMIDOS	</item>
+        <item>	CARTÍLAGO D6 COMPRIMIDOS	</item>
+        <item>	ALGAS COMPUESTAS COMPRIMIDOS	</item>
+        <item>	ALGAS MARINAS CON OLIVOS COMPRIMIDOS	</item>
+        <item>	AVENA SATIVA COMPRIMIDOS	</item>
+        <item>	CACTUS COMPRIMIDOS	</item>
+        <item>	CRATAEGUS COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 141	</item>
+        <item>	DIG HERBAL COMPRIMIDOS	</item>
+        <item>	ESCARAMUJO COMPRIMIDOS	</item>
+        <item>	FUCUS COMPRIMIDOS	</item>
+        <item>	MATICO COMPUESTO COMPRIMIDOS	</item>
+        <item>	MELISA COMPRIMIDOS	</item>
+        <item>	PASSIFLORA COMPRIMIDOS	</item>
+        <item>	PHYTOLACCA TM COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 142	</item>
+        <item>	QUERCUS COMPRIMIDOS	</item>
+        <item>	RUBIA TRICTORUM COMPUESTA COMPRIMIDOS	</item>
+        <item>	TARAXACUM COMPRIMIDOS	</item>
+        <item>	CALCIUM FLUORICUM D12 COMPRIMIDOS	</item>
+        <item>	CALCIUM PHOSPHORICUM D6 COMPRIMIDOS	</item>
+        <item>	CALCIUM SULFURICUM D12 COMPRIMIDOS	</item>
+        <item>	FERRUM PHOSPHORICUM D12 COMPRIMIDOS	</item>
+        <item>	KALIUM MURIATICUM D6 COMPRIMIDOS	</item>
+        <item>	KALIUM PHOSPHORICUM D6 COMPRIMIDOS	</item>
+        <item>	KALIUM SULFURICUM D6 COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 143	</item>
+        <item>	MAGNESIUM PHOSPHORICUM D6 COMPRIMIDOS	</item>
+        <item>	NATRIUM MURIATICUM D6 COMPRIMIDOS	</item>
+        <item>	NATRIUM PHOSPHOSICUM D6 COMPRIMIDOS	</item>
+        <item>	NATRIUM SULFURICUM D6 COMPRIMIDOS	</item>
+        <item>	SILICEA D6 COMPRIMIDOS	</item>
+        <item>	GLÓBULOS COMPLEJOS 108	</item>
+        <item>	GLÓBULOS COMPLEJOS 159	</item>
+        <item>	GLÓBULOS COMPLEJOS 140	</item>
+        <item>	GLÓBULOS COMPLEJOS 150	</item>
+        <item>	GLÓBULOS COMPLEJOS 106	</item>
+        <item>	SIMILIA Nº 144	</item>
+        <item>	GLÓBULOS COMPLEJOS 107	</item>
+        <item>	GLÓBULOS COMPLEJOS 123	</item>
+        <item>	GLÓBULOS COMPLEJOS 125	</item>
+        <item>	GLÓBULOS COMPLEJOS 153	</item>
+        <item>	GLÓBULOS COMPLEJOS 110	</item>
+        <item>	LUMBOPLEX COMPRIMIDOS	</item>
+        <item>	GLÓBULOS COMPLEJOS 118	</item>
+        <item>	GLÓBULOS COMPLEJOS 143	</item>
+        <item>	GLÓBULOS COMPLEJOS 104	</item>
+        <item>	GLÓBULOS COMPLEJOS 130	</item>
+        <item>	SIMILIA Nº 145	</item>
+        <item>	GLÓBULOS COMPLEJOS 119	</item>
+        <item>	GLÓBULOS COMPLEJOS 135	</item>
+        <item>	GLÓBULOS COMPLEJOS 122	</item>
+        <item>	GLÓBULOS COMPLEJOS 152	</item>
+        <item>	GLÓBULOS COMPLEJOS 117	</item>
+        <item>	GLÓBULOS COMPLEJOS 129	</item>
+        <item>	GLÓBULOS COMPLEJOS 151	</item>
+        <item>	GLÓBULOS COMPLEJOS 138	</item>
+        <item>	GLÓBULOS COMPLEJOS 149	</item>
+        <item>	GLÓBULOS COMPLEJOS 101	</item>
+        <item>	SIMILIA Nº 146	</item>
+        <item>	GLÓBULOS COMPLEJOS 126	</item>
+        <item>	GLÓBULOS COMPLEJOS 128	</item>
+        <item>	GLÓBULOS COMPLEJOS 115	</item>
+        <item>	GLÓBULOS COMPLEJOS 121	</item>
+        <item>	GLÓBULOS COMPLEJOS 133	</item>
+        <item>	GLÓBULOS COMPLEJOS 105	</item>
+        <item>	GLÓBULOS COMPLEJOS 156	</item>
+        <item>	GLÓBULOS COMPLEJOS 157	</item>
+        <item>	GLÓBULOS COMPLEJOS 146	</item>
+        <item>	SIMILIA N° 147	</item>
+        <item>	RINOPLEX COMPRIMIDOS 	</item>
+        <item>	GLÓBULOS COMPLEJOS 114	</item>
+        <item>	GLÓBULOS COMPLEJOS 147	</item>
+        <item>	GLÓBULOS SIMPLES C1000	</item>
+        <item>	COFFEA COMPUESTO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	HAMAMELIS COMPUESTO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	IRIS VERS COMPUESTO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	NATRIUM CHOLEINICUM COMPUESTO SOLUCIÓN ORAL  PARA GOTAS	</item>
+        <item>	SABAL SERRULATA COMPUESTO II SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SILICEA COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SIMILIA Nº 148	</item>
+        <item>	LOBELIA COMPUESTA II SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ALFALFA PASSIFLORA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CHINA COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	GRAPHITES COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	NUPHAR LUTEUM COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	NUX VOMICA COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	DAMIANA COMPUESTA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	CINERARIA MARITIMA COMPUESTA SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	GLÓBULOS COMPLEJOS 109	</item>
+        <item>	GLÓBULOS COMPLEJOS 142	</item>
+        <item>	SIMILIA N° 149	</item>
+        <item>	GLÓBULOS COMPLEJOS 160	</item>
+        <item>	GLÓBULOS COMPLEJOS 141	</item>
+        <item>	GLÓBULOS COMPLEJOS 145	</item>
+        <item>	ALFALFA - PASSIFLORA IV SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ALFALFA COMPRIMIDOS	</item>
+        <item>	SIMILIA Nº 150	</item>
+        <item>	ACIDIUM PHOSPORICUM COMPOSITUM SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CASTAÑO COMPUESTO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CRATAEGUS COMPOSITUM SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	IGNATIA COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SIMILIA Nº 151	</item>
+        <item>	PASSIFLORA COMPUESTA SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BLATTA ORIENTALIS COMPUESTO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	FUCUS VESICULOSUS COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	SIMILIA N° 152	</item>
+        <item>	KLIMAKT - HEEL COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	HORMEEL S SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	SPIGELON COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	NERVO - HEEL N COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	SIMILIA Nº 153	</item>
+        <item>	SPASCUPREEL COMPRIMIDOS SUBLINGUALES	</item>
+        <item>	CORYZALIA COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	GRAPHITES-HEELACCORD SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	VIBURCOL SUPOSITORIOS INFANTILES	</item>
+        <item>	SIMILIA Nº 154	</item>
+        <item>	CEMIFUGA COMPUESTA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	STRUMEEL FORTE NF SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	SELENIUM HEELACCORD SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	SIMILIA Nº 155	</item>
+        <item>	Gastricumeel Comprimidos Sublinguales	</item>
+        <item>	HUSTEEL SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	MEDIFORM 67 SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	FITOCALMIN II JARABE	</item>
+        <item>	HOMEOFORTIN V SOLUCIÓN PARA GOTAS	</item>
+        <item>	HEMORROL SUPOSITORIOS	</item>
+        <item>	CARTÍLAGO COMPUESTO COMPRIMIDOS HOMEOPÁTICOS	</item>
+        <item>	ARGENTUM NITRICUM D6 COMPRIMIDOS HOMEOPÁTICOS	</item>
+        <item>	SIMILIA Nº 156	</item>
+        <item>	SILICEA D3 COMPRIMIDOS HOMEOPÁTICOS	</item>
+        <item>	CARTÍLAGO D6 COMPRIMIDOS HOMEOPÁTICOS	</item>
+        <item>	NATRIUM MURIATICUM C200 GLÓBULOS HOMEOPÁTICOS	</item>
+        <item>	SILICEA C200 GLÓBULOS HOMEOPÁTICOS	</item>
+        <item>	INFLUENZINE C 200 GLÓBULOS	</item>
+        <item>	MAGNESIUM COMPUESTO COMPRIMIDOS	</item>
+        <item>	ARNIKADERM GEL 10%	</item>
+        <item>	SIMILIA Nº 157	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES D6	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES D12	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES C30	</item>
+        <item>	SIMILIA Nº 158	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES D30	</item>
+        <item>	GLÓBULOS HOMEOPÁTICOS SIMPLES C200	</item>
+        <item>	BIOACTIV KNOP A, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP D, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP E, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP F, SOLUCIÓN PARA GOTAS ORALES.	</item>
+        <item>	BIOACTIV KNOP H, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP I	</item>
+        <item>	BIOACTIV KNOP L, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP M, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	SIMILIA Nº 160	</item>
+        <item>	BIOACTIV KNOP N, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP O, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP P, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP Q, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP R, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP S, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP V, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BIOACTIV KNOP Z, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ALLIUM CEPA T.M., SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ALLIUM SATIVA TINTURA MADRE	</item>
+        <item>	SUPRADYN ACTIVE COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	SUPRADYN ACTIVE COMPRIMIDOS EFERVECENTES	</item>
+        <item>	EUCARBON COMPRIMIDOS	</item>
+        <item>	EPA OMEGA-3 CÁPSULAS BLANDAS	</item>
+        <item>	CITRO-C COMPRIMIDOS	</item>
+        <item>	ECHINACEA MAS VITAMINA C COMPRIMIDOS	</item>
+        <item>	SUPER EPA CÁPSULAS BLANDAS 1000 mg	</item>
+        <item>	ACEITE DE PESCADO CONCENTRADO CÁPSULAS BLANDAS 1000 mg	</item>
+        <item>	EYKOSACOL CÁPSULAS BLANDAS	</item>
+        <item>	E.P.R. FASA CÁPSULAS BLANDAS 500 mg	</item>
+        <item>	HOMEOPLASMINA POMADA	</item>
+        <item>	POMADA PARA SABAÑONES OMNIA	</item>
+        <item>	CELLTECH CÁPSULAS BLANDAS	</item>
+        <item>	AVENA SATIVA COMPUESTA SOLUCIÓN PARA GOTAS ORALES Nº 19	</item>
+        <item>	SENEGA COMPUESTA SOLUCIÓN PARA GOTAS ORALES Nº 11	</item>
+        <item>	ESCHSCHOLTZIA COMPUESTA SOLUCIÓN PARA GOTAS ORALES Nº 34	</item>
+        <item>	STROPHANTUS COMPUESTO SOLUCIÓN PARA GOTAS ORALES Nº 16	</item>
+        <item>	COLANGIOL SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	PEONIA COMPUESTA SOLUCIÓN PARA GOTAS ORALES Nº 33	</item>
+        <item>	MAGNESIUM PHOSPHORICUM SOLUCIÓN PARA GOTAS ORALES Nº 6	</item>
+        <item>	IGNATIA COMPUESTA SOLUCIÓN PARA GOTAS ORALES Nº 21	</item>
+        <item>	BEKUNIS GRAGEAS	</item>
+        <item>	DELTISAN EMULSIÓN DÉRMICA	</item>
+        <item>	VARIPLEX COMPRIMIDOS	</item>
+        <item>	SEDIBRON JARABE	</item>
+        <item>	SALONPAS - HOT PARCHE DÉRMICO	</item>
+        <item>	GOTAS PECTORALES SOLUCIÓN ORAL	</item>
+        <item>	DROSEMIEL JARABE	</item>
+        <item>	PULMEX ZYMA UNGÜENTO TÓPICO	</item>
+        <item>	Castaño Hamamelis Compuesto Solucion Para Gotas Orales	</item>
+        <item>	MATIKOMP UNGÜENTO TÓPICO	</item>
+        <item>	CIKAVIT CREMA DÉRMICA	</item>
+        <item>	K.C.M.C. COMPRIMIDOS	</item>
+        <item>	JARABE PECTORAL PALTOMIEL ADULTO	</item>
+        <item>	JARABE PECTORAL PALTOMIEL INFANTIL	</item>
+        <item>	RHUS OPODELDOC SOLUCIÓN TÓPICA	</item>
+        <item>	CAPSICUM COMPUESTO N° 2, SOLUCIÓN ORAL PARA GOTAS 	</item>
+        <item>	FITOCALMIN I JARABE	</item>
+        <item>	JARABE EXPECTORANTE CON PALTO CON MIEL ADULTOS	</item>
+        <item>	JARABE EXPECTORANTE CON PALTO CON MIEL INFANTIL	</item>
+        <item>	JARABE DE PALTO COMPUESTO CON MIEL	</item>
+        <item>	JARABE PALTO INFANTIL	</item>
+        <item>	PALTOMIEL PLUS JARABE	</item>
+        <item>	BREPTAL JARABE	</item>
+        <item>	KARAYA C.M.C. CÁPSULAS 	</item>
+        <item>	ALOE - CÁSCARA SAGRADA CÁPSULAS	</item>
+        <item>	MELIPASS CÁPSULAS	</item>
+        <item>	VALUPASS CÁPSULAS	</item>
+        <item>	ALOELAX CÁPSULAS	</item>
+        <item>	CITROMEL SOLUCIÓN ORAL 1.5 mL/5 mL	</item>
+        <item>	ELIXIR DE PASSIFLORA SOLUCIÓN ORAL 1,5 mL/5 mL	</item>
+        <item>	LEFKAFLAM EMULSIÓN TÓPICA	</item>
+        <item>	PULMOSINA JARABE	</item>
+        <item>	NATUSEDIN CÁPSULAS BLANDAS	</item>
+        <item>	SOMINEX CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	TUCSAN JARABE	</item>
+        <item>	ESCAR - T CREMA DÉRMICA 1%	</item>
+        <item>	JARABE ANTITUSIVO CON EXTRACTOS DE ORIGEN NATURAL	</item>
+        <item>	DONG QUAI RAIZ EN POLVO CÁPSULAS 500 mg.	</item>
+        <item>	AMIDALIN SOLUCIÓN BUCAL PARA NEBULIZACIÓN	</item>
+        <item>	TURMERIK CÁPSULAS BLANDAS 420 mg	</item>
+        <item>	TÉ KNOP N°1	</item>
+        <item>	TÉ KNOP N°2	</item>
+        <item>	TÉ KNOP N°3	</item>
+        <item>	TÉ KNOP N°4	</item>
+        <item>	TÉ KNOP N°5	</item>
+        <item>	TÉ KNOP N°6	</item>
+        <item>	TÉ KNOP N°7	</item>
+        <item>	TÉ KNOP N°8	</item>
+        <item>	TÉ KNOP N°9	</item>
+        <item>	TÉ KNOP N°12	</item>
+        <item>	TÉ KNOP N°14	</item>
+        <item>	TÉ KNOP N°16	</item>
+        <item>	TÉ KNOP N°17	</item>
+        <item>	TÉ KNOP N°18	</item>
+        <item>	ECHINACEA ANGUSTIFOLIA CÁPSULAS 300 mg	</item>
+        <item>	MANASUL TE LAXANTE BOLSITA FILTRO PARA INFUSIÓN ORAL 1,386 g	</item>
+        <item>	CHOLAX TABLETAS DE CHOCOLATES	</item>
+        <item>	AVENA SATIVA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CEDRÓN EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ESCHSCHOLTZIA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	HINOJO EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	HUMULUS LUPULUS EXTRACTO FLUIDO	</item>
+        <item>	LLANTÉN EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	MANZANILLA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	TÉ ADELGAZANTE SUPERIOR	</item>
+        <item>	MARRUBIO EXTRACTO FLUIDO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	MATICO, EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	MELISA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	MENTA PIPERITA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	PAICO EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	PASSIFLORA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	PATA DE VACA EXTRACTO FLUIDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	EXTRACTO FLUÍDO PECTORAL SOLUCIÓN PARA GOTAS	</item>
+        <item>	RUDA EXTRACTO FLUIDO SOLUCIÓN	</item>
+        <item>	SALIX EXTRACTO FLUÍDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	TÉ GÁSTRICO SUPERIOR	</item>
+        <item>	SIETE VENAS EXTRACTO FLUÍDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	TRIQUE EXTRACTO FLUIDO SOLUCIÓN	</item>
+        <item>	UVA URSI EXTRACTO FLUÍDO, SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ACEITE DE ÁRNICA SOLUCIÓN OLEOSA	</item>
+        <item>	MEDIKATEE-DIUR HIERBAS PARA INFUSIÓN ORAL EN SOBRES	</item>
+        <item>	MEDIKATEE-PEC HIERBAS PARA INFUSIÓN ORAL SOBRES	</item>
+        <item>	MEDIKATEE-REU HIERBAS PARA INFUSIÓN ORAL	</item>
+        <item>	BEKUNIS PLUS JALEA LAXANTE	</item>
+        <item>	CENTELLA ASIÁTICA CREMA 1 %	</item>
+        <item>	PREPARATION H CLEAR GEL RECTAL 50 % P/P	</item>
+        <item>	TÉ ANTIDIARREICO SUPERIOR 	</item>
+        <item>	SHISSAM CREMA COMPUESTA	</item>
+        <item>	UÑA DE GATO CÁPSULAS 500 mg	</item>
+        <item>	TÉ KNOP N°15	</item>
+        <item>	VALERIANA CÁPSULAS 200 mg	</item>
+        <item>	HAMMAMELIS COMPUESTO LOCIÓN CAPILAR	</item>
+        <item>	CASTAÑO DE INDIAS, CÁPSULAS 340 mg	</item>
+        <item>	CONTRAVARIS CÁPSULAS 100 mg	</item>
+        <item>	ECHINACEA CÁPSULAS BLANDAS 250 mg	</item>
+        <item>	UNCADOL CÁPSULAS 300 mg	</item>
+        <item>	ARMONYL SIN CRATAEGUS CON MANZANILLA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	ARTIC ROOT COMPRIMIDOS 185 mg	</item>
+        <item>	EXTRACTO SECO DE VALERIANA CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	EXTRACTOS SECOS DE VALERIANA, PASSIFLORA, TILO Y MELISA CÁPSULAS BLANDAS	</item>
+        <item>	EXTRACTO SECO DE VALERIANA CÁPSULAS BLANDAS 200 mg	</item>
+        <item>	EXTRACTOS SECOS DE VALERIANA, PASSIFLORA,TILO Y MELISA CÁPSULAS BLANDAS	</item>
+        <item>	CATS CLAW CÁPSULAS 300 mg	</item>
+        <item>	TÉ KNOP N°10	</item>
+        <item>	TÉ KNOP N°11	</item>
+        <item>	TÉ PECTORAL SUPERIOR	</item>
+        <item>	TÉ KNOP N°13	</item>
+        <item>	CIRUELAX SABOR TUTTI FRUTTI JALEA LAXANTE	</item>
+        <item>	CIRUELAX ® FIBRA POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	CIRUELAX  II COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	TÉ ESTOMACAL SUPERIOR	</item>
+        <item>	TANACETUM PARTHENIUM COMPRIMIDOS 100 mg	</item>
+        <item>	VENASTAT CÁPSULAS CON GRÁNULOS RECUBIERTOS DE LIBERACIÓN PROLONGADA 290 mg	</item>
+        <item>	PSYLLIUM CÁPSULAS 500 mg	</item>
+        <item>	ABRILAR COMPRIMIDOS EFERVESCENTES 65 mg	</item>
+        <item>	TÉ DIURÉTICO SUPERIOR	</item>
+        <item>	CARICA PAPAYA COMPRIMIDOS	</item>
+        <item>	COMPRIMIDOS MILLAHUEN	</item>
+        <item>	DURVILLEA UTILIS COMPRIMIDOS	</item>
+        <item>	NASTURTIUM OFFICINALIS T.M. COMPRIMIDOS	</item>
+        <item>	SENECIO HUALTATA COMPRIMIDOS	</item>
+        <item>	SOLANUM TUBEROSUM COMPRIMIDOS	</item>
+        <item>	ÓVULOS CALENDOL	</item>
+        <item>	POMADA DE HAMAMELIS SIMILIA	</item>
+        <item>	SUPOSITORIOS DE HAMAMELIS SIMILIA	</item>
+        <item>	TÉ DE AJENJO COMPUESTO	</item>
+        <item>	TÉ DE ALTEA COMPUESTO	</item>
+        <item>	TÉ DE ARTEMISA COMPUESTO	</item>
+        <item>	TÉ DE BUCHU COMPUESTO	</item>
+        <item>	TÉ DE CEDRÓN COMPUESTO	</item>
+        <item>	GUARANÁ CÁPSULAS 400 mg	</item>
+        <item>	TÉ DE FRÁNGULA COMPUESTO	</item>
+        <item>	TÉ DE GENCIANA COMPUESTO	</item>
+        <item>	TÉ DE MARRUBIO COMPUESTO	</item>
+        <item>	TÉ DE MELISA COMPUESTO	</item>
+        <item>	TÉ DE MILLAHUEN COMPUESTO	</item>
+        <item>	TÉ DE OLIVO COMPUESTO	</item>
+        <item>	TÉ DE SANGUINARIA COMPUESTO	</item>
+        <item>	TÉ DE VIOLETAS COMPUESTO	</item>
+        <item>	TÉ DE ZARZAPARRILLA COMPUESTO	</item>
+        <item>	CALENDOL GOTAS	</item>
+        <item>	CIRUELAX BOLSAS AUTOFILTRANTES PARA INFUSIÓN	</item>
+        <item>	UÑA DE GATO CÁPSULAS 100 mg	</item>
+        <item>	UÑA DE GATO T.M. SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	HORSE CHESTNUT CÁPSULAS 150 mg	</item>
+        <item>	VARIPRO CÁPSULAS	</item>
+        <item>	CASTAÑO DE INDIAS CÁPSULAS 290 mg	</item>
+        <item>	VENOSERIN  CÁPSULAS 100 mg	</item>
+        <item>	CIRUELAX COMPRIMIDOS 500 mg	</item>
+        <item>	VENOSERIN  GEL 1,5%	</item>
+        <item>	CIRUELAX JALEA LAXANTE	</item>
+        <item>	TÉ DE SEN BOLSITA FILTRO PARA INFUSIÓN ORAL 1,5 g	</item>
+        <item>	HARPASUL NUEVA FÓRMULA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	VITIS VINIFERA CÁPSULAS 50 mg	</item>
+        <item>	VIN ROUGE CÁPSULAS 50 mg	</item>
+        <item>	SHAMPOO DE QUASSIA FASA 4%	</item>
+        <item>	BÁLSAMO DE QUASSIA FASA 4% P/P	</item>
+        <item>	BELLADONA SOLUCIÓN ORAL PARA GOTAS 10%	</item>
+        <item>	ALOE FEROX CÁPSULAS 150 mg	</item>
+        <item>	GREEN TEA CÁPSULAS 200 mg	</item>
+        <item>	VITIS VINIFERA CÁPSULAS 50 mg	</item>
+        <item>	ARTHOTABS COMPRIMIDOS RECUBIERTOS 410 mg	</item>
+        <item>	BEKUNIS TE LAXANTE BOLSITA FILTRO PARA INFUSIÓN ORAL 1,5 g	</item>
+        <item>	BEKUNIS INSTANTÁNEO, EXTRACTO SECO	</item>
+        <item>	PHARMALAX CÁPSULAS	</item>
+        <item>	GINSENG KOREANO CÁPSULAS BLANDAS 250 mg	</item>
+        <item>	PYCNOGENOL CÁPSULAS 50 mg	</item>
+        <item>	FLUQUINAX SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	GINSENG ROJO COREANO CÁPSULAS BLANDAS 250 mg	</item>
+        <item>	HARPASUL NUEVA FÓRMULA CÁPSULAS BLANDAS	</item>
+        <item>	PLANTABEN POLVO EFERVESCENTE 3,5 g	</item>
+        <item>	KJ-5 COMPRIMIDOS RECUBIERTOS 160 mg	</item>
+        <item>	VARIMED CÁPSULAS 250 mg	</item>
+        <item>	ALOE FEROX CÁPSULAS 150 mg	</item>
+        <item>	GEALAX COMPRIMIDOS 500 mg	</item>
+        <item>	BILAXIL GRANULADO	</item>
+        <item>	NATURLAX TÉ BOLSITA FILTRO PARA INFUSIÓN ORAL	</item>
+        <item>	K - LAX COMPRIMIDOS RECUBIERTOS 500 mg	</item>
+        <item>	TÉ LAXANTE SOBRES PARA INFUSIÓN	</item>
+        <item>	TINTURA DE VALERIANA AL 20%	</item>
+        <item>	ERBONDA GRAGEAS	</item>
+        <item>	CENTABEL CREMA 1%	</item>
+        <item>	MUCILAX POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	SI - LAX GRANULADO	</item>
+        <item>	HANSAPLAST PARCHE TÉRMICO LEÓN CON CAPSAICINA	</item>
+        <item>	INSTALAX JALEA LAXANTE ORAL	</item>
+        <item>	NATUARTROL JARABE	</item>
+        <item>	ALOE FEROX CÁPSULAS 150 mg	</item>
+        <item>	TINTURA DE VALERIANA	</item>
+        <item>	FORMULA I EXTRACTO FLUIDO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	JUNIPERUS COMPRIMIDOS	</item>
+        <item>	HAMAMELIS SUPOSITORIOS	</item>
+        <item>	AJENJO EXTRACTO FLUIDO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BAILAHUEN EXTRACTO FLUIDO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CALÉNDULA-MATICO EXTRACTO FLUIDO	</item>
+        <item>	CELULASE POLVO DÉRMICO 2%	</item>
+        <item>	FITOTOS JARABE	</item>
+        <item>	BOLDO EXTRACTO FLUIDO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	BORRAJA EXTRACTO FLUIDO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	ACEITE CALÉNDULA - MANZANILLA SOLUCIÓN OLEOSA	</item>
+        <item>	MORERA COMPRIMIDOS	</item>
+        <item>	FAEX MEDICINALIS COMPRIMIDOS	</item>
+        <item>	CICUTA UNGÜENTO TÓPICO	</item>
+        <item>	FORMULA II EXTRACTO FLUIDO SOLUCIÓN PARA GOTAS ORALES	</item>
+        <item>	CELULASE UNGÜENTO TÓPICO 1%	</item>
+        <item>	SEDANTE NATURAL CÁPSULAS BLANDAS	</item>
+        <item>	SEDANTE NATURAL SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	Schizandra Compuesta Comprimidos Recubiertos	</item>
+        <item>	AEROMED JARABE 35 mg/5 mL	</item>
+        <item>	HEDILAR JARABE 35 mg/5 mL	</item>
+        <item>	PSYLLIUM POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	FIBROVATA POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	PARCHE LEÓN ÁRNICA, HANSAPLAST	</item>
+        <item>	METAMUCIL POLVO SABOR NARANJA	</item>
+        <item>	CASSIA ANGUSTIFOLIA GRAGEAS ENTÉRICAS	</item>
+        <item>	HUSTAGIL COMPUESTO UNGÜENTO BALSÁMICO	</item>
+        <item>	METAMUCIL POLVO SABOR LIMÓN	</item>
+        <item>	METAMUCIL POLVO ORAL SABOR FRUTILLA	</item>
+        <item>	HIEDRIX JARABE 35 mg/ 5 mL	</item>
+        <item>	VARIMED GEL 10% P/P	</item>
+        <item>	KALDOR COMPRIMIDOS 500 mg	</item>
+        <item>	COLON PURE  POLVO PARA SUSPENSIÓN  ORAL 99% p/p	</item>
+        <item>	ALOE FEROX CÁPSULAS 150 mg	</item>
+        <item>	SINNAUSIN CÁPSULAS 100 mg	</item>
+        <item>	HUSTAGIL JARABE	</item>
+        <item>	FASENLAX  JALEA LAXANTE SABOR CIRUELA	</item>
+        <item>	VENALEX CÁPSULAS 180 mg	</item>
+        <item>	QUASSIA CHAMPÚ 4 %	</item>
+        <item>	HEBERIN JARABE 35 mg/5 mL	</item>
+        <item>	FLUIDOX JARABE 35 mg/5 mL	</item>
+        <item>	HEDILAR FORTE MIEL LIMÓN JARABE 70 mg/5 mL	</item>
+        <item>	EUCATOL CREMA 3,5	</item>
+        <item>	ABRIELIX JARABE 35 mg/ 5 mL	</item>
+        <item>	SINTOSIN JARABE 35 mg/5 mL	</item>
+        <item>	LYCOPROST CÁPSULAS 300 mg	</item>
+        <item>	SOMINEX PLUS CÁPSULAS BLANDAS	</item>
+        <item>	GH HEPATICAS SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	HEDILAR FT COMPRIMIDOS DE DESINTEGRACIÓN BUCAL 65 mg	</item>
+        <item>	BRONTEC JARABE 35 mg / 5 mL	</item>
+        <item>	CIRUELAX JARABE 0,25% P/V	</item>
+        <item>	PECTOX JARABE 35 mg/5 mL	</item>
+        <item>	ACEITE DE RICINO PURO	</item>
+        <item>	ACEITE DE RICINO SABOR A FRUTILLA	</item>
+        <item>	CIRUELAX JALEA LAXANTE 1% p/p	</item>
+        <item>	DALAY CÁPSULAS	</item>
+        <item>	EXTRACTO SECO Y POLVO DE HOJAS DE CASSIA ANGUSTIFOLIA VAHL Y POLVO DE FRUTOS DE CASSIA ACUTIFOLIA D COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	POLVO DE HOJAS DE CASSIA ANGUSTIFOLIA VAHL JALEA 6,6 %	</item>
+        <item>	CIRUELAX MINITABS COMPRIMIDOS RECUBIERTOS 75 mg	</item>
+        <item>	CIRUELAX ZERO JALEA LAXANTE 1% p/p	</item>
+        <item>	FLUIDOX FORTE JARABE 70 mg/5 mL	</item>
+        <item>	CIRUELAX FORTE COMPRIMIDOS RECUBIERTOS 125 mg	</item>
+        <item>	HEDERA HELIX L. JARABE 35 mg/ 5 mL	</item>
+        <item>	FLEMILAR JARABE 35 mg/ 5 mL	</item>
+        <item>	TOCEX JARABE 35 mg/ 5 mL	</item>
+        <item>	ARMONYL COMPRIMIDOS RECUBIERTOS	</item>
+        <item>	EFECTILAX COMPRIMIDOS RECUBIERTOS 75 mg	</item>
+        <item>	HIEDRIX FORTE JARABE 70 mg/5 mL	</item>
+        <item>	BRONCHICUM JARABE	</item>
+        <item>	ESAMITON JARABE 35 mg/ 5 mL	</item>
+        <item>	MUXELIX JARABE 35 mg/5 mL	</item>
+        <item>	CIRUELAX JALEA LAXANTE 2%	</item>
+        <item>	ACEITE DE AJO CÁPSULAS BLANDAS 0,682 mg	</item>
+        <item>	GLUCOMANNAN CÁPSULAS 500 mg	</item>
+        <item>	ABRILAR JARABE 35 mg/5 mL	</item>
+        <item>	RECALM GRAGEAS	</item>
+        <item>	RECALM CÁPSULAS BLANDAS	</item>
+        <item>	EUROMUCIL SABOR NARANJA POLVO PARA SUSPENSIÓN ORAL	</item>
+        <item>	TRAUMAPLANT CREMA 10% P/P	</item>
+        <item>	MIELAX JARABE 7%	</item>
+        <item>	ACEITE DE RICINO SABOR A MENTA	</item>
+        <item>	CYNARA COMPRIMIDOS	</item>
+        <item>	JUNIPERUS COMPRIMIDOS	</item>
+        <item>	PASSIFLORA COMPRIMIDOS	</item>
+        <item>	CUCURBITA COMPUESTA COMPRIMIDOS	</item>
+        <item>	TARAXACUM COMPUESTO COMPRIMIDOS	</item>
+        <item>	AESCULUS COMPRIMIDOS	</item>
+        <item>	TÉ DE ALEJANDRIA COMPUESTO	</item>
+        <item>	TÉ DE SEN COMPUESTO	</item>
+        <item>	ANGÉLICA COMPRIMIDOS 200 mg	</item>
+        <item>	SCHWEDENBITTER AMARGO SUECO TINTURA SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	UVANOX COMPRIMIDOS 50 mg	</item>
+        <item>	CHISANDRA COMPUESTA COMPRIMIDOS	</item>
+        <item>	ARMONYL CÁPSULAS BLANDAS	</item>
+        <item>	ARMONYL COMPUESTO SOLUCIÓN ORAL PARA GOTAS	</item>
+        <item>	FIBRASOL SABOR A NARANJA POLVO 68%	</item>
+        <item>	ARMONYL SIN CRATAEGUS CON MANZANILLA CÁPSULAS BLANDAS	</item>
+
+    </string-array>
+
+
+</resources>

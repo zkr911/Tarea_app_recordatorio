@@ -124,40 +124,32 @@ public class AgregarHoraActivity extends AppCompatActivity {
                 int dia = calendariofinal.get(Calendar.DAY_OF_MONTH);
                 int mes = calendariofinal.get(Calendar.MONTH);
                 int agno = calendariofinal.get(Calendar.YEAR);
-
                 DatePickerDialog dialog = new DatePickerDialog(AgregarHoraActivity.this,android.R.style.Theme_Holo_Light_Dialog_MinWidth,fechaescuchadortermino,agno,mes,dia);
                 dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
                 dialog.show();
             }
         });
 
-
-
         fechaescuchadortermino = new DatePickerDialog.OnDateSetListener() {
             @Override
             public void onDateSet(DatePicker datePicker, int agno, int mes, int dia) {
                  mes = mes+1;
-
                 String nombreMes = Integer.toString(mes);
                 ConvertirNombreMes(nombreMes);
-
 
                 String datef = dia+" / "+mes+" / "+agno;
 
                 String fechafinal = dia+" / "+nombreMesValido+" / "+agno;
-
-
-
                 String dias = String.valueOf(dia);
-               // String meses = String.valueOf(mes);
+               String meses = String.valueOf(mes);
                 String agnos = String.valueOf(agno);
 
-                if(agno < cal.get(Calendar.YEAR)){
 
+
+                if(agno < cal.get(Calendar.YEAR)){
                     Toast.makeText(AgregarHoraActivity.this,"Error en el año no puede ser  : "+agno,Toast.LENGTH_LONG).show();
                     return;
                 }else if(mes < cal.get(Calendar.MONTH)+1){
-
                     Toast.makeText(AgregarHoraActivity.this,"Error en el mes no puede ser  : "+nombreMesValido,Toast.LENGTH_LONG).show();
                     return;
                 }else if(dia < cal.get(Calendar.DAY_OF_MONTH)){
@@ -170,14 +162,6 @@ public class AgregarHoraActivity extends AppCompatActivity {
         };
 
 
-
-
-
-
-
-
-
-
         btnguardar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -185,18 +169,12 @@ public class AgregarHoraActivity extends AppCompatActivity {
                 String fechai = fechainicio.getText().toString();
                 String fechaf = fechatermino.getText().toString();
                 String alarm = eHora.getText().toString();
-
-
-
                 lista listadatos = new lista(fechaf,fechai,alarm);
                 ActivityMenu.Arraydatos.add(listadatos);
-
                 Intent irMenu = new Intent(AgregarHoraActivity.this,ActivityMenu.class);
                 startActivity(irMenu);
-
             }
         });
-
     }
 
 

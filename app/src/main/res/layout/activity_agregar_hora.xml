@@ -95,7 +95,7 @@
         android:layout_width="234dp"
         android:layout_height="38dp"
         android:layout_marginStart="88dp"
-        android:layout_marginTop="284dp"
+        android:layout_marginTop="320dp"
         android:background="@drawable/button_rounded"
         android:text="Guardar"
         app:layout_constraintStart_toStartOf="parent"

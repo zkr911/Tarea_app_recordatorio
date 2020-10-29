@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class ActivityMenu extends AppCompatActivity {
 
-    private Button btnagregarhora;
+    private Button btnagregarmedicina;
     private  Button btnverhora;
 
    public static ArrayList<lista> Arraydatos = new ArrayList<>();
@@ -20,16 +20,16 @@ public class ActivityMenu extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
-        btnagregarhora = findViewById(R.id.btnagregarhora);
+        btnagregarmedicina = findViewById(R.id.btnagregarmedicina);
         btnverhora = findViewById(R.id.btnverhora);
 
 
-        btnagregarhora.setOnClickListener(new View.OnClickListener() {
+        btnagregarmedicina.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
-Intent verAgregarHora = new Intent(ActivityMenu.this,AgregarHoraActivity.class);
-startActivity(verAgregarHora);
+Intent verAgregarMedicina = new Intent(ActivityMenu.this,ActivityNameMedicamento.class);
+startActivity(verAgregarMedicina);
 
             }
         });
