@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538230603499",
+    "firebase_url": "https://basedatoapp.firebaseio.com",
+    "project_id": "basedatoapp",
+    "storage_bucket": "basedatoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538230603499:android:d05303a86b2565ea5248ae",
+        "android_client_info": {
+          "package_name": "com.nilson.apptres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538230603499-fl7f25aq1lc2adao5la8qh16a3vkshp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nilson.apptres",
+            "certificate_hash": "43b8ee012fdc15cd780a89b78c635754eb7535cf"
+          }
+        },
+        {
+          "client_id": "538230603499-3h8g8khnanos4vqj5ncmgu1lo78f2uep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPNifRsdD3v1UQBUBoRER3GI7s6azJ3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538230603499-3h8g8khnanos4vqj5ncmgu1lo78f2uep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,7 @@
 package com.nilson.apptres;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -14,6 +16,11 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.nilson.apptres.entidades.Usuario;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -24,6 +31,11 @@ public class ActivityFormulario extends AppCompatActivity {
     RadioButton rbmasculino,rbfemenino;
     Button btnenviar;
     RadioGroup rggeneros;
+
+
+    private FirebaseDatabase database;
+    private DatabaseReference reference;
+
 
 
 
@@ -298,22 +310,64 @@ public class ActivityFormulario extends AppCompatActivity {
         btnenviar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                //conectar a la base de dato
+                //cuando se aprete el boton enviar.
+                conectarFirebase();
+
+                String nombre = txtnombre.getText().toString();
+                String apellido = txtapellido.getText().toString();
+                int gen = rggeneros.getCheckedRadioButtonId();
+                String genero = Integer.valueOf(gen).toString();
+                String email = txtemail.getText().toString();
+
+                String telefo = txttelefono.getText().toString();
+                int telefono = Integer.parseInt(telefo);
+
+                String pass = txtpassdos.getText().toString();
+
+            Usuario persona = new Usuario(nombre,apellido,genero,email,telefono,pass);
+
+                agregarusuario(persona);
 
                 Intent IrMenu = new Intent(ActivityFormulario.this,MainActivity.class);
                 startActivity(IrMenu);
-
-
-
-
-
-
 
             }
         });
 
 
+    }
+
+
+
+    public void conectarFirebase(){
+
+        database = FirebaseDatabase.getInstance();
+        reference = database.getReference();
+        if(reference != null){
+            Toast.makeText(this,"conectado a firebase",Toast.LENGTH_SHORT).show();
+
+        }
 
     }
+
+
+
+
+    public void agregarusuario(Usuario usuario){
+       reference.child("Usuario").push().setValue(usuario, new DatabaseReference.CompletionListener() {
+           @Override
+           public void onComplete(@Nullable DatabaseError databaseError, @NonNull DatabaseReference databaseReference) {
+            Toast.makeText(ActivityFormulario.this,"Usuario Agregado",Toast.LENGTH_SHORT).show();
+
+           }
+       });
+
+
+    }
+
+
+
 
 
 

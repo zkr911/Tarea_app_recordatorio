@@ -35,5 +35,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnagregarmedicina" />
 
+    <Button
+        android:id="@+id/btnubicacion"
+        android:layout_width="217dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="96dp"
+
+        android:layout_marginTop="141dp"
+        android:background="@drawable/button_rounded"
+        android:text="Ver ubicaciones"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnverhora" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
