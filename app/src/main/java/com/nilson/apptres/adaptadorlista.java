@@ -52,12 +52,16 @@ public class adaptadorlista extends RecyclerView.Adapter<adaptadorlista.ViewHold
 
         TextView textViewfechainicial,textViewfechatermino,textViewhora;
 
+        TextView textViewmedicamento;
+
         public ViewHolderDatos(@NonNull View itemView) {
             super(itemView);
 
             textViewfechainicial = itemView.findViewById(R.id.textViewfechainicial);
             textViewfechatermino = itemView.findViewById(R.id.textViewfechatermino);
             textViewhora = itemView.findViewById(R.id.textViewhora);
+
+            textViewmedicamento = itemView.findViewById(R.id.textViewmedicamento);
 
 
         }
@@ -67,6 +71,8 @@ public class adaptadorlista extends RecyclerView.Adapter<adaptadorlista.ViewHold
             textViewfechainicial.setText(informacionDatos.getFechainicial());
             textViewfechatermino.setText(informacionDatos.getFechafinal());
             textViewhora.setText(informacionDatos.getAlarma());
+
+            textViewmedicamento.setText(informacionDatos.getNmedicamento());
         }
 
     }

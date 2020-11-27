@@ -2,8 +2,10 @@ package com.nilson.apptres;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.AlarmManager;
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -29,6 +31,9 @@ public class AgregarHoraActivity extends AppCompatActivity {
     private Button btnguardar;
 
     private String nombreMesValido;
+
+   // ActivityNameMedicamento nombre = new ActivityNameMedicamento();
+   // String nombremedicamento = nombre.autocompletmedicamento.getText().toString();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -169,14 +174,22 @@ public class AgregarHoraActivity extends AppCompatActivity {
                 String fechai = fechainicio.getText().toString();
                 String fechaf = fechatermino.getText().toString();
                 String alarm = eHora.getText().toString();
-                lista listadatos = new lista(fechaf,fechai,alarm);
+
+                //donde recibimos el nombre del medicamento con Bundle
+                Bundle extras = getIntent().getExtras();
+                String nombremed = extras.getString("Nombremedi");
+
+                //la lista donde colocaremos los datos para el recyclerview
+                lista listadatos = new lista(fechaf,fechai,alarm,nombremed);
                 ActivityMenu.Arraydatos.add(listadatos);
+
+                //Toast.makeText(AgregarHoraActivity.this,"nombre medicina : "+nombremed,Toast.LENGTH_SHORT).show();
+
                 Intent irMenu = new Intent(AgregarHoraActivity.this,ActivityMenu.class);
                 startActivity(irMenu);
             }
         });
     }
-
 
 
 

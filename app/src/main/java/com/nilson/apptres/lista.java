@@ -8,17 +8,30 @@ public class lista {
     String fechainicial;
     String alarma;
 
+    String nmedicamento;
 
+    public lista(String fechafinal, String fechainicial, String alarma, String nmedicamento) {
+        this.fechafinal = fechafinal;
+        this.fechainicial = fechainicial;
+        this.alarma = alarma;
+        this.nmedicamento = nmedicamento;
+    }
 
+    public String getNmedicamento() {
+        return nmedicamento;
+    }
+
+    public void setNmedicamento(String nmedicamento) {
+        this.nmedicamento = nmedicamento;
+    }
 
     public lista(String fechafinal, String fechainicial, String alarma) {
         this.fechafinal = fechafinal;
         this.fechainicial = fechainicial;
         this.alarma = alarma;
+
     }
 
-    public lista() {
-    }
 
 
     public String getFechafinal() {

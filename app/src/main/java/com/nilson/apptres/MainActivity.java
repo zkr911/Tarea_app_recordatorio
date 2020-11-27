@@ -16,22 +16,28 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 import com.nilson.apptres.entidades.Usuario;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    //variable a utilizar
     EditText txtemail,txtpass;
     Button btningresar,btnregistrar;
 
+    //conectado a firebase
     private FirebaseDatabase database;
     private DatabaseReference reference;
 
-    ArrayList<Usuario> arrayListUsuario;
-    Usuario usuario;
+      static   Usuario usuario;
+
+
+    String correo;
+    String pass;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
         btningresar = findViewById(R.id.btningresar);
         btnregistrar = findViewById(R.id.btnregistrar);
+        conectarFirebase();
 
 
 
@@ -56,18 +63,39 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+            reference.child("Usuario").addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                    for(DataSnapshot snapdato : dataSnapshot.getChildren()){
+                        usuario = snapdato.getValue(Usuario.class);
+                        if(usuario.getCorreo().equals(txtemail.getText().toString())){
+
+                            if(usuario.getPassword().equals(txtpass.getText().toString())){
+                                Toast.makeText(MainActivity.this, "Bienvenido", Toast.LENGTH_SHORT).show();
+                                Intent enviaralregistro = new Intent(MainActivity.this,ActivityMenu.class);
+                                startActivity(enviaralregistro);
+                            }else{
+                                Toast.makeText(MainActivity.this, "Login incorrecto", Toast.LENGTH_SHORT).show();
+                            }
+
+                        }else{
+                            Toast.makeText(MainActivity.this, "Error correo no existe", Toast.LENGTH_SHORT).show();
+                        }
+
+                    }
+
+                }
+
+                @Override
+                public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                }
+            });
 
 
 
-                //conectarFirebase();
-                //verificar();
 
 
-
-
-
-            Intent enviaralregistro = new Intent(MainActivity.this,ActivityMenu.class);
-            startActivity(enviaralregistro);
 
 
             }
@@ -111,12 +139,81 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
+    public void verificarusuario(){
+
+          //usercorreo = txtemail.getText().toString().trim();
+         // userpass = txtpass.getText().toString().trim();
+
+        reference.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+
+                //String user = dataSnapshot.child("correo").getValue().toString();
+                //String pass = dataSnapshot.child("password").getValue().toString();
+
+
+               // if(usercorreo.equals(usuario.getCorreo()) & userpass.equals(usuario.getPassword())){
+
+                    Intent enviaralregistro = new Intent(MainActivity.this,ActivityMenu.class);
+                    startActivity(enviaralregistro);
+
+              //  }else{
+
+
+                    Toast.makeText(MainActivity.this, "Login incorrecto", Toast.LENGTH_SHORT).show();
+
+               // }
+
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+
+            }
+        });
+
+
+
+    }
+
+
+
+
+
+
+
+
+
     public void verificar(){
         reference.child("Usuario").addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                //arrayListUsuario.clear();
 
-            //consultar a la base de datos si el string txtcorreo aparece en la base de datos
+                for(DataSnapshot dato : dataSnapshot.getChildren()){
+
+                   // usuario = dataSnapshot.getValue(Usuario.class);
+
+                   // String correobd = dato.child("correo").getValue(String.class);
+                    //String correobd =   usuario.getCorreo();
+                // String pass = usuario.getPassword();
+                    //cosa.add(correobd);
+
+                    String correomenu = txtemail.getText().toString();
+
+                   // Query useremail = reference.orderByChild(usuario.getCorreo()).equalTo(correomenu).limitToFirst(1);
+
+
+
+
+                   // Toast.makeText(MainActivity.this,"Correos : "+useremail,Toast.LENGTH_SHORT).show();
+
+
+                }
+
 
 
 
@@ -126,6 +223,8 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onCancelled(@NonNull DatabaseError databaseError) {
+
+              //  Toast.makeText(MainActivity.this,"Correos : ERROR "+usuario,Toast.LENGTH_SHORT).show();
 
             }
         });

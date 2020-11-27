@@ -43,7 +43,7 @@
 
         android:layout_marginTop="141dp"
         android:background="@drawable/button_rounded"
-        android:text="Ver ubicaciones"
+        android:text="Ver Cesfam y Hospital"
         android:textColor="@android:color/background_dark"
         android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"

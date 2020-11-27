@@ -15,6 +15,7 @@ public class ActivityNameMedicamento extends AppCompatActivity {
 
 
     Button btnsiguiente;
+    String nombremedicamento;
 
 AutoCompleteTextView autocompletmedicamento;
 
@@ -22,13 +23,10 @@ AutoCompleteTextView autocompletmedicamento;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_name_medicamento);
-
         autocompletmedicamento = findViewById(R.id.autocompletmedicamento);
         btnsiguiente = findViewById(R.id.btnsiguiente);
-
         String[] medicamentos = getResources().getStringArray(R.array.medicamentos);
-
-        AutoCompleteTextView autocompletado = findViewById(R.id.autocompletmedicamento);
+        final AutoCompleteTextView autocompletado = findViewById(R.id.autocompletmedicamento);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,medicamentos);
         autocompletado.setAdapter(adapter);
 
@@ -41,11 +39,12 @@ btnsiguiente.setOnClickListener(new View.OnClickListener() {
     public void onClick(View view) {
 
 
-        String nombremedicamento = autocompletmedicamento.getText().toString();
+        nombremedicamento = autocompletado.getText().toString();
 
         Toast.makeText(ActivityNameMedicamento.this,"Medicina ingresada  : "+ nombremedicamento,Toast.LENGTH_SHORT).show();
 
         Intent VerAgregarHora = new Intent(ActivityNameMedicamento.this,AgregarHoraActivity.class);
+        VerAgregarHora.putExtra("Nombremedi",nombremedicamento);
         startActivity(VerAgregarHora);
 
     }
