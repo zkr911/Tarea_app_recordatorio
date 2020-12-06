@@ -149,7 +149,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="130dp"
                 android:layout_marginTop="40dp"
-                android:background="@drawable/button_rounded"
+                android:background="@drawable/boton_negro"
                 android:text="Registrar"
                 android:textColor="@android:color/background_dark" />
 

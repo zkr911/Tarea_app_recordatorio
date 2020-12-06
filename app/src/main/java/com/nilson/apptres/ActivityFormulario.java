@@ -16,9 +16,11 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
+import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 import com.nilson.apptres.entidades.Usuario;
 
 import java.util.regex.Matcher;
@@ -77,21 +79,20 @@ public class ActivityFormulario extends AppCompatActivity {
                 String nombre = txtnombre.getText().toString();
 
                 if(nombre.trim().length()==0) {
-                    Toast.makeText(ActivityFormulario.this, "No ingreso nombre", Toast.LENGTH_SHORT).show();
+                    Alert("NO ingreso nombre");
                     txtapellido.setEnabled(false);
                     return;
                 }else if( nombre.trim().length() < 2){
-                    Toast.makeText(ActivityFormulario.this,"El nombre es muy corto",Toast.LENGTH_SHORT).show();
+                    Alert("Nombre es muy corto");
                     txtnombre.setError("Invalido");
                     return;
                 }else if(nombre.trim().length() > 15){
-                    Toast.makeText(ActivityFormulario.this,"El nombre es muy largo",Toast.LENGTH_SHORT).show();
+                    Alert("Nombre es muy largo");
                     txtnombre.setError("Invalido");
                     return;
                 }else{
-                    Toast.makeText(ActivityFormulario.this,"Nombre Valido",Toast.LENGTH_SHORT).show();
+                    Alert("Nombre valido");
                     txtapellido.setEnabled(true);
-
                     return;
                 }
             }
@@ -117,24 +118,24 @@ public class ActivityFormulario extends AppCompatActivity {
                 txtnombre.setText(txtnombre.getText().toString().replace(" ","").trim());
 
                 if(charSequence.length() == 0){
-                    Toast.makeText(ActivityFormulario.this,"No ingreso Apellido",Toast.LENGTH_SHORT).show();
+                    Alert("No ingreso Apellido");
                     rbmasculino.setEnabled(false);
                     rbfemenino.setEnabled(false);
 
                 }else if(charSequence.length() < 3){
-                    Toast.makeText(ActivityFormulario.this,"El Apellido es muy corto",Toast.LENGTH_SHORT).show();
+                    Alert("Apellido es muy corto");
                     rbmasculino.setEnabled(false);
                     rbfemenino.setEnabled(false);
                     txtapellido.setError("Invalido");
                     return;
                 }else if(charSequence.length() > 20){
-                    Toast.makeText(ActivityFormulario.this,"El Apellido es muy largo",Toast.LENGTH_SHORT).show();
+                    Alert("Apellido es muy largo");
                     rbmasculino.setEnabled(false);
                     rbfemenino.setEnabled(false);
                     txtapellido.setError("Invalido");
                     return;
                 }else{
-                    Toast.makeText(ActivityFormulario.this,"Apellido Valido",Toast.LENGTH_SHORT).show();
+                    Alert("Apellido Valido");
                     rbmasculino.setEnabled(true);
                     rbfemenino.setEnabled(true);
                 }
@@ -152,10 +153,10 @@ public class ActivityFormulario extends AppCompatActivity {
             public void onCheckedChanged(RadioGroup radioGroup, int i) {
                 txtapellido.setText(txtapellido.getText().toString().trim());
                 if(i == R.id.rbmasculino){
-                    Toast.makeText(ActivityFormulario.this,"Selecciono Masculino",Toast.LENGTH_SHORT).show();
+                    Alert("Selecciono Masculino");
                     txtemail.setEnabled(true);
                 }else{
-                    Toast.makeText(ActivityFormulario.this,"Selecciono Femenino",Toast.LENGTH_SHORT).show();
+                    Alert("Selecciono Femenino");
                     txtemail.setEnabled(true);
                 }
             }
@@ -175,24 +176,22 @@ public class ActivityFormulario extends AppCompatActivity {
            String email = txtemail.getText().toString().trim();
             if(email.isEmpty()){
                 txtemail.setError("Invalido");
-                Toast.makeText(ActivityFormulario.this,"Complete el email",Toast.LENGTH_SHORT).show();
+                Alert("Complete el Email");
                 txttelefono.setEnabled(false);
                 return;
             }else if(!Patterns.EMAIL_ADDRESS.matcher(email).matches()){
                 txtemail.setError("Invalido");
-                Toast.makeText(ActivityFormulario.this,"Complete el email",Toast.LENGTH_SHORT).show();
+                Alert("Complete el email");
                 txttelefono.setEnabled(false);
                 return;
             }else{
                 txtemail.setError(null);
                 txttelefono.setEnabled(true);
-                Toast.makeText(ActivityFormulario.this,"Email valido",Toast.LENGTH_SHORT).show();
+                Alert("Email valido");
             }
         }
-
         @Override
         public void afterTextChanged(Editable editable) {
-
         }
         });
 
@@ -209,22 +208,22 @@ public class ActivityFormulario extends AppCompatActivity {
             public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
                 txtemail.setText(txtemail.getText().toString().trim());
                 if(charSequence.length() == 0){
-                    Toast.makeText(ActivityFormulario.this,"No ingreso telefono",Toast.LENGTH_SHORT).show();
+                    Alert("NO ingreso telefono");
                     txtpassuno.setEnabled(false);
                     return;
                 }
                 else if(charSequence.length() < 7){
-                    Toast.makeText(ActivityFormulario.this,"Telefono no valido",Toast.LENGTH_SHORT).show();
+                    Alert("Telefono no valido");
                     txttelefono.setError("Invalido");
                     txtpassuno.setEnabled(false);
                     return;
                 }else if(charSequence.length() > 10){
-                    Toast.makeText(ActivityFormulario.this,"Telefono no valido",Toast.LENGTH_SHORT).show();
+                    Alert("Telefono no valido");
                     txttelefono.setError("Invalido");
                     txtpassuno.setEnabled(false);
                     return;
                 }else{
-                    Toast.makeText(ActivityFormulario.this,"Telefono valido",Toast.LENGTH_SHORT).show();
+                    Alert("Telefono Valido");
                     txtpassuno.setEnabled(true);
                     return;
                 }
@@ -243,30 +242,25 @@ public class ActivityFormulario extends AppCompatActivity {
                 }
                 @Override
                 public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
                     if(charSequence.length()==0){
-                        Toast.makeText(ActivityFormulario.this,"no ingreso contraseña",Toast.LENGTH_SHORT).show();
+                        Alert("NO ingreso contraseña");
                         return;
-
                     }else if(charSequence.length() < 5){
-                        Toast.makeText(ActivityFormulario.this,"Contraseña muy corta",Toast.LENGTH_SHORT).show();
+                        Alert("Contraseña muy corta");
                         txtpassuno.setError("Invalida");
                         return;
-
                     }else if(charSequence.length() >10){
-                        Toast.makeText(ActivityFormulario.this,"Contraseña muy larga",Toast.LENGTH_SHORT).show();
+                        Alert("Contraseña muy larga");
                         txtpassuno.setError("Invalida");
                         return;
                     }else{
-                        Toast.makeText(ActivityFormulario.this,"Contraseña valida",Toast.LENGTH_SHORT).show();
+                        Alert("Contraseña valida");
                         txtpassdos.setEnabled(true);
                         return;
                     }
                 }
-
                 @Override
                 public void afterTextChanged(Editable editable) {
-
                 }
             });
 
@@ -275,30 +269,24 @@ public class ActivityFormulario extends AppCompatActivity {
             txtpassdos.addTextChangedListener(new TextWatcher() {
                 @Override
                 public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
                 }
-
                 @Override
                 public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
                     String passworduno=txtpassuno.getText().toString();
                     String passworddos = txtpassdos.getText().toString();
-
                     if(passworduno.trim().equals(passworddos.trim())){
-                        Toast.makeText(ActivityFormulario.this,"Contraseña valida",Toast.LENGTH_SHORT).show();
+                        Alert("Contraseña valida");
                         btnenviar.setEnabled(true);
                         return;
                     }else{
-                        Toast.makeText(ActivityFormulario.this,"Contraseña no es igual",Toast.LENGTH_SHORT).show();
+                        Alert("Contraseña no es igual");
                         btnenviar.setEnabled(false);
                         txtpassdos.setError("Error");
                         return;
                     }
                 }
-
                 @Override
                 public void afterTextChanged(Editable editable) {
-
                 }
             });
 
@@ -313,42 +301,30 @@ public class ActivityFormulario extends AppCompatActivity {
                 //conectar a la base de dato
                 //cuando se aprete el boton enviar.
                 conectarFirebase();
-
                 String nombre = txtnombre.getText().toString();
                 String apellido = txtapellido.getText().toString();
                 int gen = rggeneros.getCheckedRadioButtonId();
                 String genero = Integer.valueOf(gen).toString();
                 String email = txtemail.getText().toString();
-
                 String telefo = txttelefono.getText().toString();
                 int telefono = Integer.parseInt(telefo);
-
                 String pass = txtpassdos.getText().toString();
-
-            Usuario persona = new Usuario(nombre,apellido,genero,email,telefono,pass);
-
+                Usuario persona = new Usuario(nombre,apellido,genero,email,telefono,pass);
                 agregarusuario(persona);
-
                 Intent IrMenu = new Intent(ActivityFormulario.this,MainActivity.class);
                 startActivity(IrMenu);
-
             }
         });
-
-
     }
 
 
 
     public void conectarFirebase(){
-
         database = FirebaseDatabase.getInstance();
         reference = database.getReference();
         if(reference != null){
-            Toast.makeText(this,"conectado a firebase",Toast.LENGTH_SHORT).show();
-
+            Alert("Conectado a FireBase");
         }
-
     }
 
 
@@ -358,15 +334,17 @@ public class ActivityFormulario extends AppCompatActivity {
        reference.child("Usuario").push().setValue(usuario, new DatabaseReference.CompletionListener() {
            @Override
            public void onComplete(@Nullable DatabaseError databaseError, @NonNull DatabaseReference databaseReference) {
-            Toast.makeText(ActivityFormulario.this,"Usuario Agregado",Toast.LENGTH_SHORT).show();
-
+            Alert("Usuario Agregado");
            }
        });
-
-
     }
 
 
+
+
+    public void Alert(String mensaje){
+        Toast.makeText(ActivityFormulario.this,mensaje,Toast.LENGTH_SHORT).show();
+    }
 
 
 

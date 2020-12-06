@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:app="http://schemas.android.com/apk/res-auto"
-xmlns:tools="http://schemas.android.com/tools"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
-   >
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="80dp"
+        android:layout_marginStart="81dp"
         android:layout_marginTop="28dp"
         android:text="Fecha inicial :"
         android:textColor="@android:color/background_dark"
+        android:visibility="visible"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -45,7 +44,7 @@ android:layout_height="match_parent"
         android:id="@+id/textViewfechainicial"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
+        android:layout_marginStart="23dp"
         android:layout_marginTop="28dp"
         android:text="TextView"
         android:textColor="@android:color/background_dark"
@@ -56,7 +55,7 @@ android:layout_height="match_parent"
         android:id="@+id/textViewfechatermino"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
+        android:layout_marginStart="23dp"
         android:layout_marginTop="20dp"
         android:text="TextView"
         android:textColor="@android:color/background_dark"
@@ -67,7 +66,7 @@ android:layout_height="match_parent"
         android:id="@+id/textViewhora"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
+        android:layout_marginStart="23dp"
         android:layout_marginTop="20dp"
         android:text="TextView"
         android:textColor="@android:color/background_dark"
@@ -79,7 +78,7 @@ android:layout_height="match_parent"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="75dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="15dp"
         android:text="Medicamento:"
         android:textColor="@color/common_google_signin_btn_text_dark_focused"
         app:layout_constraintStart_toStartOf="parent"
@@ -89,10 +88,29 @@ android:layout_height="match_parent"
         android:id="@+id/textViewmedicamento"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="26dp"
-        android:layout_marginTop="18dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="19dp"
         android:text="TextView"
         android:textColor="@color/common_google_signin_btn_text_dark_focused"
         app:layout_constraintStart_toEndOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textViewhora" />
+
+    <Button
+        android:id="@+id/btndelete"
+        android:layout_width="109dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="189dp"
+        android:layout_marginTop="9dp"
+        android:background="@drawable/button_rounded_border_delete"
+        android:text="Borrar"
+        android:textColor="#FF0000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewmedicamento" />
+
+    <androidx.constraintlayout.widget.Group
+        android:id="@+id/group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

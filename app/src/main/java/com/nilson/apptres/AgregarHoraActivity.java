@@ -1,11 +1,9 @@
 package com.nilson.apptres;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.app.AlarmManager;
+import androidx.work.Data;
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -19,6 +17,7 @@ import android.widget.Toast;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.UUID;
 
 public class AgregarHoraActivity extends AppCompatActivity {
 
@@ -27,13 +26,23 @@ public class AgregarHoraActivity extends AppCompatActivity {
     private TextView fechainicio,fechatermino;
     private DatePickerDialog.OnDateSetListener fechaescuchadorinicio,fechaescuchadortermino;
     private TextView eHora;
+
     private int hora,minutos;
+    private int anio, mes, dia;
+
+    Calendar actual = Calendar.getInstance();
+
+    Calendar calendar = Calendar.getInstance();
+
+
+    Calendar calendarioinicial = Calendar.getInstance();
+    Calendar calendariofinal = Calendar.getInstance();
+
+
     private Button btnguardar;
 
     private String nombreMesValido;
 
-   // ActivityNameMedicamento nombre = new ActivityNameMedicamento();
-   // String nombremedicamento = nombre.autocompletmedicamento.getText().toString();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,6 +60,7 @@ public class AgregarHoraActivity extends AppCompatActivity {
         eHora.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 final Calendar calendar = Calendar.getInstance();
                 hora=calendar.get(Calendar.HOUR_OF_DAY);
                 minutos = calendar.get(Calendar.MINUTE);
@@ -58,6 +68,9 @@ public class AgregarHoraActivity extends AppCompatActivity {
                     @Override
                     public void onTimeSet(TimePicker timePicker, int horadeldia, int min) {
                         eHora.setText("    "+horadeldia + ":" + min+" hrs");
+                        //seagrego esto
+                        calendar.set(Calendar.HOUR_OF_DAY,horadeldia);
+                        calendar.set(Calendar.MINUTE,min);
                     }
                 },hora,minutos,false);
                 timePickerDialog.show();
@@ -76,7 +89,7 @@ public class AgregarHoraActivity extends AppCompatActivity {
         fechainicio.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Calendar calendarioinicial = Calendar.getInstance();
+               // Calendar calendarioinicial = Calendar.getInstance();
                 int dia = calendarioinicial.get(Calendar.DAY_OF_MONTH);
                 int mes = calendarioinicial.get(Calendar.MONTH);
                 int agno = calendarioinicial.get(Calendar.YEAR);
@@ -113,6 +126,9 @@ public class AgregarHoraActivity extends AppCompatActivity {
                 String datei = dia+" / "+mes+" / "+agno;
                 fechainicio.setText("   "+datei);
                 //Toast.makeText(AgregarHoraActivity.this,"Fecha inicio"+datei,Toast.LENGTH_LONG).show();
+                calendar.set(Calendar.DAY_OF_MONTH,dia);
+                calendar.set(Calendar.MONTH,mes);
+                calendar.set(Calendar.YEAR,agno);
 
                 Toast.makeText(AgregarHoraActivity.this,"Fecha Inicio : "+dia+" / "+nombreMesValido+" / "+agno,Toast.LENGTH_LONG).show();
 
@@ -125,7 +141,7 @@ public class AgregarHoraActivity extends AppCompatActivity {
         fechatermino.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Calendar calendariofinal = Calendar.getInstance();
+               // Calendar calendariofinal = Calendar.getInstance();
                 int dia = calendariofinal.get(Calendar.DAY_OF_MONTH);
                 int mes = calendariofinal.get(Calendar.MONTH);
                 int agno = calendariofinal.get(Calendar.YEAR);
@@ -167,6 +183,12 @@ public class AgregarHoraActivity extends AppCompatActivity {
         };
 
 
+
+
+
+
+
+
         btnguardar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -185,15 +207,40 @@ public class AgregarHoraActivity extends AppCompatActivity {
 
                 //Toast.makeText(AgregarHoraActivity.this,"nombre medicina : "+nombremed,Toast.LENGTH_SHORT).show();
 
+
+
+
+                String tag = generatekey();
+
+               // Long Alertime = calendar.getTimeInMillis() - System.currentTimeMillis();
+                Long Alerttime = calendar.getTimeInMillis() - System.currentTimeMillis();
+                int random = (int)(Math.random()*50+1);
+                Data data = guardardata("Recuerda Facil uwu","Detalle : "+nombremed,random);
+                Workmanagernot.guardarnoti(Alerttime,data,tag);
+                Toast.makeText(AgregarHoraActivity.this,"Alarma Guardada",Toast.LENGTH_SHORT).show();
+
+
+
                 Intent irMenu = new Intent(AgregarHoraActivity.this,ActivityMenu.class);
                 startActivity(irMenu);
+
             }
         });
     }
 
 
+    private String generatekey(){
+        return UUID.randomUUID().toString();
+
+    }
 
 
+
+    private Data guardardata(String titulo,String detalle, int id){
+
+        return new Data.Builder().putString("Titulo",titulo).putString("Detalle",detalle).putInt("id",id).build();
+
+    }
 
 
 
